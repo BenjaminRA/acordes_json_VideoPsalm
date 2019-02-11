@@ -1,0 +1,2024 @@
+﻿{VersionDate:"20150516",Items:[{
+Key:1,Text:"Lithuanian (Lithuania)"},{
+Key:1000000,Text:"Vertimas"},{
+Key:1000001,Text:"ne."},{
+Key:1000003,Text:"&Pridėti..."},{
+Key:1000004,Text:"Pridėti vieną ar daugiau kalbų VideoPsalm"},{
+Key:1000006,Text:"&Siųsti"},{
+Key:1000007,Text:"Etikečių siųsti elektroniniu paštu VideoPsalm į kitą nustatymas"},{
+Key:1000009,Text:"&Taikyti"},{
+Key:1000011,Text:"&Įrašyti"},{
+Key:1000012,Text:"Taikomos pasirinktos VideoPsalm kalbos. Keitimai įrašomi automatiškai iš anksto."},{
+Key:1000013,Text:"Įrašyti keitimus į etiketes"},{
+Key:1000015,Text:"&Naikinti"},{
+Key:1000016,Text:"VideoPsalm naikinti pasirinktą kalbą ir visas savo etiketes"},{
+Key:1000022,Text:"&{0} išreikšti:"},{
+Key:1000024,Text:"&Kalbos:"},{
+Key:1000029,Text:"Įrašų kompanijose"},{
+Key:1000030,Text:"Etiketes labai pasikeitė.
+
+Norite įrašyti šiuos keitimus?"},{
+Key:1000031,Text:"Pašalinti kalba"},{
+Key:1000032,Text:"Ar tikrai norite panaikinti {0} kalba apie VideoPsalm?
+
+Ši operacija panaikins visus šios kalbos tekstai ir yra negrįžtamas."},{
+Key:1000035,Text:"VideoPsalm kalbama apie sukurti suspausto failus su plėtiniu .zip
+su jų atitinkamomis kalbomis etikečių.
+Pridėti atitinkamą failo į elektroninio pašto adresą, kad pasirodo, tada rašyti šį laišką videopsalm@gmail.com."},{
+Key:1000036,Text:"Siųsti el. pašto etiketes"},{
+Key:1000037,Text:"<b>\"Vertimas\" lange, galite redaguoti tekstai, kurie rodomi formos VideoPsalm.</b>
+Tai leidžia jums versti, pritaikyti arba ištaisyti bet teksto sąsaja, VideoPsalm, ir VideoPsalm net.
+
+<i>Jei ši sudedamoji dalis užima per daug vietos, sumažinti jį spustelėjus mažos mažinimo mygtuką, esantį viršuje kairėje, arba keisti pelės su horizontalų skyriklį.</i>
+
+VideoPsalm pateikiama keliomis kalbomis. VideoPsalm kalbos yra išvardytos skyde žemiau į kairįjį pavadinimu \"kalbos\".
+Jei jūsų kalba nėra šiame sąraše, galite čia, išversti VideoPsalm į savo kalbą. Atkreipkite dėmesį, kad tai tikriausiai bus kelias valandas darbo.
+
+Štai kaip, kad VideoPsalm jūsų kalba:
+
+-Pridėti kalbą į sąrašo pasirenkant tarp tų, kurie jums bus rasti per mygtuką \"pridėti <image=add2_16>\".
+-Toliau pateiktoje lentelėje dešinėje, VideoPsalm rodo patikrinti kalbų etiketes.
+-Išversti savo kalbą etikečių.
+
+Lentelės, galite redaguoti etiketės at your Laisvalaikis, kaip Excel skaičiuoklės.
+Lentelės siūlo paieškos laukelis. Taigi, parodyti tik etiketės su tam tikrais žodžiais, ieškos lauke įveskite šiuos žodžius ir spustelėkite mygtuką \"ieškoti\".
+Taip pat galite naudoti filtro įsikūręs srityje pagal kiekvienos antraštės kalbos filtruoti etiketes, kurių sudėtyje yra tam tikrų specifinių žodžių kalba.
+
+Norėdami palengvinti jūsų darbą, pasirinkite vieną ar daugiau kitų kalbų, jūs žinote, kad geriau suprasti kiekvienos etiketės ir sugebėti skaityti keliomis kalbomis vienu metu.
+Patikrinti komentarus, nes jie leidžia geriau suprasti tam tikrų ženklų svarbą ir kur jie naudojami.
+
+<b>Pastaba:</b> Tai geriausia palikti komentarus anglų kalba, nes daugelis žmonių supranta angliškai.
+
+Norėdami pamatyti jūsų vertimo darbo rezultatas:
+-Pasirinkite savo kalba kalbomis skyde spustelėdami
+   tada
+-Spustelėkite mygtuką \"Taikyti\" (apačioje).
+
+VideoPsalm bus rodomi jūsų pasirinkta kalba.
+
+Nepamirškite išsaugoti savo darbą nuo vertimo, paspaudę mygtuką \"išsaugoti <image=disk_blue>.
+Įrašę naują kalbą, galite pasirinkti jį parinkčių langą.
+
+Prašome atsiųsti mums savo vertimus arba pataisymus elektroniniu paštu ne <b>videopsalm@gmail.com</b> , paspaudę mygtuką \"siųsti <image=mail_16>\".
+Kai paspausite šį mygtuką, du dalykai:
+1. Jūsų elektroninio pašto klientas atsidarys automatiškai, pavyzdžiui \"Outlook\".
+2. Explorer aplanką atidaro, VideoPsalm turi pateikti suspausto failus su plėtiniu .zip pavadintas kalbomis.
+
+Vilkite lašas atitinkama rinkmena su elektroniniu paštu ir po to, kad mes galite įtraukti jį į ateityje versija VideoPsalm.</image=mail_16> </image=disk_blue> </image=add2_16>"},{
+Key:1000038,Text:"Kaip išversti VideoPsalm į savo kalbą?"},{
+Key:1000039,Text:"Kalbos, kurioje yra išversta VideoPsalm. Pasirinkite kalbas norite Rodyti etikečių lentelėje. Norite pridėti savo kalbą į sąrašą, spustelėkite mygtuką \"Pridėti\"."},{
+Key:1001000,Text:"Įtraukti kalbų"},{
+Key:1001001,Text:"&Kalbos:"},{
+Key:1001002,Text:"Pasirinkite kalbas, kurias norite pridėti"},{
+Key:1001003,Text:"&Pridėti"},{
+Key:1001004,Text:"Atšaukti"},{
+Key:1001005,Text:"Pagalba (F1)"},{
+Key:1002000,Text:"Parinktys"},{
+Key:1002003,Text:"&Bendrosios"},{
+Key:1002004,Text:"&Ekranas"},{
+Key:1002005,Text:"&Vaizdo"},{
+Key:1002014,Text:"&Kolekcijos"},{
+Key:1002015,Text:"&Biblijoje"},{
+Key:1002103,Text:"&Kalba:"},{
+Key:1002105,Text:"&VideoPsalm dokumentų aplankas:"},{
+Key:1002106,Text:"Pasirinkite aplanką VideoPsalm dokumentai:"},{
+Key:1002112,Text:"&Įrašyti keitimus galite atlikti Biblijos eilėraščiai (tekstą ir stilių)"},{
+Key:1002202,Text:"&Pakeisti citatos « <size=+4>'» iš Prancūzijos citatos « <size=+4>'»</size=+4> </size=+4>"},{
+Key:1002203,Text:"&Prancūzijos taisykles, spausdinimas"},{
+Key:1002204,Text:"&Dainas, pakeiskite brūkšneliais iš nekeliamieji brūkšneliai"},{
+Key:1002205,Text:"&Biblijos eilėraščiai, pakeiskite brūkšneliais iš nekeliamieji brūkšneliai"},{
+Key:1002304,Text:"&Atvaizdavimo būdas:"},{
+Key:1002306,Text:"Standartas"},{
+Key:1002307,Text:"Pagerėjo"},{
+Key:1002502,Text:"&Taikyti"},{
+Key:1002503,Text:"Įrašykite keitimus ir neuždarykite lango"},{
+Key:1002504,Text:"gerai"},{
+Key:1002505,Text:"Įrašykite keitimus ir uždarykite langą"},{
+Key:1002508,Text:"Uždaryti langą neįrašę keitimų"},{
+Key:1002510,Text:"&Licencija bažnyčios:"},{
+Key:1002513,Text:"Nebūtinas tekstas, kuriuo galite įvesti čia gali būti automatiškai rodomi pagal viršutinio arba apatinio kolontitulo skaidrės.
+
+Pavyzdžiui, galite nurodyti čia licencijos CILC savo bažnyčios skaičius."},{
+Key:1002516,Text:"&Laukų antraštės:"},{
+Key:1002517,Text:"&Laukuose, subfooter:"},{
+Key:1002531,Text:"Jei norite pakeisti šriftą, kuriuo yra rodomas VideoPsalm.
+
+Nestandartinis šriftas:
+- <b>Tahoma</b> \"Windows XP\"
+- <b>Segoe UI</b> Windows Vista ir Windows 7, Windows 8
+
+Standartinio dydžio: 8.25"},{
+Key:1002532,Text:"Būtina iš naujo paleisti VideoPsalm dėl politikos pokyčius galima atsižvelgti į visiškai."},{
+Key:1002533,Text:"Jei šis laukas pažymėtas, VideoPsalm pakeis tiesias kabutes Prancūzijos apostrofas, kuris yra kablelis, dedamas į aukštį skaidrių.
+
+Kai įvedate daina lyrics redaktorius, mes rekomenduojame naudoti simbolį, galite lengvai rasti klaviatūroje, paprastai tiesias kabutes."},{
+Key:1002534,Text:"Jei šis laukas pažymėtas, VideoPsalm sutvarko skaidrės tarpai tarp kai kurių simbolių ir skyrybos pagal Prancūzijos spausdinimas.
+
+Pavyzd iui, jeigu daina yra užrašyta: <b>Viešpaties!</b>
+
+VideoPsalm ekranas: <b>Viešpaties!</b>
+
+Čia yra skyrybos ženklai, kuriuos taikomas specialus režimas:
+<b>: ; ! ? »</b><i>VideoPsalm įdėti nekeliamąjį tarpą prieš ir tarpas po.</i><b>«</b><i>VideoPsalm vieta tarpo prieš ir po Neperkeliantis tarpas.</i>
+
+VideoPsalm tvarkomi nėra tarpų kitų skyrybos ženklų.
+
+Kai įvedate naują dainą žodžiai, mes rekomenduojame, kad jūs laikytis tradicinių spausdinimas, t. y. klijuoti skyrybos į žodžius, kurie susiję su jų. Tokiu būdu, jūs galės atitikti Prancūzijos spausdinimas ekrane pa ymėjus šį langelį, arba savo šalies taisykles ne pažymėję šį žymės langelį.
+
+<b>Pastaba:</b> Tikėtina, kad Prancūzijos Tipografijos taisyklės netaikomos jūsų šalyje, net jei kalba yra prancūzų, pavyzdžiui, Frankofoniškų Afrikoje, Belgija, Kvebekas arba Šveicarijoje.
+
+Išsami nuoroda tarpų ir skyrybos ženklų, Prancūzijos spausdinimas, pamatyti <color=blue>http://jacques-andre.fr/faqtypo/lessons.pdf, 33 puslapis.
+
+</color=blue> 
+
+ "},{
+Key:1002535,Text:"&Šriftas:"},{
+Key:1002536,Text:"&Dydis:"},{
+Key:1002539,Text:"Jei šis laukas pažymėtas, VideoPsalm praneša jums, per savo paleisties metu apie naujas funkcijas, programa arba apie Naujienos:
+-kolekcijos
+-Biblijoje,
+- ir VideoPsalm kalbos.
+
+Naujas kolekcijas, Bibliją į naujas ir naujas kalbas, VideoPsalm kartais dedama į VideoPsalm internetinę biblioteką.
+
+Kai tai atsitinka, pridėti keletą paspaudimų šie nauji dokumentai į jūsų įrenginį per importavimo vedlį."},{
+Key:1002540,Text:"Jei šis laukas pažymėtas, VideoPsalm reikalauja sieja su brūkšnelis, jei norite išlikti toje pačioje eilutėje skaidrių žodžiai.
+
+Numatytoji reikšmė dainos dainų: <b>patikrinti</b>"},{
+Key:1002541,Text:"Jei šis laukas pažymėtas, VideoPsalm reikalauja sieja su brūkšnelis, jei norite išlikti toje pačioje eilutėje skaidrių žodžiai.
+
+Numatytoji reikšmė, Biblijos eilėraščiai: <b>nepažymėta</b>"},{
+Key:1002542,Text:"Jei šis laukas pažymėtas, VideoPsalm leidžia jums išsaugoti visus pakeitimus, kuriuos atlikote eilėmis iš Biblijos (tekstą ir stilių).
+
+Jei šis langelis nėra pažymėtas:
+
+<b>1.</b> uždarius VideoPsalm, tai ne Jus informuosime kad buvo pasikeitė jūsų Biblijoje,
+
+<b>2</b> kai įrašote keitimus, VideoPsalm ne įrašyti keitimus į Bibliją (tekstą ir stilių),
+
+<b>3</b> jūs rasite savo sveika Biblijoje VideoPsalm kitą paleisties metu."},{
+Key:1002543,Text:"Pasirinkti kalbą, kurioje norite VideoPsalm yra rodomi čia.
+
+Jei jūsų kalba nėra sąraše, galbūt yra prieinama VideoPsalm bibliotekoje internete per importavimo vedlį.
+
+Jei jūsų kalba nėra VideoPsalm, prašome informuoti mus elektroniniu paštu ne videopsalm@gmail.com
+
+Kita vertus, jūs galite padėti išversti tekstai, VideoPsalm savo kalba per VideoPsalm vertimo įrankį arba ištaisyti klaidas.
+
+Pradėkite vertimo įrankis VideoPsalm mygtuką \"Versti VideoPsalm\"."},{
+Key:1002544,Text:"Pasirinkite aplanką iš kurios VideoPsalm įkelti savo knygos, Biblijos, paveikslėliai ir vaizdo įrašai čia.
+
+Kai keičiate aplanką, VideoPsalm atnaujina savo kolekcijas, Biblijoje, paveikslėliai ir vaizdo įrašai su naują aplanką.
+
+<b>Įspėjimas</b> : prieš pakeitus aplanką, patikrinkite, ar įrašėte pakeitimus."},{
+Key:1002545,Text:"Jei norite pakeisti šriftą, kuriuo yra rodomas VideoPsalm.
+
+Standartinio dydžio: 8.25
+
+Jūs taip pat galite pakeisti šrifto dydį per Windows parinktys: Control Panel -&gt; ekrano-> skaitomumą ekrane."},{
+Key:1002547,Text:"&Versti VideoPsalm"},{
+Key:1002548,Text:"Atidaro įrankį, su kuria galite išversti VideoPsalm į savo kalbą arba ištaisyti rašybos klaidas."},{
+Key:1002549,Text:"Jūs ketinate keisti aplanką iš kur VideoPsalm bus įkelti savo dokumentus.
+VideoPsalm bus iškelti savo dabartinius dokumentus ir tada įkelti tuos naują aplanką.
+Tai gali užtrukti kelias sekundes.{0}
+
+Ar tikrai norite pakeisti dokumento aplanką?"},{
+Key:1002550,Text:"Yra neįrašytų pakeitimų (kolekcijos, Biblijoje ar kalendoriaus).
+Jei jūs patvirtinate operaciją įrašo, šie pakeitimai bus prarasti."},{
+Key:1002551,Text:"Keisti aplanką dokumentai"},{
+Key:1002552,Text:"&Darbotvarkės"},{
+Key:1002553,Text:"Numatytasis modelius:"},{
+Key:1002554,Text:"&dainos:"},{
+Key:1002555,Text:"&Biblija stichijos:"},{
+Key:1002556,Text:"&Skaidrių vaizdų:"},{
+Key:1002557,Text:"&autonominė vaizdo įrašus:"},{
+Key:1002558,Text:"&PowerPoints:"},{
+Key:1002559,Text:"&Skirto laiko numatytąją Automatinis iš anksto:"},{
+Key:1002560,Text:"sekundžių"},{
+Key:1002561,Text:"&Pridìti kalb±"},{
+Key:1002562,Text:"Atidaro importavimo vedlį kalbų, kuriose VideoPsalm yra išverstos, iš kur galite pridėti naujų kalbų savo VideoPsalm."},{
+Key:1002580,Text:"Numatytoji teksto kryptis po dainą"},{
+Key:1002581,Text:"Nustatoma numatytoji teksto kryptis po paskutinės stichijos daina.
+
+Šią reikšmę taip pat atsižvelgiama į dainas, kad rodote savaime be darbotvarkę.
+Kalendoriuje, galite pakeisti šią vertę, kiekviena daina."},{
+Key:1002582,Text:"Numatytoji teksto kryptis po Biblija stichijos"},{
+Key:1002583,Text:"Nustatoma numatytoji teksto kryptis po paskutinės stichijos iš Biblijos ištrauka.
+
+Šią reikšmę taip pat atsižvelgiama į Biblijos ištraukos, pažymėdami savaime be darbotvarkę.
+Kalendoriuje, galite pakeisti šią vertę kiekvienam Biblijos važiavimui."},{
+Key:1002584,Text:"Numatytoji teksto kryptis po vaizdo demonstraciją"},{
+Key:1002585,Text:"Nustatoma numatytoji teksto kryptis po vaizdo demonstraciją.
+
+Kalendoriuje, galite pakeisti šią vertę kiekvieną vaizdą."},{
+Key:1002586,Text:"Numatytoji teksto kryptis po atskirą video"},{
+Key:1002587,Text:"Nustatoma numatytoji teksto kryptis po standalone video.
+
+Kalendoriuje, galite pakeisti šią vertę kiekvienam atskiras vaizdo."},{
+Key:1002588,Text:"Numatytoji teksto kryptis po PowerPoint"},{
+Key:1002589,Text:"Nustatoma numatytoji teksto kryptis po PowerPoint.
+
+Kalendorių, galite pakeisti šią vertę kiekvieną PowerPoint."},{
+Key:1002590,Text:"Nustato numatytąją laiko sekundėmis iki automatinio i &amp; jungimo į kitą skaidrę.
+
+Kalendoriuje, galite pakeisti šią vertę už kiekvieno elemento, kuris teka automatiškai."},{
+Key:1002591,Text:"&Laikyti fono paveikslėlius į darbotvarkę (rekomenduojama)"},{
+Key:1002592,Text:"Saugoti fono paveikslėlius į darbotvarkę"},{
+Key:1002593,Text:"Nurodo, ar VideoPsalm reikėtų laikyti fono vaizdus dainų ir Biblijos stichijos darbotvarke failų, kai įrašote jį."},{
+Key:1002594,Text:"&Parduotuvė fono vaizdo įrašus (rekomenduojama) darbotvarkės"},{
+Key:1002595,Text:"Saugoti fono vaizdo įrašus į darbotvarkę"},{
+Key:1002596,Text:"Nurodo, ar VideoPsalm reikėtų laikyti bet kurį vaizdo įrašą, fone dainų ir Biblijos stichijos darbotvarke failų įrašant jį."},{
+Key:1002597,Text:"&Parduotuvės demonstraciją nuotraukas (rekomenduojama) darbotvarkės"},{
+Key:1002598,Text:"Saugoti skaidrių demonstravimo paveikslėlių darbotvarkėje"},{
+Key:1002599,Text:"Nurodo, ar VideoPsalm reikėtų laikyti galima vaizdus Demonstracija kalendoriaus failas įrašant jį."},{
+Key:1002600,Text:"&Saugoti atskiras filmai (rekomenduojama) darbotvarkės"},{
+Key:1002601,Text:"Saugoti autonominio vaizdo įrašus į darbotvarkę"},{
+Key:1002602,Text:"Nurodo, ar VideoPsalm turėtų saugoti bet kuriuo Autonominis darbotvarke failų filmai, įrašant jį."},{
+Key:1002603,Text:"&Parduotuvė PowerPoints į darbotvarkę (rekomenduojama)"},{
+Key:1002604,Text:"Parduotuvė PowerPoints į darbotvarkę"},{
+Key:1002605,Text:"Nurodo, ar VideoPsalm turėtų saugoti bet PowerPoints kalendorius failą įrašant jį."},{
+Key:1002606,Text:"Mes rekomenduojame, kad pasirinkote šią parinktį, ypač jei ruošiate savo darbotvarkės kitame kompiuteryje negu ta, kurią jums rodys pristatymą."},{
+Key:1002607,Text:"&Redaktorius"},{
+Key:1002608,Text:"&Šriftas:"},{
+Key:1002609,Text:"Nurodo šriftą, kurioje redaguoti dainų daina ir eilėmis iš Biblijos.
+
+Visų pirma, šios šriftų nėra naudojama Rodyti tekstą ekrane."},{
+Key:1002610,Text:"&Teksto dydį:"},{
+Key:1002611,Text:"Nurodo, kurioje redaguoti dainų daina ir eilėmis iš Biblijos šrifto dydį.
+
+Šio šrifto dydis nėra ypač naudojama Rodyti tekstą ekrane."},{
+Key:1002612,Text:"&Šrifto susitarimų:"},{
+Key:1002613,Text:"Nurodo šriftą, kurioje redaguoti sutartys dėl daina.
+
+Šis šriftas ypač nenaudojamas Rodyti susitarimus pateikimo ekrane."},{
+Key:1002614,Text:"&Teksto dydį, susitarimų:"},{
+Key:1002615,Text:"Nurodo sutartys dėl daina šrifto dydis teksto redaktoriumi.
+
+Šio šrifto dydį ypač nenaudojamas Rodyti susitarimus pateikimo ekrane."},{
+Key:1002616,Text:"&Spalva susitarimų:"},{
+Key:1002617,Text:"Nurodo, kurioje sutartis yra rodomi teksto redaktoriumi.
+
+Visų pirma, ši spalva nėra naudojama Rodyti susitarimus pateikimo ekrane."},{
+Key:1002618,Text:"&Neperkeliantis balta spalva:"},{
+Key:1002619,Text:"Nurodo, kurių nesilaikantiems balta rodomos teksto redaktoriumi."},{
+Key:1002620,Text:"&Stanzas Žymos spalva:"},{
+Key:1002621,Text:"Nurodo, kurioje stanzas Žymos yra paryškinti teksto redaktoriumi."},{
+Key:1002622,Text:"&Skaidrumas stanzas Žymos:"},{
+Key:1002623,Text:"Nurodo spalvos, kuriame yra paryškinti stanzas Žymos skaidrumą teksto redaktoriumi."},{
+Key:1002624,Text:"&Spalva ChordPro susitarimų:"},{
+Key:1002625,Text:"Nurodo, kurioje ChordPro susitarimai yra paryškinti teksto režimu ChordPro redaktorius."},{
+Key:1002626,Text:"&Skaidrumo ChordPro susitarimų:"},{
+Key:1002627,Text:"Nurodo spalvą, kuriomis susitarimai, paryškinami ChordPro skaidrumą tekstiniu režimu ChordPro redaktorius."},{
+Key:1002628,Text:"&Šriftų keitimas (rekomenduojama)"},{
+Key:1002629,Text:"Leidžia tekstą redaktoriui perrašyti trūksta esamą šrifto simbolių ir kitas šriftas.
+
+Išjungti simbolių pakeitimas, jei jūs naudojate ne Unicode šrifto, teikianti transliteracija.
+Pasitaiko, kai Hindi, tamilų, Bamati, malajalių šriftus, ir tt.
+
+Atkreipkite dėmesį, kad tai geriau naudoti Unicode šrifto.
+Norėdami konvertuoti savo dainas paruošti į Unicode tekstą, naudoti internete konverteris, pavyzdžiui čia: <color=blue>http://www.suratha.com/reader.htm</color=blue>"},{
+Key:1002630,Text:"&Leisti naudotis supaprastinta, suderinama su Šventojo Rašto RTL teksto redaktoriumi"},{
+Key:1002631,Text:"Rodo papildomą mygtuką teksto redaktoriumi, kuris suteikia prieigą prie supaprastintas režimas redagavimas dainos teksto įrankių juostą kairėje.
+
+Šis supaprastintas redaktorių yra suderinama su rašymo iš dešinės į kairę (RTL), ypač už arabų ir hebrajų."},{
+Key:1002632,Text:"Pasirenka video utilizavimo metodą, kuris geriausiai tinka jūsų Kompiuteryje. VideoPsalm filmai rodomi wmv, dauguma kompiuterių formatu."},{
+Key:1002633,Text:"&Pranešimai"},{
+Key:1002634,Text:"Paleisties metu informuoti apie tai, jei yra:"},{
+Key:1002635,Text:"&Nauja versija VideoPsalm (rekomenduojama)"},{
+Key:1002636,Text:"&Naujos kolekcijos (rekomenduojama)"},{
+Key:1002637,Text:"&Naują Bibliją (rekomenduojama)"},{
+Key:1002638,Text:"&Naujų kalbų (rekomenduojama)"},{
+Key:1002639,Text:"&Iškilus sunkumų ryšį, apie tarpinį serverį"},{
+Key:1002640,Text:"Apie tarpinį serverį"},{
+Key:1002641,Text:"Nurodo, ar VideoPsalm turėtų automatiškai aptikti tarpinio serverio paklausti apie naujus produktus ar atnaujinimus.
+
+Jei VideoPsalm negaliu parsisiųsti knygų ar Bibliją į savo internetinę biblioteką, pasirinkite šią parinktį, ir bandykite atlikti operaciją dar kartą.
+
+Pasirinkite šią parinktį tik tuomet, jei taip nėra. Iš tiesų, ši galimybė sukelia sulėtėjimas parsisiųsti knygų ir Bibliją iš bibliotekos VideoPsalm internete."},{
+Key:1002642,Text:"&Slėpti socialinės piktogramos"},{
+Key:1002643,Text:"Slepia įrankių juostos socialinės piktogramas (Facebook, Twitter ir \"YouTube\").
+
+Šios piktogramos lieka paslėptas interneto ryšio nėra."},{
+Key:1002644,Text:"&Parduotuvėje garso dainas (rekomenduojama) darbotvarkės"},{
+Key:1002645,Text:"Saugoti garso dainas į darbotvarkę"},{
+Key:1002646,Text:"Nurodo, ar VideoPsalm reikėtų laikyti garsas dainos kalendorius failą įrašant jį."},{
+Key:1002648,Text:"&Pritaikymas"},{
+Key:1002649,Text:"&Vaizdo kamera"},{
+Key:1002650,Text:"&Ankstesnis"},{
+Key:1002651,Text:"&Bazė"},{
+Key:1002652,Text:"&Tekstas"},{
+Key:1002653,Text:"&Skydas"},{
+Key:1002654,Text:"&Snaigė"},{
+Key:1002655,Text:"&Re"},{
+Key:1002656,Text:"Skaidrių skydas"},{
+Key:1002657,Text:"&Kitas"},{
+Key:1002658,Text:"Įrankių juosta"},{
+Key:1002659,Text:"Tarybos darbotvarkės"},{
+Key:1002660,Text:"&Kalno"},{
+Key:1002661,Text:"&atstoti, atstok"},{
+Key:1002662,Text:"&Slėpti patarimus"},{
+Key:1003000,Text:"Versija {0} iš to {1}"},{
+Key:1003003,Text:"Uždaryti"},{
+Key:1003005,Text:"&Susisiekti su VideoPsalm"},{
+Key:1003006,Text:"Atidaryti Outlook (jūsų elektroninio pašto klientas), siųskite elektroninį laišką adresu VideoPsalm"},{
+Key:1003007,Text:"Ši versija naujinama"},{
+Key:1003008,Text:"&Atnaujinti savo versiją"},{
+Key:1003009,Text:"Yra naujesnė versija VideoPsalm:
+Versija {0} plokštelės 1: {d}.
+Spustelėkite šį mygtuką, kad atidarytumėte atsisiuntimo puslapį.
+Čia rasite ir keitimų retrospektyvą
+ir parsisiuntimo nuorodą."},{
+Key:1003011,Text:"-Ataskaita
+-Padaryti pastabą arba pasiūlymą"},{
+Key:1003012,Text:"Elektroninio pašto adresas: videopsalm@gmail.com"},{
+Key:1003500,Text:"Pašalinti perkėlimas"},{
+Key:1003501,Text:"Perkelta į nacionalinę teisę pustonis daugiau"},{
+Key:1003502,Text:"Perkelta į nacionalinę teisę pustonis mažiau"},{
+Key:1003503,Text:"Be"},{
+Key:1003504,Text:"Naikinti į capo"},{
+Key:1003505,Text:"Nacionalinę teisę, capo, kurie juda nuo galvos"},{
+Key:1003506,Text:"Nacionalinę teisę, capo, artimą galvos"},{
+Key:1003507,Text:"Be"},{
+Key:1003508,Text:"Garso failo vokalas"},{
+Key:1003509,Text:"&Garso failą:"},{
+Key:1003510,Text:"Pasirinkite garso failus importuoti ir tada spauskite \"open\"."},{
+Key:1003511,Text:"Importuotiems {0} garso failas (-ai)."},{
+Key:1003512,Text:"Garso failas buvo importuotas.
+((S) yra jau rado (s) sąraše)."},{
+Key:1003513,Text:"Garso failų importavimą"},{
+Key:1003514,Text:"Garso failai"},{
+Key:1003515,Text:"Raktinių žodžių ieškoti vaizdų"},{
+Key:1003516,Text:"Be vaizdo"},{
+Key:1003517,Text:"Be video"},{
+Key:1003518,Text:"&Failai"},{
+Key:1003519,Text:"&Rodyti žemuosius dažnius"},{
+Key:1003520,Text:"Raktinių žodžių ieškoti vaizdo įrašai"},{
+Key:1003521,Text:"&Importuoti dainas iš CCLI rinkti / SongSelect"},{
+Key:1003522,Text:"CCLI dainos"},{
+Key:1003523,Text:"Importo CCLI dainos"},{
+Key:1003524,Text:"{0} dainos jau buvo kolekcija '{1}' ir nebuvo importuotos."},{
+Key:1003525,Text:"&Paieškos"},{
+Key:1003526,Text:"&Ryškumas:"},{
+Key:1003527,Text:"&Paieškos"},{
+Key:1003528,Text:"&Ryškumas:"},{
+Key:1003529,Text:"Pranešimas"},{
+Key:1003530,Text:"Policijos"},{
+Key:1003531,Text:"Spalvų"},{
+Key:1003532,Text:"Pranešimas"},{
+Key:1003533,Text:"Matomumas"},{
+Key:1003534,Text:"Modelis"},{
+Key:1003535,Text:"Tipo"},{
+Key:1003536,Text:"Tas, kurio nėra"},{
+Key:1003537,Text:"Chronometras"},{
+Key:1003538,Text:"Parinktys"},{
+Key:1003539,Text:"Skaidrumo"},{
+Key:1003540,Text:"Rodomas pranešimas"},{
+Key:1003541,Text:"Fono"},{
+Key:1003542,Text:"Rodant laikrodį"},{
+Key:1003543,Text:"Laikrodis"},{
+Key:1003544,Text:"Tas, kurio nėra"},{
+Key:1003545,Text:"Chronometras"},{
+Key:1003546,Text:"Per"},{
+Key:1003547,Text:"Iki"},{
+Key:1003548,Text:"Pradėti"},{
+Key:1003549,Text:"Pauzė"},{
+Key:1003550,Text:"sustoti, sustok"},{
+Key:1003551,Text:"Stilius"},{
+Key:1003552,Text:"Riebalų"},{
+Key:1003553,Text:"Pasvirasis"},{
+Key:1003554,Text:"Pabrėžė"},{
+Key:1003555,Text:"Rodyti Antra vertus"},{
+Key:1003556,Text:"Mikčiojimas sekundžių"},{
+Key:1003557,Text:"Minučių trūkčiojantis"},{
+Key:1003558,Text:"Rodyti skaitmenų"},{
+Key:1003559,Text:"Pereiti protokolą"},{
+Key:1003560,Text:"Studijų valandos"},{
+Key:1003561,Text:"Vaizdo kamera"},{
+Key:1003562,Text:"Rodo teksto fotoaparato fotografavimo."},{
+Key:1003563,Text:"&Pridėti dainų į CILC formatą..."},{
+Key:1003564,Text:"Importo..."},{
+Key:1003565,Text:"Importo"},{
+Key:1003566,Text:"Leidžia importuoti garso failus į savo VideoPsalm"},{
+Key:1003567,Text:"Navigacija..."},{
+Key:1003568,Text:"Naršyti"},{
+Key:1003569,Text:"Atidaro aplanką garso failus iš savo VideoPsalm"},{
+Key:1003570,Text:"&Pradėti (ms):"},{
+Key:1003571,Text:"&Baigti (ms):"},{
+Key:1003572,Text:"&Apimtis:"},{
+Key:1003573,Text:"&Žaisti kilpinę"},{
+Key:1003575,Text:"&Iš dalies pakeistas"},{
+Key:1003576,Text:"&Versija:"},{
+Key:1003577,Text:"Teksto redaktoriumi \"Teisę\" į kairę"},{
+Key:1003578,Text:"Perjungia tarp standartinėje teksto rengyklėje (rašymo iš kairės į dešinę) ir \"Teisė\" redaktorius kairę arabų, hebrajų, ir tt."},{
+Key:1003579,Text:"&GUID:"},{
+Key:1003580,Text:"&Visada kartu parodyti (dviem)"},{
+Key:1003581,Text:"&Pareigos:"},{
+Key:1004050,Text:"Policijos"},{
+Key:1004051,Text:"Dydis"},{
+Key:1004052,Text:"Riebalų"},{
+Key:1004053,Text:"Pasvirasis"},{
+Key:1004054,Text:"Pabrėžė"},{
+Key:1004055,Text:"Lygiuotė"},{
+Key:1004056,Text:"Vertikalioji lygiuotė"},{
+Key:1004057,Text:"Animacija"},{
+Key:1004058,Text:"Trukmė"},{
+Key:1004059,Text:"Tūris"},{
+Key:1004060,Text:"Išjungti?"},{
+Key:1004061,Text:"Pradžioje"},{
+Key:1004062,Text:"Pabaigos"},{
+Key:1004063,Text:"Linijos?"},{
+Key:1004064,Text:"Pamatyti didesnį vaizdą"},{
+Key:1004100,Text:"Spalvų"},{
+Key:1004101,Text:"Pildymo"},{
+Key:1004102,Text:"\"Entourage\""},{
+Key:1004103,Text:"Plotis palyda"},{
+Key:1004104,Text:"Šešėlis"},{
+Key:1004105,Text:"Spindulys šešėlis"},{
+Key:1004106,Text:"Šešėlio gylis"},{
+Key:1004107,Text:"Kryptimi šešėlis"},{
+Key:1004151,Text:"Vaizdo"},{
+Key:1004152,Text:"Vaizdas"},{
+Key:1004153,Text:"Spalva"},{
+Key:1004156,Text:"Stačiakampio kūno"},{
+Key:1004157,Text:"Stačiakampis antraštės"},{
+Key:1004158,Text:"Pėdos stačiakampis"},{
+Key:1004500,Text:"Kopijuoti kalendorių į mainų sritį"},{
+Key:1004501,Text:"Aprašymas darbotvarkės buvo perkeltas į mainų sritį."},{
+Key:1004502,Text:"Žodžiai (pavadinimas ir dainų) arba Nr. siekti"},{
+Key:1004503,Text:"Žodžiai (pavadinimas ir dainų) arba Nr. siekti"},{
+Key:1004504,Text:"Žodžiai (pavadinimas) arba ieškoti Nr."},{
+Key:1004505,Text:"Žodžiai (autorius ir kompozitorius) arba Nr. siekti"},{
+Key:1004506,Text:"Žodžiai (temos) arba numerį ir ieškoti"},{
+Key:1004507,Text:"Žodžiai (nuorodos) arba numerį ir ieškoti"},{
+Key:1004508,Text:"CCLI ieškoti"},{
+Key:1004509,Text:"Žodžiai (copyright) arba numerį ir ieškoti"},{
+Key:1004510,Text:"Žodžiai (pažymos 1) arba Nr. siekti"},{
+Key:1004511,Text:"Žodžiai (pažymos 2) arba Nr. siekti"},{
+Key:1004512,Text:"Žodžių (pažymos 3) ir Nr. siekti"},{
+Key:1004513,Text:"Dainos su akordais"},{
+Key:1004514,Text:"Kopijuoti santrauka kompendiumo"},{
+Key:1004515,Text:"Perspektyvinių planų santrauka buvo į mainų sritį."},{
+Key:1005001,Text:"Pabaigoje pakrovimo"},{
+Key:1005002,Text:"Daina apie '{0}'."},{
+Key:1005003,Text:"Pakrovimo filmai"},{
+Key:1005004,Text:"Nepavyko perskaityti vaizdo '{0}'.
+{1}"},{
+Key:1005005,Text:"Kraunamos nuotraukos"},{
+Key:1005006,Text:"Nepavyko perskaityti '{0}'.
+{1}"},{
+Key:1005007,Text:"Pakrovimo stilių"},{
+Key:1005008,Text:"Iš kolekcijos ({0} {1} kolekcijos dainų) sąrašas"},{
+Key:1005009,Text:"Panaikinti pasirinktą dienotvarkės?"},{
+Key:1005010,Text:"Šalinti elementus"},{
+Key:1005011,Text:"Nauja kolekcija"},{
+Key:1005012,Text:"Nauja daina"},{
+Key:1005013,Text:"Darbotvarkė yra tuščias.
+Atvira, arba nuvilksite čia dainos ir eilėraščiai, įtraukti į darbotvarkę."},{
+Key:1005014,Text:"Nėra jokių skaidrių vaizdo - projektas.
+Pasirinkite dainą arba eilėmis vaizdo - projektas."},{
+Key:1005015,Text:"Ar tikrai norite naikinti kolekcija '{0}'?
+
+Nėra atitinkantis šio rinkinio failas bus panaikintas iš disko:
+jo plėtinys bus pervadintas \".ignore."},{
+Key:1005016,Text:"Naikinti kolekcija"},{
+Key:1005017,Text:"Ar norite naikinti daina '{0}'?
+
+Po registracijos knygų pakeitimų, ši daina panaikinimas bus negrįžtamai."},{
+Key:1005018,Text:"Naikinti dainą"},{
+Key:1005019,Text:"Pašalinti visus elementus į darbotvarkę?"},{
+Key:1005020,Text:"Naikinti viską"},{
+Key:1005021,Text:"Darbotvarkės be pavadinimo"},{
+Key:1005022,Text:"Tuščias kalendorius"},{
+Key:1005023,Text:"Dabartinę darbotvarkę yra neišsaugotų pakeitimų.
+Norite įrašyti šiuos keitimus?"},{
+Key:1005024,Text:"Įrašyti kalendorius"},{
+Key:1005025,Text:"Vienas ar daugiau rinkinių yra neišsaugotų pakeitimų.
+Norite įrašyti šiuos keitimus?"},{
+Key:1005026,Text:"Įrašų kolekcijų"},{
+Key:1005027,Text:"Vienas ar daugiau Biblijoje yra neišsaugotų pakeitimų.
+Norite įrašyti šiuos keitimus?"},{
+Key:1005028,Text:"Įrašyti Bibliją"},{
+Key:1005029,Text:"Įtraukti dokumentus į darbotvarkę"},{
+Key:1005030,Text:"Dienoraščiai"},{
+Key:1005031,Text:"Vaizdai"},{
+Key:1005032,Text:"Vaizdo įrašai"},{
+Key:1005033,Text:"PowerPoints"},{
+Key:1005034,Text:"Pagal kalendorių įrašyti"},{
+Key:1005035,Text:"CCLI dainos"},{
+Key:1005036,Text:"Yra surenkami.
+Spustelėkite čia, jei norite pradėti importuoti ataskaitų vedlys."},{
+Key:1005037,Text:"Formatu {0}
+{1} x {2} pikselių"},{
+Key:1005038,Text:"{0} ms"},{
+Key:1005039,Text:"Ar tikrai norite panaikinti visų stilių žemiau \"{0}\"?"},{
+Key:1005040,Text:"Kolekcija '{0}' yra išbraukta iš paieškos"},{
+Key:1005041,Text:"Rodyti arba perkeltumėte skaidrę"},{
+Key:1005042,Text:"Metų laikai"},{
+Key:1005043,Text:"Pavasarį"},{
+Key:1005044,Text:"Vasarą"},{
+Key:1005045,Text:"Kalėdų"},{
+Key:1005046,Text:"Temos"},{
+Key:1005047,Text:"Karamelė"},{
+Key:1005048,Text:"Vanda"},{
+Key:1005049,Text:"Vaizduotė"},{
+Key:1005050,Text:"Tamsus kambarys"},{
+Key:1005051,Text:"Rūko"},{
+Key:1005052,Text:"Projektas"},{
+Key:1005053,Text:"Whiteprint"},{
+Key:1005054,Text:"Fort kontrastas"},{
+Key:1005055,Text:"Tarnyba"},{
+Key:1005056,Text:"Tarnyba 2010 m. mėlyna"},{
+Key:1005057,Text:"Tarnyba 2010 m. sidabras"},{
+Key:1005058,Text:"Tarnyba 2010 m. juoda"},{
+Key:1005059,Text:"Tarnyba 2007 m. mėlyna"},{
+Key:1005060,Text:"Tarnyba 2007 m. Žalioji"},{
+Key:1005061,Text:"Tarnyba 2007 m. padidėjo"},{
+Key:1005062,Text:"Tarnyba 2007 m. sidabras"},{
+Key:1005063,Text:"Tarnyba 2007 m. juoda"},{
+Key:1005064,Text:"\"Windows\""},{
+Key:1005065,Text:"Metropolį"},{
+Key:1005066,Text:"Septyni"},{
+Key:1005067,Text:"Septyni Classic"},{
+Key:1005068,Text:"VS2010"},{
+Key:1005069,Text:"Smilkalai"},{
+Key:1005070,Text:"Dūmai"},{
+Key:1005071,Text:"Apple"},{
+Key:1005072,Text:"Spalvų"},{
+Key:1005073,Text:"Skystas dangus"},{
+Key:1005074,Text:"Londono dangus"},{
+Key:1005075,Text:"Mėlyna"},{
+Key:1005076,Text:"Pinigų Dvyniai"},{
+Key:1005077,Text:"Black gold"},{
+Key:1005078,Text:"Užtemdymas"},{
+Key:1005079,Text:"Aštrių"},{
+Key:1005080,Text:"Aštrių daugiau"},{
+Key:1005081,Text:"Žvaigždės"},{
+Key:1005082,Text:"Vandenynų ir stiklo"},{
+Key:1005083,Text:"Asfalto pasaulyje"},{
+Key:1005084,Text:"Kavos"},{
+Key:1005085,Text:"Žvaigždžių dulkės"},{
+Key:1005086,Text:"Naikinti visus žemiau stilius"},{
+Key:1005087,Text:"Išlaikyti atidaryti Galerij±"},{
+Key:1005100,Text:"Be animacijos"},{
+Key:1005102,Text:"Išnyks"},{
+Key:1005103,Text:"Šviesos išnyks"},{
+Key:1005104,Text:"Pamatyti didesnį vaizdą"},{
+Key:1005105,Text:"Šviesos išnyks plėtra"},{
+Key:1005106,Text:"Skenavimo"},{
+Key:1005107,Text:"Nuskaityti į dešinę"},{
+Key:1005109,Text:"Forma"},{
+Key:1005110,Text:"Žvaigždė"},{
+Key:1005118,Text:"Nuskaityti žemyn"},{
+Key:1005120,Text:"Nuskaityti į kairę"},{
+Key:1005121,Text:"Nuskaitymas į viršų"},{
+Key:1005122,Text:"Nuskaityti iš viršaus į dešinę"},{
+Key:1005123,Text:"Nuskaityti iš viršaus į kairę"},{
+Key:1005124,Text:"Nuskaityti iš apačios į dešinę"},{
+Key:1005125,Text:"Nuskaityti iš apačios iš kairės"},{
+Key:1005126,Text:"Atrasti"},{
+Key:1005127,Text:"Atraskite žemyn"},{
+Key:1005128,Text:"Atraskite teisę"},{
+Key:1005129,Text:"Atraskite kairėje"},{
+Key:1005130,Text:"Atraskite aukštyn"},{
+Key:1005131,Text:"Atraskite viršutiniame dešiniąjame"},{
+Key:1005132,Text:"Atraskite viršuje kairėje"},{
+Key:1005133,Text:"Atraskite teisę žemyn"},{
+Key:1005134,Text:"Atraskite apačioje kairėje"},{
+Key:1005200,Text:"Skaidres"},{
+Key:1005201,Text:"Ne skaidrių"},{
+Key:1005209,Text:"Paieškos žodžiai:"},{
+Key:1005210,Text:"&Pavadinimas ir dainų tekstai"},{
+Key:1005211,Text:"&Pavadinimas ir dainų tekstai"},{
+Key:1005212,Text:"&Pavadinimas"},{
+Key:1005213,Text:"&Autorius ir kompozitorius"},{
+Key:1005214,Text:"&Temos"},{
+Key:1005215,Text:"&Nuorodos"},{
+Key:1005216,Text:"&CCLI"},{
+Key:1005217,Text:"&Autorinės teisės"},{
+Key:1005218,Text:"&Pažymos 1"},{
+Key:1005219,Text:"&Pažymos 2"},{
+Key:1005220,Text:"&Pažymos 3"},{
+Key:1005221,Text:"&Dainos su akordais"},{
+Key:1005223,Text:"Parinktys"},{
+Key:1005224,Text:"VideoPsalm parinktys"},{
+Key:1005225,Text:"Rodo dialogo langą Parinktys VideoPsalm."},{
+Key:1005226,Text:"Importo"},{
+Key:1005228,Text:"Rodoma importavimo vedlys knygas, Biblijoje, nuotraukas ir vaizdo įrašus iš populiarių formatų ir VideoPsalm internetinę biblioteką."},{
+Key:1005230,Text:"Naikinti"},{
+Key:1005232,Text:"Pašalinti dainavimo rinkimo ar pasirinktą Biblija."},{
+Key:1005237,Text:"Keisti šriftą."},{
+Key:1005247,Text:"Vaizdai"},{
+Key:1005252,Text:"Redaguoti pranešimų nuostatas."},{
+Key:1005253,Text:"Uždaryti šį langą ir prisiminti informaciją, kitą kartą."},{
+Key:1005254,Text:"Uždaryti šį langą ir nebegali prisiminti, šią informaciją."},{
+Key:1005255,Text:"Žodžiai arba frazės ieškoti, pvz: duona, vynas"},{
+Key:1005256,Text:"Pasirinkti ženklai pagal jų"},{
+Key:1005257,Text:"Viešbučių paieška: eilėraščiai, kuriuose yra tam tikri raktiniai žodžiai ar frazės"},{
+Key:1005258,Text:"Naikinti reikšminį žodį arba frazę į paieškos (ESC)"},{
+Key:1005259,Text:"Viešbučių paieška: ženklai, kuriuose yra tam tikrų raktinių žodžių.
+
+Pvz.:
+
+-Norėdami rasti ženklai, kuriuose yra frazė <b>\"Dievo vaikai\"</b>, įrašyti keletą tokius žodžius kaip <b>\"Dievo vaikas\"</b>.
+
+-Norėdami rasti eilėraštis, kuriame yra sakinys <b>\"jis paėmė taurę\"</b>, įveskite šiuos kartotiniai žodžius: <b>«ilpritlacoupe»</b>.
+
+Nereikia nerimauti dėl diakritiniais ir skyrybos, ar mažosios/Didžiosios raidės.
+
+Nereikia įvesti žodžiai, kaip visuma arba tvarka.
+
+Pridėti kitų žodžių eilutėje sumažinti rastų eilėmis, sąrašą.
+
+Paspauskite mygtuką <b>Įterpti</b> pridėti stichijos rasti ir pasirinkti darbotvarkę."},{
+Key:1005260,Text:"Nėra nustatyta stichijos."},{
+Key:1005268,Text:"Šioje būsenoje, VideoPsalm automatiškai prideda skliaustuose [] aplink tekstą, kurį įvedate.
+Pavyzdžiui, Norėdami pridėti c akordas, tipo «Padaryti» ir VideoPsalm bus įterpti \"[tai]."},{
+Key:1005269,Text:"© Rifto dydis"},{
+Key:1005270,Text:"Šrifto dydis keičiamas procentine dalimi ekrano aukštis."},{
+Key:1005271,Text:"&Įrašyti kaip..."},{
+Key:1005277,Text:"Įrašyti"},{
+Key:1005278,Text:"Įrašo keitimus, kuriuos atlikote knygos, Biblijos ir savo stilių."},{
+Key:1005279,Text:"Įrašo keitimus, kuriuos atlikote stilius ir kolekcijos.
+
+<b>Dėmesio:</b> Į Bibliją keitimai neįrašyti (tekstą ir stilių). Įrašyti šiuos keitimus, įjungti atitinkamą parinktį VideoPsalm parinktis."},{
+Key:1005283,Text:"Ilgis:"},{
+Key:1005284,Text:"Ms:"},{
+Key:1005285,Text:"Elementas"},{
+Key:1005286,Text:"Kūno"},{
+Key:1005287,Text:"Kėbulas"},{
+Key:1005288,Text:"Leidžia redaguoti kūno stilius."},{
+Key:1005289,Text:"Antraštės"},{
+Key:1005290,Text:"Antraštės stilius"},{
+Key:1005291,Text:"Leidžia redaguoti antraštės stilių."},{
+Key:1005292,Text:"Pėdos"},{
+Key:1005293,Text:"Stilius, koja"},{
+Key:1005294,Text:"Leidžia redaguoti koja stiliaus."},{
+Key:1005295,Text:"Susitarimai"},{
+Key:1005296,Text:"Stiliaus ir susitarimų"},{
+Key:1005297,Text:"Leidžia redaguoti stiliaus susitarimų."},{
+Key:1005308,Text:"Knyga"},{
+Key:1005313,Text:"Lygio stilius"},{
+Key:1005314,Text:"Nustatyti lygį, kuriuo taikys stilių pasikeitimus.
+
+Stichijos turi didžiausią stilius, tada tik dainuoti, surinkimo, rinkinius ir pagrindo lygio.
+
+Panašiai, stichijos buvo didžiausia stiliaus lygį, tada vėl ateis skyriaus, knygos, ir Testamento, Biblija, Biblijoje ir pagrindo.
+
+Bazė yra hierarchijos šaknis, jos stilius taikomas visoms skaidrėms.
+
+Aukštesnio lygio galite nepaisyti apibrėžto žemesnio lygio atributas stiliaus."},{
+Key:1005315,Text:"<b></b>Šis mechanizmas suteikia galimybę keisti savo kelią bendrą ar atskirų skaidrės stilių.
+
+<b>Pvz.</b>
+Jei jums priskirti fone daina, visi ženklai, ši daina atrodo esant tokioms aplinkybėms, išskyrus visi ženklai, kuriuos priskyrėte specialių pirminių."},{
+Key:1005318,Text:"Skaidrių"},{
+Key:1005319,Text:"\"PowerPoint\""},{
+Key:1005320,Text:"PowerPoints"},{
+Key:1005322,Text:"Vaizdo įrašai"},{
+Key:1005323,Text:"CCLI SongSelect"},{
+Key:1005326,Text:"Teksto spalvas"},{
+Key:1005329,Text:"Nustatyti iš naujo"},{
+Key:1005330,Text:"Išvalo stiliumi pasirinktam lygiui"},{
+Key:1005331,Text:"Galite ištrinti visus stiliaus atributus, bet ir pasirinktam lygiui.
+Be stiliaus skaidrė perima ankstesnės skaidrės automatiškai mažesnė lygio stilius.
+
+Pvz.:
+-Vienas posmas turi su Candara šrifto stilių.
+-Dainuoja, tuo tarpu, yra stiliaus su šrifto Segoe UI.
+
+Kai jums ištrinti stilių, stichijos, ji bus rodoma žemesnio lygio stiliumi. Mūsų pavyzdyje, tai bus Segoe UI šriftą.
+
+<b>Drop-down meniu «panaikinti visus anksčiau nurodytus stilius»</b>
+Galite panaikinti stiliumi pasirinktam lygiui ir visus didesnis stilius.
+
+Pavyzdžiui, pasirinkus lygį, stiliaus \"Kodas\", stiliaus kolekcija bus panaikinti taip pat visas dainas surinkimo ir jų stanzas stilių."},{
+Key:1005332,Text:"Šis mygtukas yra blankūs kai lygis neturi jokio savo stiliaus."},{
+Key:1005333,Text:"&Panaikinti visus anksčiau nurodytus stilius"},{
+Key:1005337,Text:"&Viršuje"},{
+Key:1005338,Text:"&Vidutinės"},{
+Key:1005339,Text:"&Apačioje"},{
+Key:1005340,Text:"Likti šį lygį, stilius"},{
+Key:1005341,Text:"Viešbutyje dėl dabartinio lygio stilius"},{
+Key:1005342,Text:"Lieka dabartinį lygį, kai keičiate skaidrės stilių.
+
+Tokiu būdu:
+<b>1.</b> Kai rodote daina, VideoPsalm, stichijos pozicijas \"posmas\" stiliaus lygį.
+<b>2.</b> Keisti stilių, dainavimo, stichijos, pasirinkti lygį stiliaus \"daina.\"
+<b>3.</b> Norėdami likti formatavimo stilių, dainų, paspauskite smeigtuko.
+<b>4.</b> Kai persijungiate iš vieno strofa į kitą, stilius tebėra \"daina.\""},{
+Key:1005343,Text:"Užpildyti teksto"},{
+Key:1005345,Text:"Užpildykite teksto vientisą spalvą, gradientas, yra paveikslėlis arba tekstūra."},{
+Key:1005346,Text:"Teksto spalvą"},{
+Key:1005347,Text:"Struktūros tekstą"},{
+Key:1005349,Text:"Nurodo spalvą, plotį ir teksto stilių kontūro linija."},{
+Key:1005350,Text:"Teksto spalva"},{
+Key:1005352,Text:"Teksto efektas"},{
+Key:1005354,Text:"Taikyti vaizdinį efektą tekstui, pvz., šešėlis, šviesos, atspindys ar 3-d rotacija."},{
+Key:1005356,Text:"Teksto šešėlis"},{
+Key:1005357,Text:"Fono spalva"},{
+Key:1005359,Text:"&Nauja daina"},{
+Key:1005360,Text:"&Nauja kolekcija"},{
+Key:1005361,Text:"&Ištrinti visus"},{
+Key:1005362,Text:"
+
+<b>Dalinis skydas</b>
+Darbotvarkės pradžios, bus išsaugota <b>tekstai</b> jūsų knygų ir Biblija.
+Kalendoriaus stilių taikysite savo knygų ir Biblija."},{
+Key:1005363,Text:"
+
+<b>Dalinis skydas</b>
+Darbotvarkės pradžios, bus išsaugota <b>stilių</b> savo knygų ir Bibliją.
+Bei darbotvarkės taikysite savo knygų ir Biblija."},{
+Key:1005364,Text:"
+
+<b>Visiškai skydas</b>
+Darbotvarkės pradžios, <b>tekstai</b> ir <b>stilių</b> savo knygų ir Biblija bus išsaugota.
+Tiems darbotvarkės nebus taikoma.
+
+<i>Tai yra strategija, kai dokumentai iš šio kompiuterio yra jūsų nuoroda.</i>"},{
+Key:1005365,Text:"
+
+<b>Nesant skydas</b>
+Atvėrimo darbotvarkę, <b>tekstai</b> ir kalendoriaus <b>stilių</b> taikysite savo knygų ir Biblija ir pakeisti savo tekstus ir stilių.
+
+<i>Tai yra strategija priimti kai savo dokumentus yra PC, kurį sukūrėte darbotvarkę.</i>"},{
+Key:1005366,Text:"Pakeisti nuo \"Žiūrovas\" į \"Redaguoti\" režimą ir atvirkščiai, spustelėkite mygtuką su pieštuku."},{
+Key:1005369,Text:"Rūšiuoti pagal pavadinimą"},{
+Key:1005370,Text:"Surūšiuotos pagal numerį"},{
+Key:1005371,Text:"Apie..."},{
+Key:1005377,Text:"4:3.2"},{
+Key:1005378,Text:"Imituoja vaizdo projektorius
+ekrane ne 4:3.2 aspektas"},{
+Key:1005379,Text:"16:9"},{
+Key:1005380,Text:"Imituoja vaizdo projektorius
+ekrano aspektas 16:9"},{
+Key:1005381,Text:"4:3"},{
+Key:1005382,Text:"Imituoja vaizdo projektorius
+į 4:3 vaizdo ekrane"},{
+Key:1005383,Text:"16:10"},{
+Key:1005384,Text:"Imituoja vaizdo projektorius
+ant ekrano aspektas 16:10"},{
+Key:1005385,Text:"16:8"},{
+Key:1005386,Text:"Imituoja vaizdo projektorius
+ekrano aspektas 16:8"},{
+Key:1005387,Text:"Srovės"},{
+Key:1005388,Text:"Naudoja visą ekrano paviršių"},{
+Key:1005389,Text:"Aspektas 4:3"},{
+Key:1005390,Text:"Ar vėl Mi"},{
+Key:1005391,Text:"A B C"},{
+Key:1005396,Text:"Rūšies įterpimo susitarimų"},{
+Key:1005398,Text:"Rodyti susitarimų virš dainų tekstai"},{
+Key:1005400,Text:"Taip pat nustatyti lango išvaizdą"},{
+Key:1005401,Text:"&Į kalendorių įtraukti"},{
+Key:1005402,Text:"&Delete (naikinti)"},{
+Key:1005403,Text:"&Įtraukti kodą į paieškos"},{
+Key:1005404,Text:"&Išskirti tyrimų kolekcija"},{
+Key:1005405,Text:"&Visos kolekcijos įtraukti į iešką"},{
+Key:1005407,Text:"&Slėpti neįtraukiamos į mokslinių tyrimų kolekcijos"},{
+Key:1005408,Text:"&Rodyti neįtraukiamos į mokslinių tyrimų kolekcijos"},{
+Key:1005409,Text:"&Ekrano dydį stačiakampis"},{
+Key:1005410,Text:"Rodo dydį stačiakampis"},{
+Key:1005411,Text:"Leidžia jums dydį rėmo (tekstas, antraštėje arba poraštėje) pasirinkti.
+
+Rėmas gali būti keičiamas su pele peržiūros srityje.
+
+<b>Kaip pakeisti rėmelio dydį</b>
+
+1. Pasirinkite rėmo dydį:
+-kūno
+-antraštės,
+- ar koja.
+
+2. Pasirinkite reikiamą lygį, pavyzdžiui \"Bibliją\".
+
+3. Paspauskite ant klaidą priversti VideoPsalm Rodyti skaidrių stilius \"Bibliją\".
+Iš tiesų, jei nebūtų spaudžiamas klaidą, VideoPsalm automatiškai persijungia į \"Eilėraščio\" stiliaus kuo greičiau rodote stichijos.
+
+4 Parodyti stichijos. Peržiūros srityje rodomas rėmelyje naudojant stilius \"Bibliją\".
+
+5 Keisti dydį ir padėtį naudojant pelės rėmo.
+
+6. Pašalinti klaidą, grįžti VideoPsalm \"Eilėraščio\" stilių, kai bus vėl rodote skaidrę."},{
+Key:1005412,Text:"&Kopijuoti į trumpą informaciją apie kodą į mainų sritį"},{
+Key:1005417,Text:"Tekstas"},{
+Key:1005418,Text:"Stiliaus Explorer"},{
+Key:1005419,Text:"Parodoma arba paslepiama stiliaus Explorer.
+Šiame lange galite naršyti tarp lygių hierarchinę stilių, iš naujo asmens savybes ir jas redaguoti."},{
+Key:1005420,Text:"Stilius"},{
+Key:1005421,Text:"Policijos"},{
+Key:1005424,Text:"Fono"},{
+Key:1005425,Text:"Stilius"},{
+Key:1005429,Text:"Aspektas"},{
+Key:1005430,Text:"Leidimas"},{
+Key:1005432,Text:"Išvaizda"},{
+Key:1005433,Text:"Įrankiai"},{
+Key:1005442,Text:"Tęsti kitą elementą"},{
+Key:1005443,Text:"Prieš išjungti"},{
+Key:1005444,Text:"Ištrinkite tekstą tada Sekite"},{
+Key:1005445,Text:"Ištrinkite tekstą ir tada išjungti"},{
+Key:1005446,Text:"Rodyti kartu su kitas elementas (Rodyti)"},{
+Key:1005447,Text:"Pridėti vokalas arba eilėmis pasirinktą dienotvarkės (Insert arba Alt + A)"},{
+Key:1005448,Text:"Spauskite čia Norėdami pridėti vokalas arba ženklai su darbotvarke.
+
+Antraip, galite vilkite ir upuść šį mygtuką kalendorių, vietoje, kurioje turėtų būti."},{
+Key:1005449,Text:"&Pridėti"},{
+Key:1005454,Text:"Pasirinkite ieškoti dainas pagal raktinius žodžius"},{
+Key:1005455,Text:"Naikinti žodžius ar skaičius paieškos (ESC)"},{
+Key:1005457,Text:"Viešbučių paieška: daina (Ctrl + F)"},{
+Key:1005458,Text:"Viešbučių paieška: dainas, kurios yra tam tikrų žodžių arba turi skaičių.
+
+Pvz.:
+
+-Norėdami rasti daina Nr. 250, tipo «250»
+
+-Rasti daina, kuri yra dainų <b>\"kaip švyturys naktį\"</b>, įveskite kelis žodžius kaip <b>\"šviesos naktį\"</b>.
+
+Nesijaudinkite apie skyrybos ir akcentais.
+
+Nereikia imtis žodžiai kaip visuma arba tvarka.
+
+Pridėti kitų žodžius daina sumažinti rasti dainų sąrašą.
+
+Paspauskite mygtuką <b>Įterpti</b> pridėti pirmoji daina nustatyta darbotvarkėje."},{
+Key:1005459,Text:"Yra ne Biblija.
+Spauskite θia norλdami pradλti importavimo vedlys
+Biblijoje ir pridėti Biblijoje populiarus šaltinių."},{
+Key:1005463,Text:"Išbraukti nuorodą į Rodyti (ESC)"},{
+Key:1005464,Text:"Nuoroda į pasirinkti, pvz: ROM 3:23-25, 30"},{
+Key:1005465,Text:"Pasirinkti ženklai (Ctrl + F)"},{
+Key:1005472,Text:"&Failas:"},{
+Key:1005475,Text:"&Įtraukti šios kolekcijos dainas paieška"},{
+Key:1005479,Text:"&vardas, pavadinimas:"},{
+Key:1005481,Text:"&Santrumpa:"},{
+Key:1005483,Text:"&Autorius:"},{
+Key:1005485,Text:"&Autorinės teisės:"},{
+Key:1005487,Text:"&Dokumento numeris:"},{
+Key:1005491,Text:"&Spausdinti į capo"},{
+Key:1005497,Text:"&Dainų tekstai"},{
+Key:1005499,Text:"&Numeris:"},{
+Key:1005501,Text:"&Pavadinimas:"},{
+Key:1005505,Text:"&Nuoroda:"},{
+Key:1005507,Text:"&Autorinės teisės:"},{
+Key:1005509,Text:"&Autorius:"},{
+Key:1005511,Text:"&Kompozitorius:"},{
+Key:1005513,Text:"&Įvairių"},{
+Key:1005515,Text:"&Tonas:"},{
+Key:1005517,Text:"&Formatas:"},{
+Key:1005519,Text:"&Tema:"},{
+Key:1005521,Text:"&Seka:"},{
+Key:1005523,Text:"&CILC:"},{
+Key:1005525,Text:"&Raktas:"},{
+Key:1005527,Text:"&Slapyvardis:"},{
+Key:1005529,Text:"&Rakto eilutę:"},{
+Key:1005531,Text:"&Atmintinė 1:"},{
+Key:1005533,Text:"&2 Pažymos:"},{
+Key:1005535,Text:"&3 Pažymos:"},{
+Key:1005537,Text:"&Parašas:"},{
+Key:1005540,Text:"&Perkėlimo į nacionalinę teisę:"},{
+Key:1005541,Text:"Spausdinti į capo?"},{
+Key:1005542,Text:"&CAPO:"},{
+Key:1005543,Text:"&Tempas:"},{
+Key:1005545,Text:"Siekiant įgyvendinti susitarimus, daina."},{
+Key:1005555,Text:"&Failas:"},{
+Key:1005560,Text:"&Autorinės teisės:"},{
+Key:1005562,Text:"&Santrumpa:"},{
+Key:1005564,Text:"&vardas, pavadinimas:"},{
+Key:1005566,Text:"&Aprašymas/kontrolė:"},{
+Key:1005568,Text:"&Įvadas:"},{
+Key:1005570,Text:"&Dokumento numeris:"},{
+Key:1005576,Text:"&vardas, pavadinimas:"},{
+Key:1005582,Text:"&vardas, pavadinimas:"},{
+Key:1005584,Text:"&Įvadas:"},{
+Key:1005586,Text:"&Santrumpa:"},{
+Key:1005587,Text:"Skyriaus Biblija"},{
+Key:1005590,Text:"Biblija stichijos"},{
+Key:1005595,Text:"&Stichijos:"},{
+Key:1005603,Text:"&Failas:"},{
+Key:1005606,Text:"Nepažymėtas"},{
+Key:1005608,Text:"Stilius"},{
+Key:1005612,Text:"Pašalina turto vertė"},{
+Key:1005613,Text:"Kai panaikinate nekilnojamojo turto vertė, VideoPsalm naudoja pirmoji reikšmė randama žemesnio lygio.
+
+Pavyzdžiui, jei pašalinsite policijos stichijos, lygiu VideoPsalm naudoja, jei jis nustatomas, šriftą ir tvarka:
+-dainuoja,
+-kitaip surinkimą,
+-Jei vienas iš kolekcijos,
+-kitaip bazė.
+
+VideoPsalm yra tas pats su Biblijoje, paveikslėliai, etc."},{
+Key:1005615,Text:"Nė vienas"},{
+Key:1005616,Text:"Bazė"},{
+Key:1005618,Text:"Kolekcijos"},{
+Key:1005619,Text:"Kolekcija"},{
+Key:1005620,Text:"Vokalas"},{
+Key:1005621,Text:"Strofa"},{
+Key:1005622,Text:"Biblijoje"},{
+Key:1005623,Text:"Biblija"},{
+Key:1005624,Text:"Testamentas"},{
+Key:1005625,Text:"Knyga Biblija"},{
+Key:1005626,Text:"Skyrius"},{
+Key:1005627,Text:"Stichijos"},{
+Key:1005628,Text:"Numatytoji reikšmė"},{
+Key:1005629,Text:"Vertė iš teksto"},{
+Key:1005630,Text:"Kairėje"},{
+Key:1005631,Text:"Centre"},{
+Key:1005632,Text:"Teisė"},{
+Key:1005633,Text:"Pagrįstas"},{
+Key:1005634,Text:"Viršuje"},{
+Key:1005635,Text:"Vidutinės"},{
+Key:1005636,Text:"Apačioje"},{
+Key:1005650,Text:"&Atidaryti kalendorių..."},{
+Key:1005651,Text:"&Pridėti kalendorių..."},{
+Key:1005652,Text:"&Pridėti skaidrių demonstravimo vaizdų..."},{
+Key:1005653,Text:"&Pridėti savarankišką vaizdo..."},{
+Key:1005654,Text:"&Pridėti kai kurios PowerPoints..."},{
+Key:1005655,Text:"Kai aš atidaryti kalendorių:"},{
+Key:1005656,Text:"&Išsaugoti mano knygų ir Biblijos tekstai"},{
+Key:1005657,Text:"&Išsaugoti mano knygų ir Biblija stilių"},{
+Key:1005667,Text:"&Kolekcijos"},{
+Key:1005668,Text:"Rodo kolekcijų (Alt + R)"},{
+Key:1005670,Text:"&Biblijoje"},{
+Key:1005671,Text:"Rodo Bibliją (Alt + B)"},{
+Key:1005677,Text:"&Plotis:"},{
+Key:1005680,Text:"&Nuimti:"},{
+Key:1005681,Text:"&Gylis:"},{
+Key:1005682,Text:"&Kryptis:"},{
+Key:1005686,Text:"Rodo tuščią ekraną, juoda spalva.
+Imituoja projektoriaus išnykimas."},{
+Key:1005687,Text:"Kitas"},{
+Key:1005688,Text:"Iš anksto į kitą skaidrę."},{
+Key:1005689,Text:"Išjungti ekraną (Ctrl + W)"},{
+Key:1005690,Text:"Rodomą tekstą (Ctrl + T)"},{
+Key:1005691,Text:"Rodo arba slepia tekstą skaidrėje."},{
+Key:1005692,Text:"Skydas (Ctrl + B)"},{
+Key:1005693,Text:"Išsaugo vokalas yra video projekcijos skaidres.
+
+Dirbti darbotvarkę arba ieškoti daina arba stichijos per vaizdo projekcija dainuoti.
+
+Norėdami perrašyti skydas, dukart spustelėkite elementą į darbotvarkę."},{
+Key:1005694,Text:"Užšaldyti"},{
+Key:1005695,Text:"Fiksuoja vaizdo projekcijos ekranai be šaldymo peržiūros srityje.
+
+Norėdami peržiūrėti pristatymą per vaizdo projektorius."},{
+Key:1005696,Text:"Projektas (Ctrl + P)"},{
+Key:1005697,Text:"Prognozuojamas skaidrių projektorių."},{
+Key:1005698,Text:"Režimas \"Edition\" (Ctrl + E)"},{
+Key:1005699,Text:"Raktus nuo \"Žiūrovas\" į \"Redaguoti\" režimą ir atvirkščiai."},{
+Key:1005702,Text:"Atidarykite dokumentą arba kalendorius"},{
+Key:1005703,Text:"Atidaro kalendorių, arba pridėti PowerPoint pristatymą, vaizdų skaidrių, vaizdo įrašus ir tt."},{
+Key:1005704,Text:"Įrašyti kalendorius"},{
+Key:1005705,Text:"Naikinti"},{
+Key:1005706,Text:"Šalina pažymėtus elementus į darbotvarkę (naikinti)."},{
+Key:1005707,Text:"Kalno (Ctrl + puslapis aukštyn)"},{
+Key:1005708,Text:"Darbotvarkės pradžios elemento Monte."},{
+Key:1005709,Text:"Žemyn (Ctrl + puslapis žemyn)"},{
+Key:1005710,Text:"Žemyn link pabaigos, darbotvarkę elementas."},{
+Key:1005711,Text:"Ryškumas"},{
+Key:1005712,Text:"Atidaryti kalendorių"},{
+Key:1005713,Text:"Išsaugo darbotvarkę diską ar USB raktą."},{
+Key:1005721,Text:"Pasirenka ženklai pagal jų.
+<i>Pavyzdys: ROM 3:23-25, 30</i>
+
+Neįveskite Akcentai knygų pavadinimus.
+<i>Pavyzdys: n<b>e</b>h<b>e</b>mie \"o ne\" N<b>é</b>h<b>é</b>mie \".</i>
+
+Atvykti į <b>\":\"</b>, <b>\".\"</b> arba <b>\"v\"</b> atskiras skyriams ženklai.
+
+Paspauskite klavišą <b>\"Įterpti\"</b> pridėti pasirinktas darbotvarkėje eilėmis."},{
+Key:1005722,Text:"Komentarai (ne versti, palikti anglų kalba)"},{
+Key:1005723,Text:"Negali įrašyti failo
+{0} :
+{1}"},{
+Key:1005724,Text:"Klaida"},{
+Key:1005725,Text:"Nepavyko perskaityti failo
+{0} :
+{1}"},{
+Key:1005730,Text:"Ar tikrai norite pašalinti iš skaidrių demonstravimo vaizdų?
+Skaidrių vaizdų stilius bus standartinė vertė."},{
+Key:1005731,Text:"Ar tikrai norite pašalinti tą pamatinį stilių?
+Pagrindinio stiliaus imsis standartinė vertė."},{
+Key:1005732,Text:"Ar tikrai norite pašalinti stilių kolekcijos?
+Kolekcijos stilius bus standartinė vertė."},{
+Key:1005733,Text:"Ar tikrai norite pašalinti stilių Bibliją?
+Stiliaus Biblijoje priims standartinė vertė."},{
+Key:1005734,Text:"Ar tikrai norite naikinti šį stilių?
+VideoPsalm taikomas mažesnis randama hierarchijos stiliaus atributai."},{
+Key:1005735,Text:"Aišku, stilius"},{
+Key:1005736,Text:"Ar tikrai norite pašalinti vaizdo įrašus?
+Vaizdo stilius bus standartinė vertė."},{
+Key:1005737,Text:"Kolekcija"},{
+Key:1005738,Text:"Nėra rinkimas"},{
+Key:1005739,Text:"Biblijos"},{
+Key:1005740,Text:"Nėra to Biblija"},{
+Key:1005743,Text:"Padidinti šriftą (Ctrl + Shift +.)"},{
+Key:1005744,Text:"Padidina šrifto dydį."},{
+Key:1005745,Text:"Sumažinti šriftą (Ctrl + Shift +,)"},{
+Key:1005746,Text:"Sumažina šrifto dydį."},{
+Key:1005747,Text:"Drąsūs (Ctrl + B)"},{
+Key:1005748,Text:"Įdėti pažymėtas tekstas paryškinamas."},{
+Key:1005749,Text:"Pasviruoju šriftu (Ctrl + I)"},{
+Key:1005750,Text:"Įdėti pažymėtą tekstą pasviruoju šriftu."},{
+Key:1005751,Text:"Nurodė (Ctrl + U)"},{
+Key:1005752,Text:"Pabraukite pažymėtą tekstą."},{
+Key:1005753,Text:"Baras"},{
+Key:1005754,Text:"Lygiosios linijos viduryje pažymėtą tekstą."},{
+Key:1005755,Text:"Rodyti / slėpti ¶ (Ctrl + Shift + 8)"},{
+Key:1005756,Text:"Pateikiami pastraipų žymes ir kitus paslėptus formatavimo simbolius."},{
+Key:1005757,Text:"Šrifto spalva"},{
+Key:1005758,Text:"Keisti teksto spalvą."},{
+Key:1005759,Text:"Teksto spalvą"},{
+Key:1005760,Text:"Suteikia spalvą tekstui."},{
+Key:1005761,Text:"Valyti formatavimą (Ctrl + tarpas)"},{
+Key:1005762,Text:"Visiškai išvalo pažymėtos srities formatą ir išlaiko tik paprastas tekstas."},{
+Key:1005763,Text:"Anuliuoti (Ctrl + Z)"},{
+Key:1005764,Text:"Atšaukia paskutinę operaciją."},{
+Key:1005765,Text:"Perdaryti (Ctrl + Y)"},{
+Key:1005766,Text:"Pakartoja paskutinę operaciją."},{
+Key:1005767,Text:"Sumažinti (Ctrl + X)"},{
+Key:1005768,Text:"Iškirpti pažymėtą sritį ir įdėkite jį į mainų sritį."},{
+Key:1005769,Text:"Kopijuoti (Ctrl + C)"},{
+Key:1005770,Text:"Nukopijuoja pažymėtą sritį ir padeda ją į mainų sritį."},{
+Key:1005771,Text:"Įklijuoti (Ctrl + V)"},{
+Key:1005772,Text:"Įklijuoja mainų srities turinį."},{
+Key:1005773,Text:"Paieškos (Ctrl + F)"},{
+Key:1005774,Text:"Ieškoti teksto dokumente."},{
+Key:1005775,Text:"Pakeisti (Ctrl + H)"},{
+Key:1005776,Text:"Pakeičia tekstą dokumente."},{
+Key:1005777,Text:"Padidinti"},{
+Key:1005778,Text:"Rodyti visus"},{
+Key:1005779,Text:"Redaguoti konkrečius stichijos, spustelėkite ant jo."},{
+Key:1005780,Text:"Atrankos eilėmis"},{
+Key:1005781,Text:"Rūšiuoja surinkimo atrenka jų pavadinimas dainos."},{
+Key:1005782,Text:"Uždaromas Dabartinis darbotvarkę (ir prašo savo jei yra neįrašytų pakeitimų patvirtinimą)."},{
+Key:1005783,Text:"Reguliuoja ekrano ry¹kum±. vaizdo ar video fone.
+
+Leidžia į teksto paryškinimas, net per barriole fone."},{
+Key:1005784,Text:"&Kopijuoti į darbotvarkę apibūdinimas"},{
+Key:1005785,Text:"&Įtraukti dainų tekstai"},{
+Key:1005786,Text:"&Įtraukti Biblijos akcijų Slapyvardis"},{
+Key:1005787,Text:"\"Facebook\""},{
+Key:1005788,Text:"Twitter"},{
+Key:1005789,Text:"\"YouTube\""},{
+Key:1005790,Text:"Atidaro VideoPsalm facebook puslapyje.
+
+Pranešti VideoPsalm aplink jus:
+-paspaudę mygtuką \"man patinka\"
+-iš vis jo draugas.
+
+<b>Pastaba:</b> Pašalinti Facebook skelbimai, įdiekite nemokama įjungti <b>Adblock Plus</b>.
+
+Paslėpti VideoPsalm socialinės piktogramos, uždrauskite jas \"Funkcijos\" → \"Général\" skirtuke."},{
+Key:1005791,Text:"Atidaro VideoPsalm Twitter puslapyje, informuoti apie naujų straipsnių iš dienoraščių.
+
+Paslėpti VideoPsalm socialinės piktogramos, uždrauskite jas \"Funkcijos\" → \"Général\" skirtuke."},{
+Key:1005792,Text:"Atidaro VideoPsalm \"YouTube\" puslapyje, kuriame rasite vaizdo samouczków dėl VideoPsalm naudojimo.
+
+Paslėpti VideoPsalm socialinės piktogramos, uždrauskite jas \"Funkcijos\" → \"Général\" skirtuke."},{
+Key:1005793,Text:"Prideda naują tuščią dainą (arba reklama) į pasirinktą rinkinį."},{
+Key:1005794,Text:"Prideda naują tuščią kolekciją."},{
+Key:1005795,Text:"Pasirinktas pagal jų numerį rinkti dainas rūšių."},{
+Key:1005800,Text:"Strofa"},{
+Key:1005801,Text:"Choras"},{
+Key:1005802,Text:"Pre-Chorus"},{
+Key:1005803,Text:"Tiltas"},{
+Key:1005804,Text:"Etiketė"},{
+Key:1005805,Text:"Įvadas"},{
+Key:1005806,Text:"Produkcijos"},{
+Key:1005807,Text:"Slydimo"},{
+Key:1005808,Text:"Instrumentinė versija"},{
+Key:1005809,Text:"Kitų"},{
+Key:1005820,Text:"S"},{
+Key:1005821,Text:"R"},{
+Key:1005822,Text:"V"},{
+Key:1005823,Text:"P"},{
+Key:1005824,Text:"E"},{
+Key:1005825,Text:"AŠ"},{
+Key:1005826,Text:"O"},{
+Key:1005827,Text:"G"},{
+Key:1005828,Text:"N"},{
+Key:1005829,Text:"A"},{
+Key:1005850,Text:"Uždaryti"},{
+Key:1005851,Text:"&Kalba:"},{
+Key:1005852,Text:"&Leidėjas:"},{
+Key:1005853,Text:"Visi"},{
+Key:1005859,Text:"Perkelti daina susitarimai priklausomai nuo to capodiastre."},{
+Key:1005860,Text:"Dainas, įskaitant pavadinimas (arba pseudonimas) arba dainų būti žodžiai, įvesti.
+
+Kita vertus, jūs galite ieškoti dainą iš savo numerį."},{
+Key:1005861,Text:"Atlieka paiešką dviem etapais, kad pranašumas greitai parodyti trumpas sąrašas dainos:
+
+1 Rasti pirmą kartą dainų įskaitant pavadinimas (arba pseudonimas) yra žodžiai, kuriuos įvedate.
+
+Kad galite pridėti žodžių, ten ateina laikas, kai dauguma bet daina gali susitarti.
+
+2. Nuo šio taško, VideoPsalm bus ieškoti dainos dainų žodžiai.
+
+Kita vertus, jūs galite ieškoti dainą iš savo numerį."},{
+Key:1005862,Text:"Rasti dainų autoriais įvedate.
+
+Kita vertus, jūs galite ieškoti dainą iš savo numerį."},{
+Key:1005863,Text:"Rasti dainų, kad kovoti su temomis, kad įvedate.
+
+Kita vertus, jūs galite ieškoti dainą iš savo numerį."},{
+Key:1005864,Text:"Rasti dainas įkvėpė iš Biblijos nuorodos, kurią įvedate.
+
+Kita vertus, jūs galite ieškoti dainą iš savo numerį."},{
+Key:1005865,Text:"Yra daina, kad turi įvesti CCLI.
+
+Kita vertus, jūs galite ieškoti dainą iš savo numerį."},{
+Key:1005866,Text:"Rasti dainas, kurių autorių teisės yra žodžiai, kuriuos įvedate.
+
+Kita vertus, jūs galite ieškoti dainą iš savo numerį."},{
+Key:1005867,Text:"Rasti dainas, kurios pažymos 1 yra žodžiai, kuriuos įvedate.
+
+Kita vertus, jūs galite ieškoti dainą iš savo numerį."},{
+Key:1005868,Text:"Rasti dainas, kurios pažymos 2 yra žodžiai, kuriuos įvedate.
+
+Kita vertus, jūs galite ieškoti dainą iš savo numerį."},{
+Key:1005869,Text:"Rasti dainų, 3 pažymos yra žodžiai įvedate.
+
+Kita vertus, jūs galite ieškoti dainą iš savo numerį."},{
+Key:1005870,Text:"Rasti dainas, kurios pavadinimas arba pseudonimas yra žodžiai, kuriuos įvedate.
+
+Kita vertus, jūs galite ieškoti dainą iš savo numerį."},{
+Key:1005871,Text:"Rasti dainas, kurios turi susitarimų dainų.
+
+Kita vertus, jūs galite ieškoti dainą iš savo numerį."},{
+Key:1005872,Text:"&Versija:"},{
+Key:1005873,Text:"&Versija:"},{
+Key:1005874,Text:"Jūsų versija surinkimo data"},{
+Key:1005875,Text:"Rodo datą, ši kolekcija buvo atnaujinta paskutinį kartą iš VideoPsalm.
+
+Per VideoPsalm internetinę biblioteką importavimo vedlys, galite patikrinti ar yra naujesnė versija šiame vadove.
+
+VideoPsalm internete kartais atnaujina kai kolekcijas, pavyzdžiui klaidų ištaisyti."},{
+Key:1005876,Text:"Dienos savo versiją Biblijoje"},{
+Key:1005877,Text:"Rodo datą, kurią ši Biblija buvo atnaujintas VideoPsalm paskutinį kartą.
+
+Per VideoPsalm biblioteka internete, kurioje importavimo vedlį, galite patikrinti, ar yra naujesnė versija, Šis vertimas.
+
+VideoPsalm internete kartais atnaujina kai Biblijoje, pavyzdžiui klaidų ištaisyti."},{
+Key:1005878,Text:"Suspaustas"},{
+Key:1005879,Text:"Suspaustas"},{
+Key:1005880,Text:"VideoPsalm gali suspausti savo kolekcijų ir jūsų Biblijoje, kad sutaupyti šiek tiek vietos diske.
+
+Knygų ir Biblijoje, kad Jūs siųsitės naudodamiesi importavimo vedlys paprastai yra suspausta, paspartinti parsisiųsti ir sumažinti interneto srauto svetainėje VideoPsalm."},{
+Key:1005881,Text:"&Suspaustas"},{
+Key:1005882,Text:"&Suspaustas"},{
+Key:1005884,Text:"Ar tikrai norite naikinti Biblija '{0}'?
+
+Atitinkantį ši Biblija failas nebus panaikinti iš disko:
+jo plėtinys bus pervadintas \".ignore."},{
+Key:1005885,Text:"Naikinti Biblijos"},{
+Key:1005886,Text:"Palaukite, prašome"},{
+Key:1005887,Text:"Pakrovimo pažanga..."},{
+Key:1005888,Text:"Senojo Testamento"},{
+Key:1005889,Text:"Naujajame Testamente"},{
+Key:1005890,Text:"Dabartinis įrašas..."},{
+Key:1005891,Text:"&Importuoti vaizdus"},{
+Key:1005892,Text:"Pasirinkite vaizdus, kuriuos norite importuoti ir paspauskite \"atidaryti\"."},{
+Key:1005893,Text:"Importavote {0} rėmas (-ai)."},{
+Key:1005894,Text:"Joks paveikslėlis nebuvo importuotas.
+(Ji (s) nustatoma (-os) galerijoje)."},{
+Key:1005895,Text:"&Atkurti miniatiūros"},{
+Key:1005896,Text:"Atkurti miniatiūros"},{
+Key:1005897,Text:"Ar norite iš naujo sukurti miniatiūros?
+
+Tai gali būti būtina atkurti vaizdų miniatiūras
+Kai atlikote pakeitimus ne VideoPsalm."},{
+Key:1005898,Text:"&Naikinti paveikslėlį"},{
+Key:1005899,Text:"Pašalinti atvaizdą"},{
+Key:1005900,Text:"Ar tikrai norite naikinti paveikslėlį '{0}'?"},{
+Key:1005901,Text:"&Ištirti vaizdų kataloge"},{
+Key:1005902,Text:"&Naikinti pasirinktą vaizdą"},{
+Key:1005903,Text:"&Importuoti vaizdo įrašus"},{
+Key:1005904,Text:"Pasirinkite vaizdo, kurį norite importuoti ir paspauskite \"atidaryti\"."},{
+Key:1005905,Text:"Importavote {0} vaizdo (s)."},{
+Key:1005906,Text:"Nėra vaizdo nebuvo importuotas.
+(Ji (s) nustatoma (-os) galerijoje)."},{
+Key:1005907,Text:"&Atkurti miniatiūros"},{
+Key:1005908,Text:"&Naikinti vaizdo"},{
+Key:1005909,Text:"Naikinti vaizdo"},{
+Key:1005910,Text:"Ar tikrai norite naikinti vaizdo '{0}'?"},{
+Key:1005911,Text:"&Naršyti aplanką vaizdo įrašai"},{
+Key:1005912,Text:"&Naikinti pasirinktas vaizdo"},{
+Key:1005913,Text:"<Sans vidéo=\"\"></Sans>"},{
+Key:1005914,Text:"Importuoti nuotraukas"},{
+Key:1005915,Text:"Importuoti vaizdo įrašus"},{
+Key:1005917,Text:"Negalima sukurti aplanko
+{0} :
+{1}"},{
+Key:1005918,Text:"Nurodytą aplanką neturi jokia parama:
+{0}"},{
+Key:1005919,Text:"Aplankas turi būti užpildytas."},{
+Key:1005920,Text:"Aplanko pavadinimo negali būti šių simbolių:
+{0}"},{
+Key:1005921,Text:"Atkurti knygas ir Biblija"},{
+Key:1005922,Text:"Norėdami atkurti kolekcijos, Bibliją, nuotraukas ar vaizdo įrašus, pvz. iš USB atsarginę klijuoti."},{
+Key:1005923,Text:"Uždaryti"},{
+Key:1005930,Text:"&Kopijuoti dainą"},{
+Key:1005931,Text:"&Perkelti į dainą"},{
+Key:1005932,Text:"Ar tikrai norite kopijuoti daina '{0}'.
+rinkti '{1}'?"},{
+Key:1005933,Text:"Ar tikrai norite perkelti daina '{0}'.
+rinkti '{1}'?"},{
+Key:1005934,Text:"&Įveskite nuorodas per santrumpos"},{
+Key:1005935,Text:"&Ekrano pavadinimas, knygų prancūzų kalba"},{
+Key:1005936,Text:"(Kopija)"},{
+Key:1005937,Text:"Naują knygą galima rasti:
+{0}"},{
+Key:1005938,Text:"Naujos kolekcijos yra: {0}"},{
+Key:1005939,Text:"Buvo ištaisyti
+kolekcija '{0}'."},{
+Key:1005940,Text:"Buvo ištaisyti
+kodų: {0}"},{
+Key:1005941,Text:"Atidaryti kolekcijos importavimo vedlys"},{
+Key:1005942,Text:"Naujas Biblija yra:
+{0}"},{
+Key:1005943,Text:"Naujas Biblijoje yra: {0}"},{
+Key:1005944,Text:"Buvo ištaisyti
+Biblija '{0}'."},{
+Key:1005945,Text:"Buvo ištaisyti
+į Bibliją toliau: {0}"},{
+Key:1005946,Text:"Atidarykite vedlį importuoti Bibliją"},{
+Key:1005947,Text:"VideoPsalm yra naujai
+{0}"},{
+Key:1005948,Text:"VideoPsalm yra naujai prieinama: {0}"},{
+Key:1005949,Text:"Buvo ištaisyti
+etikečių {0}"},{
+Key:1005950,Text:"Buvo ištaisyti
+kalbomis etiketės: {0}"},{
+Key:1005951,Text:"Atidaryti etikečių vedlį, importo"},{
+Key:1005952,Text:"Naujesnė versija
+VideoPsalm yra:"},{
+Key:1005953,Text:"Ekrano Naujienos"},{
+Key:1005954,Text:"Automatinis"},{
+Key:1005955,Text:"Ištirti pasirinktą aplanką"},{
+Key:1005956,Text:"Pasirinkite aplanką"},{
+Key:1005957,Text:"Rodyti pastaruoju metu naudotus failus"},{
+Key:1005958,Text:"Įrašyti"},{
+Key:1005959,Text:"Leidžia įrašyti savo kolekcijas, Biblijoje, nuotraukų ar vaizdo įrašų, arba padaryti nešiojamasis versija VideoPsalm, pavyzdžiui, dėl USB stick."},{
+Key:1005960,Text:"&Atkurti..."},{
+Key:1005961,Text:"VideoPsalm yra negali Rodyti PowerPoint dokumentus.
+
+(PowerPoint tipo paraiškos neaptikta kompiuteryje)."},{
+Key:1005962,Text:"Klaida \"PowerPoint\""},{
+Key:1005963,Text:"Padaryti {0} redaguojamą rinkinyje {1}."},{
+Key:1005964,Text:"Padaryti {0} redaguojamą kolekcija..."},{
+Key:1005965,Text:"Padaryti {0} redaguotinu nauja kolekcija '{1}'."},{
+Key:1005966,Text:"Biblijos ištraukos"},{
+Key:1005967,Text:"&Individualizuotos Biblijos ištraukos"},{
+Key:1005968,Text:"&Aprašymas/kontrolė:"},{
+Key:1005969,Text:"&Kalba:"},{
+Key:1005970,Text:"&Leidėjas:"},{
+Key:1005971,Text:"&Administratorius:"},{
+Key:1005973,Text:"&Administratorius:"},{
+Key:1005974,Text:"Virš teksto"},{
+Key:1005975,Text:"Susitarimų virš teksto"},{
+Key:1005976,Text:"Tai yra rekomenduojamas būdas redaguoti dainų.
+Kai redaguojate tekstą, kiekvieno susitarimo juda prie kurios jis pritvirtintas raide.
+
+Kada jūs <b>kopijuoti tekstą su susitarimų</b>, susitarimų yra nukopijuojami su teksto, ChordPro formatas.
+
+Įklijavus tekstą, kuriame yra susitarimų ChordPro formatas, VideoPsalm rodo šių susitarimų virš teksto.
+
+<b>Pridėti susitarimą</b>, įterpti į kairę nuo raidę, kurią norite dokas jį, iš aplink jį su skliausteliuose <b>[]</b>.
+
+<b>Naikinti susitarimą</b>, naikinti laišką, kuriai ji yra fiksuota ir tada pakartokite raidę.
+
+<b>Pakeisti Susitarimo</b>, panaikinkite tada įdėkite jį teisingai (arba \" <b>Formato ChordPro</b> \" režimu)."},{
+Key:1005977,Text:"ChordPro formatas"},{
+Key:1005978,Text:"Susitarimų ChordPro formatas"},{
+Key:1005979,Text:"Tokiu būdu:
+
+-VideoPsalm rodo dainų žodžiai ir akordai <b>ChordPro formatas</b>.
+
+-Tai idealus būdas redaguoti susitarimus: VideoPsalm automatiškai prideda skliaustus [] aplink tekstą, kurį įvedate.
+Pavyzdžiui, pridėti c akordas, tipo «Padaryti» ir VideoPsalm bus įterpti \"[tai]\".
+
+Dėmesio: šiuo režimu nėra tinkamas redaguoti dainų, nes atsižvelgiant į konkretų atvejį, VideoPsalm aplink raides kabliukų.
+Naudoti gana \"<b>virš teksto</b>\" režimą Norėdami redaguoti tekstą."},{
+Key:1005980,Text:"Susitarimai"},{
+Key:1005981,Text:"Kopija"},{
+Key:1005982,Text:"Nukopijuoja į kalendoriaus ir įdėkite jį į mainų sritį."},{
+Key:1005983,Text:"&Leisti PowerPoint naudoti \"pranešėjo\"."},{
+Key:1005984,Text:"Kai šis langelis pažymėtas, VideoPsalm lapai PowerPoint Rodyti savo komandą sąsają vairuoti pateikimo pažanga."},{
+Key:1005985,Text:"Naršyti kartą"},{
+Key:1005986,Text:"Linijos"},{
+Key:1005987,Text:"Iš anksto rankiniu būdu"},{
+Key:1005988,Text:"&Interneto..."},{
+Key:1005989,Text:"&Automatinis išankstinio..."},{
+Key:1005990,Text:"&Iš anksto rankiniu būdu"},{
+Key:1005991,Text:"&Linijos"},{
+Key:1005992,Text:"&Naršyti kartą"},{
+Key:1005993,Text:"&Intervalas (sekundėmis):"},{
+Key:1005994,Text:"&Išnyksta tekstą ir tada išjungti"},{
+Key:1005995,Text:"&Su paskesnio elemento"},{
+Key:1005996,Text:"&Prieš išjungti"},{
+Key:1005997,Text:"&Nyksta teksto tada sekite"},{
+Key:1005998,Text:"&Rodyti kartu su kitas elementas (Rodyti)"},{
+Key:1005999,Text:"&\"Explorer\""},{
+Key:1006000,Text:"Importavimo vedlys"},{
+Key:1006001,Text:"Sveiki atvykę į knygų, Biblijoje, paveikslėliai ir vaizdo įrašai vedlys importuoti"},{
+Key:1006002,Text:"Šis vedlys supaprastina knygos, Biblijos, atvaizdus ir vaizdo įrašus iš bibliotekos importuoti internete VideoPsalm arba populiarių formatų nukreips jus per keletą žingsnių."},{
+Key:1006003,Text:"Spustelėkite Pirmyn toliau"},{
+Key:1006004,Text:"&Pasirinkti..."},{
+Key:1006005,Text:"&Kitas &gt;"},{
+Key:1006006,Text:"&&lt; Ankstesnių"},{
+Key:1006007,Text:"&pagalba"},{
+Key:1006008,Text:"&Apdaila"},{
+Key:1006009,Text:"&Atsisakymas"},{
+Key:1006010,Text:"Galite importuoti knygos, Biblijos, nuotraukas arba vaizdo įrašus"},{
+Key:1006011,Text:"Pasirinkite ką norite importuoti"},{
+Key:1006012,Text:"Importuoti kolekcija"},{
+Key:1006013,Text:"Importuoti Biblijos"},{
+Key:1006014,Text:"Importuoti vaizdus"},{
+Key:1006015,Text:"Importuoti vaizdo įrašus"},{
+Key:1006016,Text:"Importuoti kalba"},{
+Key:1006020,Text:"&Inicijuoti"},{
+Key:1006021,Text:"Inicijuoja aplanką, iš kurio standartinė vertė"},{
+Key:1006023,Text:"Santrauka iki importo"},{
+Key:1006024,Text:"Spustelėkite Pirmyn ir pradėkite importavimą"},{
+Key:1006025,Text:"Dabartinį importo"},{
+Key:1006026,Text:"Importavimo"},{
+Key:1006027,Text:"Kad užvertumėte vediklį, spustelėkite Baigti
+
+Spustelėkite atgal į importo kitą rinkinį arba kitą Biblija"},{
+Key:1006029,Text:"Jūs turite {0} sėkmingai importuotas dainas {1} kolekcijos."},{
+Key:1006030,Text:"Jūs turite {0} sėkmingai importuotas dainos nauja kolekcija '{1}'."},{
+Key:1006031,Text:"Importavote į \"{0}' Biblija sėkmės."},{
+Key:1006032,Text:"Importavote {0} Biblijoje sėkmės."},{
+Key:1006033,Text:"Importavote '{0}' kalba sėkmės."},{
+Key:1006034,Text:"{0} Kalb buvo sėkmingai importuotas."},{
+Key:1006035,Text:"Ar norite sustabdyti importavimą?"},{
+Key:1006036,Text:"Importo nebuvo tinkamai baigta."},{
+Key:1006037,Text:"Įvardykite šią naują kolekciją VideoPsalm"},{
+Key:1006038,Text:"Nauja kolekcija bus įrašytas pagal šį pavadinimą. Šis pavadinimas gali būti pakeistas vėliau"},{
+Key:1006039,Text:"&Pavadinimas duoti į rinkinį:"},{
+Key:1006040,Text:"Pavadinkite šį naują Biblijos VideoPsalm"},{
+Key:1006041,Text:"Naujas Biblija bus įrašytas pagal šį pavadinimą. Šis pavadinimas gali būti pakeistas vėliau"},{
+Key:1006042,Text:"&Pavadinimas suteikti Biblija:"},{
+Key:1006051,Text:"Pasirinkite kolekcijos"},{
+Key:1006052,Text:"Pasirinkite Bibliją"},{
+Key:1006053,Text:"Pasirinkite failą"},{
+Key:1006054,Text:"Pasirinkite aplanką"},{
+Key:1006055,Text:"&Failas:"},{
+Key:1006056,Text:"&Failas:"},{
+Key:1006057,Text:"Pasirinkite kalbas"},{
+Key:1006058,Text:"Aplanko {0} nėra."},{
+Key:1006060,Text:"Negali įeiti į aplanką '{0}'.
+
+{1}"},{
+Key:1006061,Text:"Failas {0} nėra."},{
+Key:1006062,Text:"Dėmesio: Daug rinkinių galite užpildyti kompiuterio atminties ar lėtai dainų paieška.
+Ar tikrai atsisiųsti galite {0} kolekcijos?"},{
+Key:1006063,Text:"Dėmesio: Daugelis Biblijos pakrovimo užpildyti kompiuterio atminties.
+Ar tikrai atsisiųsti galite {0} Bibliją?"},{
+Key:1006064,Text:"Naujas pavadinimas negali būti tuščias."},{
+Key:1006065,Text:"Naujas pavadinimas negali būti šios characters: {0}"},{
+Key:1006066,Text:"Jau rinkinio pavadinimą {0}."},{
+Key:1006067,Text:"Jau Biblijos pavadinimas '{0}'."},{
+Key:1006068,Text:"Jūs sustabdytas importo."},{
+Key:1006069,Text:"Patikrinkite savo interneto ryšį."},{
+Key:1006070,Text:"Laisvas nuo su {0}"},{
+Key:1006071,Text:"Nauja versija nuo tos {0}"},{
+Key:1006072,Text:"Jūsų versijų datas nuo su {0}"},{
+Key:1006073,Text:"Jūsų versija {0} yra naujausia."},{
+Key:1006074,Text:"Pavadinimas"},{
+Key:1006075,Text:"Valstybės"},{
+Key:1006076,Text:"Atsisiųsti"},{
+Key:1006077,Text:"Atnaujinti"},{
+Key:1006078,Text:"Galimas atnaujinimas"},{
+Key:1006079,Text:"Naujas"},{
+Key:1006080,Text:"Naujas naujinimas"},{
+Key:1006081,Text:"Pažymėtas nėra surenkami.
+Turite pasirinkti bent vieną rinkinį."},{
+Key:1006082,Text:"Nėra to Biblija yra pažymėtas.
+Turite pasirinkti bent Biblija."},{
+Key:1006083,Text:"Nė viena kalba yra pažymėtas.
+Turite pasirinkti bent vieną kalbą."},{
+Key:1006084,Text:"Kodas"},{
+Key:1006085,Text:"Šaltinis failą: <b>{0}</b>"},{
+Key:1006086,Text:"Šaltinis:
+<b>{0}</b>"},{
+Key:1006087,Text:"Dokumentų paieška"},{
+Key:1006090,Text:"Pavadinimas, suteiktas naujas Biblija, VideoPsalm: <b>{0}</b>"},{
+Key:1006091,Text:"Nauja kolekcija VideoPsalm name: <b>{0}</b>"},{
+Key:1006095,Text:"Bibliotekoje VideoPsalm internete, tai atsitinka, kad kai kurie dokumentai yra įtraukti arba atnaujinti (pvz ištaisyti klaidos).
+Atsižvelgiant į pirmiau minėtų dokumentų, jūs galite nuspręsti atsisiųsti juos ar ne.
+
+<b>Štai kaip atskirti valstybės dokumentų:</b>
+-Dokumentų, kuriuos jūs turite ne atsisiųsti rodomi normalus.
+-Dokumentų, kuriuos jūs įkėlėte ir atnaujinami yra rodomas <i>pasviruoju šriftu</i>. Jie žymimi <image=check_16>Gerai.
+Jums nereikia naujo - atsisiųsti, išskyrus atveju, kai norite atšaukti bet kuriuos keitimus atlikote.
+-Dokumentai, kuriuos įkėlėte ir mes padarėme tuo tarpu pataisos VideoPsalm internetu bibliotekoje, rodomi <b>paryškintai</b>. Jos yra pažymėtos su pieštuku <image=pencil2_16>.
+
+Teksto laukelio dešinėje aprašoma, kokie pataisymai buvo atlikti dokumento: tai gali padėti jums nuspręsti, jei norite vėl - atsisiųsti.
+
+<b>Dėmesio:</b> Jei jūs atnaujinsite savo dokumento re-uploading, jūs prarasite visus pakeitimus, kuriuos atlikote, taip pat kaip savo stiliaus atributus nes VideoPsalm pakeičia savo, tai parsisiųsti.
+Savo faile yra ne panaikinti, tačiau: jis lieka diske, bet tampa nematomas VideoPsalm, nes VideoPsalm pervardija savo ekspansiją į .ignore.
+
+<b>Taryba</b> : tik parsisiųsti dokumentus, kurie bus naudinga.
+Tiesą sakant, jei turite daug dokumentų, pakrovimo VideoPsalm taps gal lėčiau, kaip ieškoti pagal raktinį žodį.
+
+Atkreipkite dėmesį, kad galite bet kuriuo metu pašalinti knygą arba savo VideoPsalm Biblija. Norėdami tai padaryti, naudokite mygtuką \" <image=delete2_16>Naikinti\", skirtuką \"Édition\".</image=delete2_16> </image=pencil2_16> </image=check_16>"},{
+Key:1006096,Text:"&Istorija apie pasikeitimus '{0}'."},{
+Key:1006100,Text:"Kolekcijų bibliotekos VideoPsalm internete"},{
+Key:1006105,Text:"EasySlides dainos"},{
+Key:1006110,Text:"MediaShout dainos"},{
+Key:1006115,Text:"OpenLP dainos"},{
+Key:1006116,Text:"VerseView dainos"},{
+Key:1006120,Text:"Dainos \"OpenLyrics\" formatu."},{
+Key:1006125,Text:"OpenSong dainos"},{
+Key:1006130,Text:"Psalmo kolekcija"},{
+Key:1006131,Text:"Kolekcija teksto formatu"},{
+Key:1006132,Text:"Dainų EasyWorship 2009"},{
+Key:1006133,Text:"Dainos \"ChordPro\" formatu."},{
+Key:1006134,Text:"WebAsaph dainos"},{
+Key:1006135,Text:"Dainos formatu «CCLI."},{
+Key:1006140,Text:"Biblijoje iš bibliotekos VideoPsalm internete"},{
+Key:1006145,Text:"Biblija Biblijos duomenų bazė"},{
+Key:1006150,Text:"Biblijos, OpenLP"},{
+Key:1006155,Text:"Biblijos, OpenSong"},{
+Key:1006160,Text:"Nesusietojo Biblija Biblijos"},{
+Key:1006165,Text:"Zefania Biblijos"},{
+Key:1006166,Text:"Biblijos, EasySlides"},{
+Key:1006167,Text:"Biblijos formatu \"Osis\"."},{
+Key:1006168,Text:"Biblijos knygose formatas «USFM» (Wycliffe / SIL / Paratex)"},{
+Key:1006180,Text:"Pasirinkite VideoPsalm internete jūs norite importuoti į savo VideoPsalm bibliotekos kolekcijų"},{
+Key:1006185,Text:"Pasirinkite duomenų bazės, skirtos EasySlides kuriame dainas, jūs norite importuoti į savo VideoPsalm (plėtiniu .mdb)"},{
+Key:1006190,Text:"Pasirinkite duomenų bazės, skirtos MediaShout kuriame dainas, jūs norite importuoti į savo VideoPsalm (plėtiniu .mdb)"},{
+Key:1006195,Text:"Pasirinkite duomenų bazės, skirtos OpenLP kuriame dainas, jūs norite importuoti į savo VideoPsalm (plėtinys .sqlite failas)"},{
+Key:1006196,Text:"Pasirinkite duomenų bazę VerseView kuriame dainas, kurį norite importuoti į savo VideoPsalm (plėtinio .db failą)"},{
+Key:1006200,Text:"Pasirinkite aplanką, kuriame yra dainos \"OpenLyrics\" formatu, kurį norite importuoti į savo VideoPsalm (plėtinį .xml failus)"},{
+Key:1006205,Text:"Pasirinkite aplanką, kuriame yra OpenSong dainas, jūs norite importuoti į savo VideoPsalm (failus be plėtinio)"},{
+Key:1006210,Text:"Pasirinkite su eksportuojamų Psalmo rinkinyje RTF formatu norite importuoti į savo VideoPsalm (plėtinys .rtf failo)"},{
+Key:1006211,Text:"Pasirinkite kolekcija teksto formatu, kuriuos norite importuoti į savo VideoPsalm (plėtinį .txt failas)"},{
+Key:1006212,Text:"Pasirinkite duomenų bazę, kuriame dainas, jūs norite importuoti į savo VideoPsalm (plėtinys .db failas) EasyWorship 2009"},{
+Key:1006213,Text:"Pasirinkite aplanką, kuriame dainas ChordPro formatas, kurį norite importuoti į savo VideoPsalm (.chordpro, .chopro, .crd ar .cho plėtinio failus)"},{
+Key:1006214,Text:"Pasirinkite duomenų bazę, kuriame dainas, jūs norite importuoti į savo VideoPsalm (failo plėtinys .ltc) WebAsaph"},{
+Key:1006215,Text:"Pasirinkite aplanką, kuriame yra dainos CCLI formatu, importuoti į savo VideoPsalm (plėtinys .usr failai)"},{
+Key:1006220,Text:"Pasirinkite Biblijos VideoPsalm internetinę biblioteką, jūs norite importuoti į savo VideoPsalm"},{
+Key:1006225,Text:"Pasirinkite Biblijos, Biblijos bazės norite importuoti į savo VideoPsalm (plėtinį .txt failas)"},{
+Key:1006230,Text:"Pasirinkite OpenLP Biblija, kurį norite importuoti į savo VideoPsalm (plėtinys .sqlite failas)"},{
+Key:1006235,Text:"Pasirinkite iš Biblijos, OpenSong norite importuoti į savo VideoPsalm (failas be plėtinio)"},{
+Key:1006240,Text:"Pasirinkite nesusietas Biblija Biblijos, kurį norite importuoti į savo VideoPsalm (plėtinį .txt failas)"},{
+Key:1006245,Text:"Pasirinkite Zefania Biblijos norite importuoti į savo VideoPsalm (plėtinį .xml failas)"},{
+Key:1006247,Text:"Pasirinkite iš Biblijos, EasySlides norite importuoti į savo VideoPsalm (plėtiniu .mdb)"},{
+Key:1006248,Text:"Pasirinkite Biblijos \"Osis\" formatu, importuoti į savo VideoPsalm (plėtinį .xml, .osi arba .osis failą)"},{
+Key:1006249,Text:"Pasirinkite \"USFM\" Biblijos knygų formatas importuoti į savo VideoPsalm (plėtinys .sfm ar .usfm failus)"},{
+Key:1006252,Text:"Pasirinkite kalbos VideoPsalm internete bibliotekos norite importuoti į savo VideoPsalm"},{
+Key:1006255,Text:"Importuoti <b>{0} VideoPsalm internete biblioteka (s) kolekcija</b> :
+{1}"},{
+Key:1006260,Text:"Importuoti <b>EasySlides dainos</b>"},{
+Key:1006265,Text:"Importuoti <b>MediaShout dainos</b>"},{
+Key:1006270,Text:"Importuoti <b>OpenLP dainos</b>"},{
+Key:1006271,Text:"Importuoti <b>VerseView dainas</b>"},{
+Key:1006275,Text:"Importuoti <b>dainos formatu «OpenLyrics»</b>"},{
+Key:1006280,Text:"Importuoti <b>OpenSong daina</b>"},{
+Key:1006285,Text:"Importuoti <b>Psalmo kolekcija</b>"},{
+Key:1006286,Text:"Importuoti <b>Teksto rinkimas</b>"},{
+Key:1006287,Text:"<b>Importuoti EasyWorship 2009 dainų</b>"},{
+Key:1006288,Text:"Importuoti <b>dainas ChordPro formatas</b>"},{
+Key:1006289,Text:"Importuoti <b>WebAsaph dainos</b>"},{
+Key:1006290,Text:"Importuoti <b>formatas CCLI dainas</b>"},{
+Key:1006295,Text:"Importuoti <b>{0} Biblija (s) iš bibliotekos VideoPsalm internete</b> :
+{1}"},{
+Key:1006300,Text:"Importuoti <b>Biblija ir Biblija duomenų bazė</b>"},{
+Key:1006305,Text:"Importuoti <b>Biblija OpenLP</b>"},{
+Key:1006310,Text:"Importuoti <b>Biblija OpenSong</b>"},{
+Key:1006315,Text:"Importuoti <b>nesusietas Biblija Biblijos</b>"},{
+Key:1006320,Text:"Importuoti <b>Zefania Biblijos</b>"},{
+Key:1006321,Text:"Importuoti <b>, EasySlides Biblijos</b>"},{
+Key:1006322,Text:"Importuoti <b>Biblijos formatu \"Osis\"</b>"},{
+Key:1006323,Text:"Importuoti <b>Biblijos formatu «USFM»</b>"},{
+Key:1006325,Text:"Importuoti <b>{0} VideoPsalm internete biblioteka (s) kalba</b> :
+{1}"},{
+Key:1006340,Text:"Pasirinkite duomenų bazės, skirtos EasySlide"},{
+Key:1006345,Text:"Pažymėkite MediaShout duomenų bazės"},{
+Key:1006350,Text:"Pasirinkite duomenų bazės, skirtos OpenLP"},{
+Key:1006351,Text:"Pasirinkite duomenų bazė, VerseView"},{
+Key:1006355,Text:"Pasirinkite aplanką, kuriame yra dainos \"OpenLyrics\" formatu."},{
+Key:1006360,Text:"Pasirinkite aplanką, kuriame dainas, OpenSong"},{
+Key:1006365,Text:"Pasirinkite RTF failą, kuriame yra eksportuojamas Psalmo dainos"},{
+Key:1006366,Text:"Pasirinkite failą, kuriame yra dainos teksto formatu"},{
+Key:1006367,Text:"Pasirinkite duomenų bazės, skirtos EasyWorship 2009"},{
+Key:1006368,Text:"Pasirinkite aplanką, kuriame yra dainos \"ChordPro\" formatu."},{
+Key:1006369,Text:"Pažymėkite WebAsaph duomenų bazės"},{
+Key:1006370,Text:"Pasirinkite aplanką, kuriame yra dainos formatu «CCLI."},{
+Key:1006375,Text:"Pasirinkite Biblija BibleDatabase"},{
+Key:1006380,Text:"Pasirinkite Biblija OpenLP"},{
+Key:1006385,Text:"Pasirinkite Biblija OpenSong"},{
+Key:1006390,Text:"Pasirinkite nesusietas Biblija Biblijos"},{
+Key:1006395,Text:"Pasirinkite Zefania Biblijos"},{
+Key:1006397,Text:"Pasirinkite Biblija EasySlides"},{
+Key:1006398,Text:"Pasirinkite Biblijos formatu \"Osis\"."},{
+Key:1006399,Text:"Pasirinkite Biblijos knygų formatu \"USFM."},{
+Key:1006405,Text:"EasySlide duomenų bazės"},{
+Key:1006410,Text:"MediaShout 4 duomenų bazės"},{
+Key:1006411,Text:"MediaShout 3 duomenų bazės"},{
+Key:1006415,Text:"OpenLP duomenų bazės"},{
+Key:1006416,Text:"Duomenų bazės EasyWorship 2009"},{
+Key:1006417,Text:"VerseView duomenų bazės"},{
+Key:1006420,Text:"Aplanką '{0}'.
+yra ne dainuoti \"OpenLyrics\" (išplėtimas xml) formatu."},{
+Key:1006425,Text:"Aplanką '{0}'.
+yra ne OpenSong daina (OpenSong dainų yra failus be plėtinio)."},{
+Key:1006430,Text:"Dainos eksportuotos iš Psalmo"},{
+Key:1006431,Text:"Dainos teksto formatu"},{
+Key:1006432,Text:"Aplanką '{0}'.
+yra ne dainuoti \"ChordPro\" (plėtinys chopro/chordpro, KPD ir cho) formatu."},{
+Key:1006433,Text:"WebAsaph duomenų bazės"},{
+Key:1006434,Text:"Aplanką '{0}'.
+yra ne daina «CCLI» (.usr plėtinį) formatu."},{
+Key:1006440,Text:"BibleDatabase Bibliją"},{
+Key:1006445,Text:"OpenLP Bibliją"},{
+Key:1006450,Text:"OpenSong Bibliją"},{
+Key:1006455,Text:"Biblijoje nesusietas Biblija"},{
+Key:1006460,Text:"Zefania Bibliją"},{
+Key:1006462,Text:"EasySlides Bibliją"},{
+Key:1006463,Text:"Biblijoje formatu \"Osis\"."},{
+Key:1006464,Text:"Knygų Biblija formatu \"USFM."},{
+Key:1006500,Text:"KJV.txt"},{
+Key:1006501,Text:"KJV.sqlite"},{
+Key:1006502,Text:"SEM"},{
+Key:1006503,Text:"KJV.txt"},{
+Key:1006504,Text:"KJV.xml"},{
+Key:1006505,Text:"Myliu Vie pats 1"},{
+Key:1006506,Text:"JEM 1. rtf"},{
+Key:1006507,Text:"Mano chants.txt"},{
+Key:1006508,Text:"french_lsg.mdb"},{
+Key:1006509,Text:"Myliu Viešpatį"},{
+Key:1006510,Text:"MSAccess duomenų bazės"},{
+Key:1006511,Text:"KJV.xml"},{
+Key:1006512,Text:"Tribal.SFM"},{
+Key:1006515,Text:"Visi failai"},{
+Key:1006520,Text:"SQLite duomenų bazės"},{
+Key:1006525,Text:"Paradoksas duomenų bazės"},{
+Key:1006526,Text:"Duomenų bazės WebAsaph"},{
+Key:1006600,Text:"Pasirinkti VideoPsalm interneto bibliotekoje ar kito šaltinio"},{
+Key:1006601,Text:"VideoPsalm interneto bibliotekoje yra daug kolekcijų keliomis kalbomis"},{
+Key:1006602,Text:"VideoPsalm interneto (internetas reikalaujama importavimo metu) biblioteka"},{
+Key:1006603,Text:"Dainos, populiarios, importuoti ant jūsų standžiojo disko formatavimas"},{
+Key:1006604,Text:"Pasirinkti VideoPsalm interneto bibliotekoje ar kito šaltinio"},{
+Key:1006605,Text:"VideoPsalm interneto bibliotekoje yra daug vertimų Biblija įvairiomis kalbomis"},{
+Key:1006606,Text:"VideoPsalm interneto (internetas reikalaujama importavimo metu) biblioteka"},{
+Key:1006607,Text:"Biblija – populiarus, importuoti ant jūsų standžiojo disko formatavimas"},{
+Key:1006608,Text:"Kas yra šaltinis, savo dainas formatu?"},{
+Key:1006609,Text:"Koks yra Biblijos šaltinio formatas?"},{
+Key:1006610,Text:"Galite importuoti į savo VideoPsalm Biblijos populiarus formatu saugomas jūsų kompiuteryje"},{
+Key:1006611,Text:"Galite importuoti į savo VideoPsalm populiarus formatas dainas saugomi jūsų kompiuteryje"},{
+Key:1007000,Text:"Atsarginė kopija"},{
+Key:1007001,Text:"Ar norite pradėti atsarginio kopijavimo, VideoPsalm į aplanką
+« {0} » ?"},{
+Key:1007004,Text:"Negali atlikti atsarginę kopiją į pasirinktą aplanką,
+nes jis yra dabartiniame aplanke VideoPsalm dokumentų
+({0})."},{
+Key:1007005,Text:"Nėra pakankamai vietos diske {0}.
+Turėtų {1: #, #. #} MB, ir yra tik {2: #, #. #} MB laisvos vietos."},{
+Key:1007006,Text:"Nepavyko baigti atsarginę kopiją:
+
+{0}"},{
+Key:1007007,Text:"Nepavyko atsisiųsti Microsoft .NET Framework 4.0:
+
+{0}
+
+Tai gali būti dėl interneto ryšio nebuvimas.
+Atsarginė kopija ir bus toliau paprastai
+Tačiau jūs negalėsite diegti Microsoft .NET Framework 4.0 iš atsarginės kopijos."},{
+Key:1007008,Text:"nepasiekiamas {0}"},{
+Key:1007009,Text:"Priminimas: Atsarginės kopijos nepavyko nukopijuoti
+Microsoft .NET Framework 4.0 nustatymas."},{
+Key:1007010,Text:"Atsarginės kopijos yra tinkamai baigtas."},{
+Key:1007011,Text:"Ar norite atsisakyti atsarginę kopiją?"},{
+Key:1007030,Text:"Pasirinkite aplanką arba sukurkite All-in-one pateikti atsarginę kopiją VideoPsalm"},{
+Key:1007031,Text:"Atsarginės kopijos kopijuoti savo dokumentus (knygas, Biblijoje, paveikslėliai, vaizdo įrašai, stiliai) į vietą, kurią nurodote, pvz.:
+-per USB
+-išoriniame standžiajame diske,
+-tinklo aplanko,
+-ir pan.
+
+<b>Atsarginės kopijos leidžia jums taip pat:</b>
+-užtikrinti jūsų dokumentų dauginimo juos kitoje laikmenoje,
+-sukurti nešiojamasis versija VideoPsalm, pavyzdžiui, dėl USB stick,
+-lengvai perkelti jūsų dokumentus į kitą kompiuterį naudodami atkūrimo funkciją,
+-dubliuoti savo dokumentams keliomis konfigūracijomis rinkinių su savo stilių tame pačiame kompiuteryje.
+
+<b>Pastaba:</b> Jei norite sinchronizuoti įrašų apie VideoPsalm tarp kelių kompiuterių, galite pasirinkti daugiau tiesiogiai sinchronizacijai pvz., SkyDrive arba DropBox paslaugų."},{
+Key:1007032,Text:"Pasirinkite kurį norite įrašyti dokumentus:"},{
+Key:1007033,Text:"&Kolekcijos"},{
+Key:1007034,Text:"&Bibliją"},{
+Key:1007035,Text:"&Vaizdai"},{
+Key:1007036,Text:"&Vaizdo įrašai"},{
+Key:1007037,Text:"&Sutaupysite savo dokumentus dėl:"},{
+Key:1007038,Text:"Nurodykite aplanką, galite įrašyti dokumentus, VideoPsalm čia.
+
+Pvz.: «E:\\Ma atsarginės kopijos VideoPsalm.
+
+Jei aplankas neegzistuoja, jis yra sukurtas automatiškai kai atsarginę kopiją."},{
+Key:1007039,Text:"&Sukurti nešiojamas VideoPsalm taikymas"},{
+Key:1007040,Text:"Į atsarginių kopijų aplanko įtraukia visas vykdomosios bylos būtinas VideoPsalm veiklai.
+
+Apskritai, tai į USB raktą, kurį norite sukurti nešiojamas VideoPsalm taikymas.
+
+Nešiojami atsarginę kopiją norite paleisti VideoPsalm kompiuteris, tiesiai iš USB rakto, nereikia įdiegti VideoPsalm.
+
+VideoPsalm nuo USB rakto, jūs turėsite prieigą prie visų funkcijų, VideoPsalm, įskaitant atsarginį kopijavimą. Tai leidžia sutaupyti VideoPsalm kietąjį diską kitame kompiuteryje, todėl vėliau paleisti ją be USB rakto.
+
+<b>Svarbu</b>
+VideoPsalm funkcijos kurių nededama į atsarginę kopiją.
+Pirmąjį VideoPsalm pasirodymą tikrą kompiuteryje, gali tekti koreguoti VideoPsalm parinktis, pvz bažnyčia licencija."},{
+Key:1007041,Text:"&Pridėti programos Microsoft .NET sistemoje 4.0 Setup"},{
+Key:1007042,Text:"Veikti, VideoPsalm reikia iš Microsoft .NET sistemoje 4.0. Naujesniuose kompiuteriuose neretai .NET pagrindų 4.0 arba didesnis įdiegta. Jei nesate tikri, kad 4.0 .NET sistemoje yra įdiegta kitame kompiuteryje, pažymėkite žymės langelį \"pridėti nustatymas .NET Framework 4.0. VideoPsalm tada bus vietoje USB stick kopiją .NET pagrindų 4.0 (internetas gali būti reikalaujama, kad tai) nustatymas.
+
+Iš USB rakto, jūs galite lengvai įdiegti .NET pagrindų 4.0 kitame kompiuteryje prieš pradėdami VideoPsalm. .NET pagrindų 4.0 įrengimas yra labai greitai ir negali paleisti Windows paprastai.
+
+Jūs rasite įrenginio .NET pagrindų 4.0 failo atsarginės kopijos aplanką. Šis failas yra pavadintas \"dotNetFx40_Full_x86_x64.exe. Norėdami pradėti diegimą ir .NET pagrindų 4.0 kitame kompiuteryje, dukart spustelėkite šį failą."},{
+Key:1007043,Text:"&Pradėti atsarginio kopijavimo"},{
+Key:1007044,Text:"Microsoft .NET sistemoje 4.0 parsisiųsti"},{
+Key:1007045,Text:"&Aplankas (aplankas, kad bus išsaugotas) VideoPsalm dokumentus:"},{
+Key:1007046,Text:"Tegul nurodytą aplanką prieš kolekcijų įrašyti mano"},{
+Key:1007047,Text:"Pašalinti nurodytą aplanką prieš įrašyti mano kolekcijos"},{
+Key:1007048,Text:"Palikti nurodytą aplanką Bibliją iki ten įrašyti mano"},{
+Key:1007049,Text:"Pašalinti aplanką prieš nurodytą Biblijoje yra įrašyti mano"},{
+Key:1007050,Text:"Atostogų prieš nurodytą aplanką vaizdai yra įrašyti mano"},{
+Key:1007051,Text:"Naikinti nuotraukas iš aplanko prieš nurodytą yra įrašyti mano"},{
+Key:1007052,Text:"Tegul prieš nurodytą aplanke filmai yra įrašyti mano"},{
+Key:1007053,Text:"Panaikinti vaizdo įrašai iš nurodyto aplanko prieš įrašyti mano"},{
+Key:1007054,Text:"Pasirinkite aplanką arba susikurti atsarginę kopiją VideoPsalm vieta"},{
+Key:1007055,Text:"Leisti garso iš nurodytą aplanką ir anksčiau yra įrašyti mano"},{
+Key:1007056,Text:"Pašalinti garso prieš nurodytą aplanke yra įrašyti mano"},{
+Key:1007057,Text:"&Garso"},{
+Key:1008000,Text:"Atsarginės versijos atkūrimas"},{
+Key:1008001,Text:"Ar norite atkurti VideoPsalm iš aplanko
+« {0} » ?
+
+Dėmesio: Atsižvelgiant į pasirinktas parinktis, jūsų dabartinius dokumentus bus pakeistas arba panaikintas."},{
+Key:1008002,Text:"Įveskite aplanko iš atkurtinos atsarginės kopijos."},{
+Key:1008004,Text:"Nepavyko atkurti atsarginę kopiją iš aplanko, kurį pasirinkote,
+nes jis yra dabartiniame aplanke VideoPsalm dokumentų."},{
+Key:1008006,Text:"Užbaigti atkurti neįmanoma:
+
+{0}"},{
+Key:1008010,Text:"Atkūrimo buvo baigėsi."},{
+Key:1008011,Text:"Ar norite atsisakyti atkurti?"},{
+Key:1008012,Text:"Atsarginės versijos atkūrimas"},{
+Key:1008032,Text:"Pažymėkite norimą atkurti dokumentus:"},{
+Key:1008033,Text:"&Kolekcijos"},{
+Key:1008034,Text:"&Bibliją"},{
+Key:1008035,Text:"&Vaizdai"},{
+Key:1008036,Text:"&Vaizdo įrašai"},{
+Key:1008043,Text:"&Atkurti"},{
+Key:1008044,Text:"Tegul mano kolekcijos prieš atkurdami iš atsarginės kopijos"},{
+Key:1008045,Text:"Ištrinti mano kolekcijos prieš atkurdami iš atsarginės kopijos"},{
+Key:1008046,Text:"Tegul mano Biblijoje prieš atkurdami iš atsarginės kopijos"},{
+Key:1008047,Text:"Ištrinti mano Biblijoje prieš atkurdami iš atsarginės kopijos"},{
+Key:1008048,Text:"Tegul mano vaizdai prieš atkurdami iš atsarginės kopijos"},{
+Key:1008049,Text:"Ištrinti mano nuotraukas prieš atkurdami iš atsarginės kopijos"},{
+Key:1008050,Text:"Tegul mano filmai prieš atkurdami iš atsarginės kopijos"},{
+Key:1008051,Text:"Ištrinti savo vaizdo įrašus prieš atkurdami iš atsarginės kopijos"},{
+Key:1008052,Text:"&Atkurti iš:"},{
+Key:1008053,Text:"Čia nurodykite aplanką, iš kurio bus atkurta VideoPsalm įrašus.
+
+Pavyzdys: \"E:\\VideoPsalm\"."},{
+Key:1008054,Text:"&Aplankas (aplankas kur bus atkurta atsarginė kopija) VideoPsalm dokumentus:"},{
+Key:1008055,Text:"Atnaujinti"},{
+Key:1008056,Text:"Pasirinkite aplanką, kuriame atsarginę kopiją VideoPsalm"},{
+Key:1008057,Text:"&Garso"},{
+Key:1008058,Text:"Tegul mano garso prieš atkurti iš atsarginės kopijos"},{
+Key:1008059,Text:"Ištrinti mano garso prieš atkurti iš atsarginės kopijos"},{
+Key:1008999,Text:"Vaizdo projektorius"},{
+Key:1009000,Text:"daina"},{
+Key:1009001,Text:"{0} dainos"},{
+Key:1009002,Text:"ženklai, sąrašas"},{
+Key:1009003,Text:"eilėmis sąrašus {0}"},{
+Key:1009004,Text:"vaizdas"},{
+Key:1009005,Text:"{0} vaizdai"},{
+Key:1009006,Text:"Biblija '{0}'."},{
+Key:1009007,Text:"Skyriaus {0}"},{
+Key:1009009,Text:"Biblijoje {0}"},{
+Key:1009010,Text:"Vaizdas '{0}'."},{
+Key:1009011,Text:"{0} ({1} vaizdai)"},{
+Key:1009012,Text:"{0} vaizdai"},{
+Key:1009013,Text:"{0} ({1} skaidrės)"},{
+Key:1009014,Text:"{0} PowerPoints"},{
+Key:1009015,Text:"Pakrovimo Numatytasis stilius"},{
+Key:1009016,Text:"Pakrovimo, stilius, kolekcijos"},{
+Key:1009017,Text:"Pakrovimo rinkinio {0}."},{
+Key:1009018,Text:"Pakrovimo stiliaus Biblijoje"},{
+Key:1009019,Text:"Pakrovimo Biblija '{0}'."},{
+Key:1009020,Text:"Failas: {0}"},{
+Key:1009100,Text:"{0} ({1} dainos)"},{
+Key:1009101,Text:"{0} (daina)"},{
+Key:1009102,Text:"{0} (ne vokalas)"},{
+Key:1009103,Text:"Jau yra failas {0}.
+kai VideoPsalm sutaupys nauja kolekcija '{1}'.
+
+Neįmanoma įrašyti šią naują kolekciją.
+Santrumpa arba unikalų pavadinimą šią naują kolekciją ir bandyti įrašyti dar kartą."},{
+Key:1009104,Text:"Registracija nepavyko"},{
+Key:1009105,Text:"Nepavyko perkelti failą
+{0}
+kirminų
+{1}.
+
+{2}"},{
+Key:1009107,Text:"{0} Kolekcijos"},{
+Key:1009110,Text:"{0} {1}: {2} ({3} ženklai)"},{
+Key:1009111,Text:"Vaizdo '{0}'."},{
+Key:1009112,Text:"{0} ({1} video)"},{
+Key:1009113,Text:"vaizdo {0}"},{
+Key:1009114,Text:"Neįmanoma įrašyti kolekcija.
+Pavadinimas surinkimo būtų galima jį įrašyti."},{
+Key:1010000,Text:"Pamatyti daugiau spalvų"},{
+Key:1010001,Text:">>"},{
+Key:1010002,Text:"&Uždaryti"},{
+Key:1010003,Text:"&Skaidrus"},{
+Key:1010004,Text:"Atšaukti"},{
+Key:1010005,Text:"gerai"},{
+Key:1010006,Text:"Rodyti mažiau spalvų"},{
+Key:1010007,Text:"<<"},{
+Key:1010008,Text:"R"},{
+Key:1010009,Text:"V"},{
+Key:1010010,Text:"(B)"},{
+Key:1010011,Text:"T"},{
+Key:1011000,Text:"1. Uždarykite neįdėjus lauko"},{
+Key:1011001,Text:"Santrumpa kolekcija"},{
+Key:1011002,Text:"Pseudonimas"},{
+Key:1011003,Text:"Autorius daina"},{
+Key:1011004,Text:"Autorius kolekcija"},{
+Key:1011005,Text:"CAPO"},{
+Key:1011006,Text:"Raktas"},{
+Key:1011007,Text:"Kompozitorius"},{
+Key:1011008,Text:"Autorių teisės, daina"},{
+Key:1011009,Text:"Autorių knygos"},{
+Key:1011010,Text:"Etiketės stichijos"},{
+Key:1011011,Text:"Etiketės ir stichijos skaičius"},{
+Key:1011012,Text:"Formatas"},{
+Key:1011013,Text:"Licencijos bažnyčios"},{
+Key:1011014,Text:"Pagrindinės eilutės"},{
+Key:1011015,Text:"Pažymos 1"},{
+Key:1011016,Text:"Pažymos 2"},{
+Key:1011017,Text:"Pažymos 3"},{
+Key:1011018,Text:"CCLI"},{
+Key:1011019,Text:"Pozicijos, stichijos"},{
+Key:1011020,Text:"Stichijos Nr."},{
+Key:1011021,Text:"Chat Nr."},{
+Key:1011022,Text:"Dėmesį į stichijos"},{
+Key:1011023,Text:"Keletą dainų iš kolekcijos"},{
+Key:1011024,Text:"Stanzas skaičius"},{
+Key:1011025,Text:"Nuoroda"},{
+Key:1011026,Text:"Stanzas seka"},{
+Key:1011027,Text:"Parašas"},{
+Key:1011028,Text:"Tempas"},{
+Key:1011029,Text:"Tema"},{
+Key:1011030,Text:"Iš dainos pavadinimas"},{
+Key:1011031,Text:"Knygos pavadinimas"},{
+Key:1011032,Text:"Tonas"},{
+Key:1011033,Text:"3. Pašalinti visus laukus"},{
+Key:1011034,Text:"2. Naudokite standartinį laukus"},{
+Key:1011035,Text:"Administratorius"},{
+Key:1011036,Text:"Kalba"},{
+Key:1011037,Text:"Redaktorius"},{
+Key:1011038,Text:"Perkėlimo į nacionalinę teisę"},{
+Key:1011101,Text:"Trumpinys iš Biblijos"},{
+Key:1011102,Text:"Santrumpa knygos"},{
+Key:1011103,Text:"Skyrius"},{
+Key:1011104,Text:"Copyright ir Biblijoje"},{
+Key:1011105,Text:"Aprašymas, Biblija"},{
+Key:1011107,Text:"Redaktorius"},{
+Key:1011108,Text:"Kalba"},{
+Key:1011109,Text:"Pavadinimas iš Biblijos"},{
+Key:1011110,Text:"Knygos pavadinimas"},{
+Key:1011111,Text:"Knygos skyrių skaičius"},{
+Key:1011112,Text:"Skaičių eilėmis skyriaus"},{
+Key:1011113,Text:"Testamentas"},{
+Key:1011114,Text:"Stichijos"},{
+Key:1011115,Text:"Administratorius iš Biblijos"},{
+Key:1011200,Text:"&Įterpti lauką:"},{
+Key:1011201,Text:"Formatuoti tekstą rodomi antraštėje arba poraštėje strophe ar stichijos"},{
+Key:1011202,Text:"Įveskite tekstą, kuris rodomas.
+Šis tekstas yra nemokama ir paprastai sudaro keletą iš anksto paruošti laukai.
+
+Pavyzdžiai iš anksto paruošti laukai su daina:
+-iš dainos pavadinimas: <b>[dainos pavadinimas]</b>
+-daina skaičius: <b>[daina Nr.]</b>
+-knygos pavadinimas: <b>[rinkinio pavadinimas]</b>
+-surinkimo santrumpa: <b>[santrumpa kolekcijos]</b>
+-ir pan.
+
+Dėl stichijos:
+-knygos pavadinimas: <b>[knygos pavadinimas]</b>
+-Skyrius: <b>[skyrius]</b>
+-stichijos: <b>[eilėraščio]</b>
+viso-nuoroda:
+  <b>[Knygos pavadinimas] [skyrių]: [eilėraščio]</b>
+-Biblijos pavadinimas: <b>[Biblijos pavadinimas]</b>
+-ir pan.
+
+Video projekcijos metu VideoPsalm pakeičia laukus iš anksto pagal jų vertę. 
+
+Iš anksto paruošti laukai turėtų būti apsupta laužtiniuose skliaustuose <b>[]</b>. Jie turi būti įrašytas be uždelsimo ir stebėti didžiosiomis ir mažosiomis raidėmis.
+
+<b>Lengvai įterpti iš anksto lauką, naudokite slinkties sąraše žemiau teisę \"Įterpti lauką\".</b>
+
+Formatas gali būti sudarytas iš kelių eilučių.
+
+Norėdami atkurti savo pradinės vertės formatą, paπalinti jα visiπkai (Ctrl + A, naikinti)."},{
+Key:1011203,Text:"Iš anksto laukų sąrašas"},{
+Key:1011204,Text:"Norėdami įterpti iš anksto lauką, pasirinkite jį iš sąrašo.
+
+Lauke bus automatiškai įterpiami aukščiau, teksto lauką įterpimo vietoje."},{
+Key:1012000,Text:"Failas {0}, jau yra.
+
+Ar norite jį pakeisti?"},{
+Key:1012001,Text:"Esamo failo"},{
+Key:1013000,Text:"Slėpti peržiūros"},{
+Key:1013001,Text:"Rodyti peržiūros"},{
+Key:1013002,Text:"Padidinti proporcingai užpildyti ekraną"},{
+Key:1013003,Text:"Sumažinti iki ekrano visą"},{
+Key:1013004,Text:"Išjungti kartojimą"},{
+Key:1013005,Text:"Aktyvinti tai pakartoti"},{
+Key:1013006,Text:"Prasideda"},{
+Key:1013007,Text:"Sustabdyti"},{
+Key:1013008,Text:"Skaityti"},{
+Key:1013009,Text:"Eiti į pabaigą"},{
+Key:1013010,Text:"Garso"},{
+Key:1013011,Text:"Nutildyti"},{
+Key:1013012,Text:"Tūris"},{
+Key:1013013,Text:"Mokslinių tyrimų"},{
+Key:1013014,Text:"Visame pasaulyje apibrėžia vaizdo apribojimus"},{
+Key:1013015,Text:"Nustatyti vaizdo kiekviena strofa ribas"},{
+Key:1013016,Text:"Praėjęs laikas"},{
+Key:1013017,Text:"Bendras laikas"},{
+Key:1013018,Text:"Likęs laikas"},{
+Key:1013019,Text:"Paspauskite, jei norite pereiti į kita reikšmė"},{
+Key:1018000,Text:"MN"},{
+Key:1018001,Text:"min"},{
+Key:1018002,Text:"kelio"},{
+Key:1018003,Text:"minučių"},{
+Key:1018004,Text:"h"},{
+Key:1018005,Text:"laiko"},{
+Key:1018006,Text:"valandų"},{
+Key:1018007,Text:"j"},{
+Key:1018008,Text:"dieną"},{
+Key:1018009,Text:"dienų"},{
+Key:1018010,Text:"SEM"},{
+Key:1018011,Text:"savaitę"},{
+Key:1018012,Text:"savaites"},{
+Key:1018013,Text:"mėnesį"},{
+Key:1018014,Text:"mėnesį"},{
+Key:1018015,Text:"metų"},{
+Key:1018016,Text:"metų"},{
+Key:1019000,Text:"Uždaryti"},{
+Key:1019001,Text:"Sumažinti"},{
+Key:1019002,Text:"Padidinti"},{
+Key:1019003,Text:"Žemesnio lygio"},{
+Key:1019004,Text:"pagalba"},{
+Key:1019100,Text:"&Paieška"},{
+Key:1019101,Text:"&Naikinti"},{
+Key:1019301,Text:"&gerai"},{
+Key:1019302,Text:"&Atšaukti"},{
+Key:1019303,Text:"&taip"},{
+Key:1019304,Text:"&Ne"},{
+Key:1019305,Text:"&Atsisakyti"},{
+Key:1019306,Text:"&Kartoti"},{
+Key:1019307,Text:"&Ignoruoti"},{
+Key:1019308,Text:"&Atšaukti"},{
+Key:1019309,Text:"&Sumažinti"},{
+Key:1019310,Text:"&Kopija"},{
+Key:1019311,Text:"&Įklijuoti"},{
+Key:1019312,Text:"&Naikinti"},{
+Key:1019313,Text:"&Pažymėti viską"},{
+Key:1020000,Text:"Genesis"},{
+Key:1020001,Text:"Exodus"},{
+Key:1020002,Text:"Kunigų"},{
+Key:1020003,Text:"Numeriai"},{
+Key:1020004,Text:"Įst"},{
+Key:1020005,Text:"Jėzus"},{
+Key:1020006,Text:"Teisėjai"},{
+Key:1020007,Text:"Rūta"},{
+Key:1020008,Text:"1 Samuel"},{
+Key:1020009,Text:"2 Samuelio"},{
+Key:1020010,Text:"1 Kings"},{
+Key:1020011,Text:"2 Karalių"},{
+Key:1020012,Text:"1 Kronikos"},{
+Key:1020013,Text:"2 Kronika"},{
+Key:1020014,Text:"Ezra"},{
+Key:1020015,Text:"Nehemijo"},{
+Key:1020016,Text:"Estera"},{
+Key:1020017,Text:"Darbo"},{
+Key:1020018,Text:"Psalmės"},{
+Key:1020019,Text:"Patarlės"},{
+Key:1020020,Text:"Ecclesiastes"},{
+Key:1020021,Text:"Giesmių giesmė"},{
+Key:1020022,Text:"Iz"},{
+Key:1020023,Text:"Jer"},{
+Key:1020024,Text:"Raudų Jer"},{
+Key:1020025,Text:"Ezechielio"},{
+Key:1020026,Text:"Daniel"},{
+Key:1020027,Text:"Hosea"},{
+Key:1020028,Text:"Joel"},{
+Key:1020029,Text:"Amos"},{
+Key:1020030,Text:"Obadiasz"},{
+Key:1020031,Text:"Jonas"},{
+Key:1020032,Text:"ŽĖRUTIS"},{
+Key:1020033,Text:"Nahumo"},{
+Key:1020034,Text:"Habakkuk"},{
+Key:1020035,Text:"Zephaniah"},{
+Key:1020036,Text:"Aggeusza"},{
+Key:1020037,Text:"Zacharijas"},{
+Key:1020038,Text:"Malachitas"},{
+Key:1020039,Text:"Matthew"},{
+Key:1020040,Text:"Marc"},{
+Key:1020041,Text:"Luc"},{
+Key:1020042,Text:"Jean"},{
+Key:1020043,Text:"Teisės nuo apaštalų"},{
+Key:1020044,Text:"Romėnai"},{
+Key:1020045,Text:"1 Kor"},{
+Key:1020046,Text:"2 Kor"},{
+Key:1020047,Text:"Galatams"},{
+Key:1020048,Text:"EF"},{
+Key:1020049,Text:"Filipiečiams"},{
+Key:1020050,Text:"Kolosiečiams"},{
+Key:1020051,Text:"1 Tes"},{
+Key:1020052,Text:"2 Tes 2:"},{
+Key:1020053,Text:"1 Timotiejui"},{
+Key:1020054,Text:"2 Timotiejui"},{
+Key:1020055,Text:"Stoką"},{
+Key:1020056,Text:"Philemon"},{
+Key:1020057,Text:"Žydams"},{
+Key:1020058,Text:"Jacques"},{
+Key:1020059,Text:"1 Petras"},{
+Key:1020060,Text:"2 Petro"},{
+Key:1020061,Text:"1 Jonas"},{
+Key:1020062,Text:"2 John"},{
+Key:1020063,Text:"3 Jean"},{
+Key:1020064,Text:"Jude"},{
+Key:1020065,Text:"Apokalipsė"},{
+Key:1020100,Text:"LT"},{
+Key:1020101,Text:"Ex"},{
+Key:1020102,Text:"LV"},{
+Key:1020103,Text:"NB"},{
+Key:1020104,Text:"DT"},{
+Key:1020105,Text:"Rudaake"},{
+Key:1020106,Text:"JG"},{
+Key:1020107,Text:"RT @"},{
+Key:1020108,Text:"1 S"},{
+Key:1020109,Text:"2 S"},{
+Key:1020110,Text:"1R"},{
+Key:1020111,Text:"2R"},{
+Key:1020112,Text:"1Ch"},{
+Key:1020113,Text:"2Ch"},{
+Key:1020114,Text:"ESD"},{
+Key:1020115,Text:"Ar"},{
+Key:1020116,Text:"Yra"},{
+Key:1020117,Text:"JB"},{
+Key:1020118,Text:"PS"},{
+Key:1020119,Text:"PR"},{
+Key:1020120,Text:"EB"},{
+Key:1020121,Text:"CT"},{
+Key:1020122,Text:"ES"},{
+Key:1020123,Text:"Jr"},{
+Key:1020124,Text:"LM"},{
+Key:1020125,Text:"EZ"},{
+Key:1020126,Text:"DN"},{
+Key:1020127,Text:"OS"},{
+Key:1020128,Text:"JL"},{
+Key:1020129,Text:"Esu"},{
+Key:1020130,Text:"AB"},{
+Key:1020131,Text:"Jon"},{
+Key:1020132,Text:"MI"},{
+Key:1020133,Text:"NA"},{
+Key:1020134,Text:"HA"},{
+Key:1020135,Text:"Taigi"},{
+Key:1020136,Text:"AG"},{
+Key:1020137,Text:"Za"},{
+Key:1020138,Text:"Ml"},{
+Key:1020139,Text:"MT"},{
+Key:1020140,Text:"MC"},{
+Key:1020141,Text:"LC"},{
+Key:1020142,Text:"JN"},{
+Key:1020143,Text:"AC"},{
+Key:1020144,Text:"RM"},{
+Key:1020145,Text:"1Co"},{
+Key:1020146,Text:"2Co"},{
+Key:1020147,Text:"GA"},{
+Key:1020148,Text:"EP"},{
+Key:1020149,Text:"PH"},{
+Key:1020150,Text:"Col"},{
+Key:1020151,Text:"1Th"},{
+Key:1020152,Text:"2-Oji"},{
+Key:1020153,Text:"Varžybos"},{
+Key:1020154,Text:"2Tm"},{
+Key:1020155,Text:"TT"},{
+Key:1020156,Text:"PHM"},{
+Key:1020157,Text:"Jis"},{
+Key:1020158,Text:"JC"},{
+Key:1020159,Text:"1 P"},{
+Key:1020160,Text:"2 P"},{
+Key:1020161,Text:"1Jn"},{
+Key:1020162,Text:"2Jn"},{
+Key:1020163,Text:"3Jn"},{
+Key:1020164,Text:"JD"},{
+Key:1020165,Text:"AP"}]}

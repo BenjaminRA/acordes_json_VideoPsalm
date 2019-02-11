@@ -1,0 +1,2024 @@
+﻿{VersionDate:"20150516",Items:[{
+Key:1,Text:"Norwegian, Nynorsk (Norway)"},{
+Key:1000000,Text:"Oversettelse"},{
+Key:1000001,Text:"nei."},{
+Key:1000003,Text:"&Legg til..."},{
+Key:1000004,Text:"Legge til ett eller flere språk i VideoPsalm"},{
+Key:1000006,Text:"&Sende"},{
+Key:1000007,Text:"Send etikettene via e-post til VideoPsalm inn i neste Setup"},{
+Key:1000009,Text:"&Bruke"},{
+Key:1000011,Text:"&Lagre"},{
+Key:1000012,Text:"Bruke språket som er valgt i VideoPsalm. Endringene lagres automatisk på forhånd."},{
+Key:1000013,Text:"Lagre endringer i etiketter"},{
+Key:1000015,Text:"&Slette"},{
+Key:1000016,Text:"VideoPsalm slette det valgte språket og alle sine etiketter"},{
+Key:1000022,Text:"&{0} denominert:"},{
+Key:1000024,Text:"&Språk:"},{
+Key:1000029,Text:"Plateselskaper"},{
+Key:1000030,Text:"Etiketter er endret.
+
+Vil du lagre disse endringene?"},{
+Key:1000031,Text:"Fjerne et språk"},{
+Key:1000032,Text:"Vil du virkelig slette språket {0} i VideoPsalm?
+
+Denne operasjonen vil slette alle tekster av dette språket, og er kan ikke snus."},{
+Key:1000035,Text:"VideoPsalm kommer til å lage komprimerte filer med .zip forlengelsen
+som inneholder etikettene i deres respektive språk.
+Fest den aktuelle filen til e-post at dukker opp, deretter legge denne e-post til videopsalm@gmail.com."},{
+Key:1000036,Text:"Sende e-post-etiketter"},{
+Key:1000037,Text:"<b>Dette 'Translation'-vinduet, kan du redigere tekster som vises i form av VideoPsalm.</b>
+Dette lar deg oversette, tilpasse eller korrigere noen tekst grenseflate av VideoPsalm, i VideoPsalm selv.
+
+<i>Hvis denne komponenten tar opp for mye plass, redusere det ved å klikke på knappen liten reduksjon på øverst til venstre, eller endre størrelsen på musen med vannrett skillelinje.</i>
+
+VideoPsalm tilbys på flere språk. VideoPsalm-språk vises i panelet til venstre med tittelen 'språk' nedenfor.
+Hvis språket ditt ikke vises i denne listen, kan du her, oversette VideoPsalm til ditt språk. Vær oppmerksom på at dette vil være sannsynligvis adskillige timene av arbeide.
+
+Her er hvordan du har VideoPsalm på ditt språk:
+
+-Legg til ditt språk i listen ved å velge blant dem du vil finne via knappen \"add <image=add2_16>\".
+-I tabellen under til høyre viser VideoPsalm etikettene til sjekket språk.
+-Oversette etikettene på ditt språk.
+
+I tabellen, kan du redigere etikettene på ferie, som i et Excel-regneark.
+Tabellen tilbyr en søkeboks. Dermed, hvis du vil vise bare etiketter som inneholder bestemte ord, skrive inn disse ordene i søkeboksen, og klikk deretter på \"Søk\"-knappen.
+Du kan også bruke filter plassert området under hvert hode språk for å filtrere etikettene til et språk som inneholder noen bestemte ord.
+
+For å lette arbeidet ditt, kan du velge ett eller flere andre språk du vet, for å bedre forstå betydningen av hver etikett og å kunne lese på flere språk samtidig.
+Må sjekke kommentarene fordi de tillater bedre forståelse av betydningen av visse etiketter og hvor de brukes.
+
+<b>Merk:</b> Det er best å la kommentarer på engelsk, fordi mange mennesker forstår engelsk.
+
+Å se resultatet av arbeidet ditt oversettelse:
+-Velg ditt språk i språk-panelet ved å klikke
+   deretter
+-Klikk på \"Apply\" (nederst)-knappen.
+
+VideoPsalm vises på språket du har valgt.
+
+Ikke glem å lagre arbeidet fra oversettelse ved å klikke på knappen \"lagre <image=disk_blue>.
+Etter at du har lagret et nytt språk, kan du åpne det i vinduet alternativer.
+
+Vennligst send oss din oversettelsene eller rettelser av e-post på <b>videopsalm@gmail.com</b> ved å klikke på knappen \"send <image=mail_16>\".
+Når du klikker denne knappen, vil to ting skje:
+1. E-postprogrammet åpnes automatisk, for eksempel Outlook.
+2. En Explorer-mappe åpnes som VideoPsalm har plassert komprimerte filer med .zip forlengelsen kalt språk.
+
+Dra og slippe den aktuelle filen i e-posten og legge det slik at vi kan innlemme det i en fremtidig versjon av VideoPsalm.</image=mail_16> </image=disk_blue> </image=add2_16>"},{
+Key:1000038,Text:"Hvordan oversette VideoPsalm til ditt språk?"},{
+Key:1000039,Text:"Språk der VideoPsalm er oversatt. Velg språkene du vil vise etikettene i tabellen. For å legge til ditt språk i listen, klikk på \"Legg til\" knappen."},{
+Key:1001000,Text:"Legge til språk"},{
+Key:1001001,Text:"&Språk:"},{
+Key:1001002,Text:"Velg språkene du vil legge til"},{
+Key:1001003,Text:"&Legge til"},{
+Key:1001004,Text:"Avbryt"},{
+Key:1001005,Text:"Hjelp (F1)"},{
+Key:1002000,Text:"Alternativer"},{
+Key:1002003,Text:"&De generelle"},{
+Key:1002004,Text:"&Skjerm"},{
+Key:1002005,Text:"&Video"},{
+Key:1002014,Text:"&Samlinger"},{
+Key:1002015,Text:"&Bibler"},{
+Key:1002103,Text:"&Språk:"},{
+Key:1002105,Text:"&VideoPsalm dokumenter-mappen:"},{
+Key:1002106,Text:"Velg VideoPsalm dokumenter-mappen:"},{
+Key:1002112,Text:"&Lagre alle endringer du gjør i den bibelske vers (tekst og stil)"},{
+Key:1002202,Text:"&Erstatte anførselstegn « <size=+4>'» av franske sitater « <size=+4>'»</size=+4> </size=+4>"},{
+Key:1002203,Text:"&Bruke franske reglene i typografi"},{
+Key:1002204,Text:"&Erstatt bindestreker av harde bindestreker i sangene,"},{
+Key:1002205,Text:"&Erstatt bindestreker av harde bindestreker i den bibelske vers,"},{
+Key:1002304,Text:"&Rendering metode:"},{
+Key:1002306,Text:"Standard"},{
+Key:1002307,Text:"Forbedret"},{
+Key:1002502,Text:"&Bruke"},{
+Key:1002503,Text:"Lagre endringer og lar vinduet åpent"},{
+Key:1002504,Text:"ok"},{
+Key:1002505,Text:"Lagre endringene og lukke vinduet"},{
+Key:1002508,Text:"Lukk vinduet uten å lagre endringene"},{
+Key:1002510,Text:"&Lisens i kirken:"},{
+Key:1002513,Text:"Valgfri tekst som du angir her kan automatisk vises i toppteksten eller bunnteksten på lysbildet.
+
+For eksempel kan du angi her antall eksportbevilling CILC kirken din."},{
+Key:1002516,Text:"&Felt av overskriften:"},{
+Key:1002517,Text:"&Felt i subfooter:"},{
+Key:1002531,Text:"Endre skrifttypen som vises VideoPsalm.
+
+Standard fonter:
+- <b>Tahoma</b> for Windows XP
+- <b>Segoe UI</b> for Vinduer Vista, vinduer syv og Windows 8
+
+Standard størrelse: 8,25"},{
+Key:1002532,Text:"Det er nødvendig å starte VideoPsalm for en policyendring tas hensyn fullt."},{
+Key:1002533,Text:"Hvis denne boksen er avmerket, vil VideoPsalm erstatte rette apostrofer med en fransk apostrof, som er et komma som er plassert i høyden i lysbildene.
+
+Når du angir tekstene til en sang i redigeringsprogrammet, anbefaler vi at du bruker tegnet som du enkelt finne på tastaturet, vanligvis rett apostrofen."},{
+Key:1002534,Text:"Hvis denne boksen er avmerket, ordner VideoPsalm i lysbildet avstanden mellom noen tegn av tegnsetting i samsvar med den franske typografien.
+
+For eksempel, hvis en sang inneholder følgende ord: <b>Herren!</b>
+
+VideoPsalm skjerm: <b>Herren!</b>
+
+Her er tegnsettingen som nyte spesiell behandling:
+<b>: ; ! ? »</b><i>VideoPsalm plassere et hardt mellomrom før og mellomrom etter.</i><b>«</b><i>VideoPsalm plassere et mellomrom før og et hardt mellomrom etter.</i>
+
+VideoPsalm ordner ikke avstanden mellom andre tegnsettingen.
+
+Når du angir en ny sang ord, anbefaler vi at du følger tradisjonelle reglene for typografi, dvs. stikke tegnsetting til ordene som angår dem. På denne måten, vil du kunne overholde franske typografi visningen ved å krysse av denne boksen, eller reglene for ditt land ved ikke å velge denne avmerkingsboksen.
+
+<b>Merk:</b> Det er mulig at franske typografi-regler ikke gjelder i ditt land selv om språket er franske, for eksempel i francophone Afrika, Belgia, i Quebec eller i Sveits.
+
+For en komplett referanse på mellomrom og tegnsetting av franske typografi, kan du se <color=blue>http://jacques-andre.fr/faqtypo/lessons.pdf, side 33.
+
+</color=blue> 
+
+ "},{
+Key:1002535,Text:"&Skrift:"},{
+Key:1002536,Text:"&Størrelse:"},{
+Key:1002539,Text:"Hvis denne boksen er avmerket, VideoPsalm informere deg, under sin oppstart, om eksistensen av nye funksjonene i programmet eller nyheter om:
+-samlingene
+-Bibler,
+- og VideoPsalm språk.
+
+Nye samlinger, bibler i nye språk og nye språk for VideoPsalm er noen ganger lagt til VideoPsalm online bibliotek.
+
+Når dette skjer, legge i noen få klikk disse nye dokumenter til din installasjon via veiviseren for Import."},{
+Key:1002540,Text:"Hvis denne boksen er avmerket, krever VideoPsalm ordene forbundet med en bindestrek for å forbli på samme linje i lysbildene.
+
+Standardverdi for tekstene til sangene: <b>sjekket</b>"},{
+Key:1002541,Text:"Hvis denne boksen er avmerket, krever VideoPsalm ordene forbundet med en bindestrek for å forbli på samme linje i lysbildene.
+
+Standardverdi for bibler vers: <b>ukontrollert</b>"},{
+Key:1002542,Text:"Hvis denne boksen er avmerket, lar VideoPsalm deg lagre eventuelle endringer du har gjort versene av bibler (tekst og stil).
+
+Hvis denne boksen ikke er avmerket:
+
+<b>1.</b> når du lukker VideoPsalm, det vil ikke varsle deg at din bibler har blitt endret,
+
+<b>2</b> når du lagrer endringene, VideoPsalm lagrer ikke endringene bibler (tekst og stil),
+
+<b>3</b> vil du finne din intakt bibler ved neste oppstart av VideoPsalm."},{
+Key:1002543,Text:"Velg språket du vil til VideoPsalm som vises her.
+
+Hvis språket ditt ikke vises i listen, er kanskje tilgjengelig i VideoPsalm bibliotek online via veiviseren for Import.
+
+Hvis VideoPsalm ikke finnes på ditt språk, kan du informere oss via e-post på videopsalm@gmail.com
+
+Alternativt kan du bidra til å oversette tekster av VideoPsalm på ditt språk via VideoPsalm oversettelse verktøyet eller rette eventuelle feil.
+
+Start oversettelse verktøyet VideoPsalm med knappen \"Oversette VideoPsalm\"."},{
+Key:1002544,Text:"Velg mappen fra hvilke VideoPsalm laste hans bøker, bibler, bilder og videoer her.
+
+Når du endrer mappen, oppdaterer VideoPsalm sin samlinger, bibler, bilder og videoer med de av den nye mappen.
+
+<b>Forsiktig</b> : før du endrer mappen, kontrollerer du at du har lagret endringene."},{
+Key:1002545,Text:"Endre skrifttypen som vises VideoPsalm.
+
+Standard størrelse: 8,25
+
+Du kan også endre skriftstørrelsen via alternativer av Windows: Kontrollpanel -&gt; display-> lesbarhet på skjermen."},{
+Key:1002547,Text:"&Oversette VideoPsalm"},{
+Key:1002548,Text:"Åpner verktøyet som kan du oversette VideoPsalm til ditt språk, eller korrigere alle stavefeil."},{
+Key:1002549,Text:"Du er ferd med å endre mappen fra der VideoPsalm vil laste sine dokumenter.
+VideoPsalm vil laste ut sin gjeldende dokumenter og deretter laste opp disse nye mappen.
+Dette kan ta noen sekunder.{0}
+
+Vil du endre mappen av dokumentet?"},{
+Key:1002550,Text:"Det finnes ulagrede endringer (samlinger, bibler eller kalender).
+Hvis du bekrefter driften av posten nå, vil disse endringene gå tapt."},{
+Key:1002551,Text:"Endre dokumentmappen"},{
+Key:1002552,Text:"&Agenda"},{
+Key:1002553,Text:"Standard mønster:"},{
+Key:1002554,Text:"&sanger:"},{
+Key:1002555,Text:"&Bibelvers:"},{
+Key:1002556,Text:"&Slideshow bilder:"},{
+Key:1002557,Text:"&autonome videoer:"},{
+Key:1002558,Text:"&PowerPoints:"},{
+Key:1002559,Text:"&Tidsavbrudd standard automatisk forhånd:"},{
+Key:1002560,Text:"sekunder"},{
+Key:1002561,Text:"&Legger til et språk"},{
+Key:1002562,Text:"Åpner veiviseren for Import av språk som VideoPsalm er oversatt, fra der du kan legge til nye språk til din VideoPsalm."},{
+Key:1002580,Text:"Standard tekstflyt etter en sang"},{
+Key:1002581,Text:"Bestemmer standard tekstflyt etter den siste verset av sangen.
+
+Denne verdien er også tatt hensyn til sangene du vise spontant uten agenda.
+Du kan endre denne verdien for hver sang i kalenderen."},{
+Key:1002582,Text:"Standard tekstflyt når Bibelen vers"},{
+Key:1002583,Text:"Bestemmer standard tekstflyt etter den siste verset av en bibelske passasjen.
+
+Denne verdien er også tatt hensyn i bibelske passasjer du vise spontant uten agenda.
+Du kan endre denne verdien for hver Bibelen passering i kalenderen."},{
+Key:1002584,Text:"Standard tekstflyt etter en bilde slideshow"},{
+Key:1002585,Text:"Bestemmer standard tekstflyt etter en bilde slideshow.
+
+I kalenderen kan du endre denne verdien for hvert bilde."},{
+Key:1002586,Text:"Standard tekstflyt etter en frittstående video"},{
+Key:1002587,Text:"Bestemmer standard tekstflyt etter en frittstående video.
+
+I kalenderen kan du endre denne verdien for hver frittstående video."},{
+Key:1002588,Text:"Standard tekstflyt etter en PowerPoint"},{
+Key:1002589,Text:"Bestemmer standard tekstflyt etter en PowerPoint.
+
+I kalenderen kan du endre denne verdien for hver PowerPoint."},{
+Key:1002590,Text:"Angir intervallet for standard tid i sekunder før automatisk bytte til neste lysbilde.
+
+Du kan endre denne verdien for hvert element som renner automatisk i kalenderen."},{
+Key:1002591,Text:"&Lagre bakgrunnsbilder i agendaen (anbefales)"},{
+Key:1002592,Text:"Lagre bakgrunnsbilder i sakslisten"},{
+Key:1002593,Text:"Angir om VideoPsalm skal lagre bakgrunn bilder sanger og bibelsk i agendaen fil vers, når du lagrer den."},{
+Key:1002594,Text:"&Lagre bakgrunn videoer (anbefales) agenda"},{
+Key:1002595,Text:"Lagre bakgrunn videoer i agenda"},{
+Key:1002596,Text:"Angir om VideoPsalm skal lagre noen videoer av bakgrunnen av sanger og bibelsk i agendaen fil vers, når du lagrer den."},{
+Key:1002597,Text:"&Lagre slideshow bilder (anbefales) agenda"},{
+Key:1002598,Text:"Lagre slideshow bilder i sakslisten"},{
+Key:1002599,Text:"Angir om VideoPsalm skal lagre mulig bilder av lysbildefremvisning i kalenderfilen når du lagrer den."},{
+Key:1002600,Text:"&Lagre frittstående videoer (anbefales) dagsorden"},{
+Key:1002601,Text:"Lager det autonome video i agenda"},{
+Key:1002602,Text:"Angir om VideoPsalm skal lagre alle autonome i agendaen filen videoer, når du lagrer den."},{
+Key:1002603,Text:"&Lagre PowerPoints i agendaen (anbefales)"},{
+Key:1002604,Text:"Lagre PowerPoints i sakslisten"},{
+Key:1002605,Text:"Angir om VideoPsalm skal lagre noen PowerPoints i kalenderfilen når du lagrer den."},{
+Key:1002606,Text:"Vi anbefaler at du velger dette alternativet, spesielt hvis du forberede din agenda på en annen PC enn den som du vil vise presentasjonen."},{
+Key:1002607,Text:"&Redaktør"},{
+Key:1002608,Text:"&Skrift:"},{
+Key:1002609,Text:"Angir skriften som du redigere tekstene til en sang og vers i Bibelen.
+
+Denne skriften brukes spesielt ikke vise tekst på skjermen."},{
+Key:1002610,Text:"&Størrelse:"},{
+Key:1002611,Text:"Angir størrelsen på skriften som du redigere tekstene til en sang og vers i Bibelen.
+
+Denne skriftstørrelsen er ikke spesielt for å vise tekst på skjermen."},{
+Key:1002612,Text:"&Skrift avtalene:"},{
+Key:1002613,Text:"Angir skriften som du redigere avtalene i en sang.
+
+Denne skriften brukes ikke spesielt til å vise avtaler på presentasjonen skjermen."},{
+Key:1002614,Text:"&Tekststørrelsen avtalene:"},{
+Key:1002615,Text:"Angir størrelsen på skriften i avtalene i en sang i tekstredigeringsprogrammet.
+
+Denne skriftstørrelsen er ikke spesielt for å vise avtalene på presentasjonen skjermen."},{
+Key:1002616,Text:"&Farge på avtaler:"},{
+Key:1002617,Text:"Angir fargen som avtalene vises i tekstredigeringsprogrammet.
+
+Denne fargen brukes spesielt ikke vise avtaler på presentasjonen skjermen."},{
+Key:1002618,Text:"&Harde hvit farge:"},{
+Key:1002619,Text:"Angir fargen som bryte hvit vises i tekstredigeringsprogrammet."},{
+Key:1002620,Text:"&Farge koder på vers:"},{
+Key:1002621,Text:"Angir fargen som kodene av versene er uthevet i tekstredigeringsprogrammet."},{
+Key:1002622,Text:"&Åpenhet koder på vers:"},{
+Key:1002623,Text:"Angir gjennomsiktigheten av farge der kodene av versene er uthevet i tekstredigeringsprogrammet."},{
+Key:1002624,Text:"&Farge ChordPro avtalene:"},{
+Key:1002625,Text:"Angir fargen som ChordPro avtalene er uthevet i tekstmodus ChordPro Editor."},{
+Key:1002626,Text:"&Åpenhet ChordPro avtalene:"},{
+Key:1002627,Text:"Angir gjennomsiktigheten av farge som avtaler ChordPro er uthevet i tekstmodus ChordPro Editor."},{
+Key:1002628,Text:"&Erstatte skrifter (anbefales)"},{
+Key:1002629,Text:"Lar teksten editor å overstyre de manglende tegnene for gjeldende skrifttype av en annen skrift.
+
+Deaktiver substitusjon tegn hvis du bruker en ikke-Unicode-skrift som driver transkripsjon.
+Det er tilfellet for noen Hindi, Tamil, Bamati, Malayalam skrifter, etc.
+
+Merk at det er best å bruke en Unicode-skrift.
+Slik konverterer sangene forberedt til Unicode-tekst, bruk en online-Konverter, for eksempel her: <color=blue>http://www.suratha.com/reader.htm</color=blue>"},{
+Key:1002630,Text:"&Gir tilgang til en forenklet, kompatibel med skriften RTL teksteditor"},{
+Key:1002631,Text:"Viser en ekstra knapp til venstre på verktøylinjen i tekstredigeringsprogrammet, som gir tilgang til en modus forenklet redigering av teksten av sangene.
+
+Dette forenklet redaktør er kompatibel med skrive fra høyre til venstre (HTV), spesielt for arabisk og hebraisk."},{
+Key:1002632,Text:"Velg videogjengivelse metoden som fungerer best for din PC. VideoPsalm kan vise videoene i wmv på de fleste PC-format."},{
+Key:1002633,Text:"&Varsler"},{
+Key:1002634,Text:"Varsle hvis det er ved oppstart:"},{
+Key:1002635,Text:"&En ny versjon av VideoPsalm (anbefales)"},{
+Key:1002636,Text:"&Nye samlinger (anbefales)"},{
+Key:1002637,Text:"&Nye bibler (anbefales)"},{
+Key:1002638,Text:"&Nye språk (anbefales)"},{
+Key:1002639,Text:"&I tilfelle problemer med tilkobling, tilstedeværelse av en proxy"},{
+Key:1002640,Text:"Tilstedeværelsen av en proxy"},{
+Key:1002641,Text:"Angir om VideoPsalm skal automatisk oppdage tilstedeværelsen av en proxy å spørre om nye produkter eller oppdateringer.
+
+Hvis VideoPsalm ikke kan laste ned bøker eller bibler i biblioteket sitt online, Velg dette alternativet og prøv operasjonen på nytt.
+
+Velg dette alternativet bare hvis det ikke. Faktisk fører dette alternativet til en nedgang i laste ned bøker og bibler fra biblioteket av VideoPsalm online."},{
+Key:1002642,Text:"&Skjule sosiale ikoner"},{
+Key:1002643,Text:"Skjuler verktøylinjen sosiale ikoner (Facebook, Twitter og YouTube).
+
+Disse ikonene forblir skjult i fravær av en Internett-tilkobling."},{
+Key:1002644,Text:"&Lagre lyd sanger (anbefales) agenda"},{
+Key:1002645,Text:"Lagre lyd sanger i agenda"},{
+Key:1002646,Text:"Angir om VideoPsalm skal lagre lyd av sangene i kalenderfilen når du lagrer den."},{
+Key:1002648,Text:"&Tilpasning"},{
+Key:1002649,Text:"&Videokamera"},{
+Key:1002650,Text:"&Tidligere"},{
+Key:1002651,Text:"&Base"},{
+Key:1002652,Text:"&Tekst"},{
+Key:1002653,Text:"&Skjold"},{
+Key:1002654,Text:"&Snøfnugg"},{
+Key:1002655,Text:"&Feil"},{
+Key:1002656,Text:"Skyv panelet"},{
+Key:1002657,Text:"&Neste"},{
+Key:1002658,Text:"Verktøylinjen"},{
+Key:1002659,Text:"Styret agenda"},{
+Key:1002660,Text:"&Montere"},{
+Key:1002661,Text:"&gå av"},{
+Key:1002662,Text:"&Skjule verktøytips"},{
+Key:1003000,Text:"Versjon {0} fra {1}"},{
+Key:1003003,Text:"Lukk"},{
+Key:1003005,Text:"&Kontakt VideoPsalm"},{
+Key:1003006,Text:"Åpne Outlook (e-postklienten) til å sende en e-post til VideoPsalm"},{
+Key:1003007,Text:"Denne versjonen er oppdatert"},{
+Key:1003008,Text:"&Oppdatere min versjon"},{
+Key:1003009,Text:"Det er en nyere versjon av VideoPsalm:
+Versjon {0} for plate 1: (d).
+Klikk denne knappen for å åpne nedlastingssiden.
+Her finner du historien til endringene
+og en dataoverføre koble sammen."},{
+Key:1003011,Text:"-Rapport
+-Lag en kommentar eller et forslag"},{
+Key:1003012,Text:"E-postadresse: videopsalm@gmail.com"},{
+Key:1003500,Text:"Fjerne transposisjon"},{
+Key:1003501,Text:"Transponert en halvtone mer"},{
+Key:1003502,Text:"Transponert en halvtone mindre"},{
+Key:1003503,Text:"Uten"},{
+Key:1003504,Text:"Slette capo"},{
+Key:1003505,Text:"Transponere for en capo som flytter fra hodet"},{
+Key:1003506,Text:"Transponere for en capo som kommer nær hodet"},{
+Key:1003507,Text:"Uten"},{
+Key:1003508,Text:"Sjekk ut det hørlig arkiv på vokal"},{
+Key:1003509,Text:"&Lydfil:"},{
+Key:1003510,Text:"Velg lydfilene importere og velg \"åpne\"."},{
+Key:1003511,Text:"Du har importert {0} lydfil (s)."},{
+Key:1003512,Text:"Ingen lyd-fil er importert.
+(Han (s) er allerede funnet (s) i listen)."},{
+Key:1003513,Text:"Importere lydfiler"},{
+Key:1003514,Text:"Lydfiler"},{
+Key:1003515,Text:"Nøkkelord å søke i bilder"},{
+Key:1003516,Text:"Uten bilde"},{
+Key:1003517,Text:"Uten video"},{
+Key:1003518,Text:"&Filer"},{
+Key:1003519,Text:"&Vise bass"},{
+Key:1003520,Text:"Nøkkelord å søke i videoer"},{
+Key:1003521,Text:"&Samling av importerte sanger fra CCLI / SongSelect"},{
+Key:1003522,Text:"CCLI sanger"},{
+Key:1003523,Text:"Import av CCLI sanger"},{
+Key:1003524,Text:"{0} sanger var allerede i samlingen {1}, og ble ikke importert."},{
+Key:1003525,Text:"&Søk"},{
+Key:1003526,Text:"&Lysstyrke:"},{
+Key:1003527,Text:"&Søk"},{
+Key:1003528,Text:"&Lysstyrke:"},{
+Key:1003529,Text:"Melding"},{
+Key:1003530,Text:"Politiet"},{
+Key:1003531,Text:"Farger"},{
+Key:1003532,Text:"Melding"},{
+Key:1003533,Text:"Synlighet"},{
+Key:1003534,Text:"Modell"},{
+Key:1003535,Text:"Type"},{
+Key:1003536,Text:"Nedtelling"},{
+Key:1003537,Text:"Stoppeklokke"},{
+Key:1003538,Text:"Alternativer"},{
+Key:1003539,Text:"Gjennomsiktighet"},{
+Key:1003540,Text:"Vise meldingen"},{
+Key:1003541,Text:"Bakgrunn"},{
+Key:1003542,Text:"Vise klokken"},{
+Key:1003543,Text:"Klokke"},{
+Key:1003544,Text:"Nedtelling"},{
+Key:1003545,Text:"Stoppeklokke"},{
+Key:1003546,Text:"Under"},{
+Key:1003547,Text:"Opptil"},{
+Key:1003548,Text:"Start"},{
+Key:1003549,Text:"Pause"},{
+Key:1003550,Text:"stopp"},{
+Key:1003551,Text:"Stil"},{
+Key:1003552,Text:"Fett"},{
+Key:1003553,Text:"Kursiv"},{
+Key:1003554,Text:"Stresset"},{
+Key:1003555,Text:"Vise den andre hånden"},{
+Key:1003556,Text:"Stamming sekunder"},{
+Key:1003557,Text:"Minutter jerky"},{
+Key:1003558,Text:"Vise sifre"},{
+Key:1003559,Text:"Oppgradere minutter"},{
+Key:1003560,Text:"Graduate timer"},{
+Key:1003561,Text:"Videokamera"},{
+Key:1003562,Text:"Viser innspillingen av et kamera bak teksten."},{
+Key:1003563,Text:"&Legge til sanger i CILC format..."},{
+Key:1003564,Text:"Importere..."},{
+Key:1003565,Text:"Import"},{
+Key:1003566,Text:"Lar deg importere lydfiler til din VideoPsalm"},{
+Key:1003567,Text:"Navigere..."},{
+Key:1003568,Text:"Bla gjennom"},{
+Key:1003569,Text:"Åpner mappen av lydfiler av din VideoPsalm"},{
+Key:1003570,Text:"&Start (ms):"},{
+Key:1003571,Text:"&Slutt (ms):"},{
+Key:1003572,Text:"&Volum:"},{
+Key:1003573,Text:"&Spille løkker"},{
+Key:1003575,Text:"&Endret"},{
+Key:1003576,Text:"&Versjon av:"},{
+Key:1003577,Text:"Teksteditor \"Høyre\" igjen"},{
+Key:1003578,Text:"Veksler mellom en standard tekstredigeringsprogram (skrive fra venstre til høyre) og \"Høyre\" Editor venstre for arabisk, hebraisk, osv."},{
+Key:1003579,Text:"&GUID:"},{
+Key:1003580,Text:"&Vis alltid fellesskap (tospråklig)"},{
+Key:1003581,Text:"&Stilling:"},{
+Key:1004050,Text:"Politiet"},{
+Key:1004051,Text:"Størrelse"},{
+Key:1004052,Text:"Fett"},{
+Key:1004053,Text:"Kursiv"},{
+Key:1004054,Text:"Uthevet"},{
+Key:1004055,Text:"Justering"},{
+Key:1004056,Text:"Loddrett justering"},{
+Key:1004057,Text:"Animasjon"},{
+Key:1004058,Text:"Varighet"},{
+Key:1004059,Text:"Volum"},{
+Key:1004060,Text:"Dempe?"},{
+Key:1004061,Text:"Begynnelsen"},{
+Key:1004062,Text:"Slutten"},{
+Key:1004063,Text:"Loop?"},{
+Key:1004064,Text:"Se større bilde"},{
+Key:1004100,Text:"Farger"},{
+Key:1004101,Text:"Fylle"},{
+Key:1004102,Text:"Entourage"},{
+Key:1004103,Text:"Bredden av følget"},{
+Key:1004104,Text:"Skygge"},{
+Key:1004105,Text:"Radius av skyggen"},{
+Key:1004106,Text:"Dybden av skyggen"},{
+Key:1004107,Text:"Retning av skyggen"},{
+Key:1004151,Text:"Video"},{
+Key:1004152,Text:"Bilde"},{
+Key:1004153,Text:"Farge"},{
+Key:1004156,Text:"Rektangel av kroppen"},{
+Key:1004157,Text:"Rektangelet av topptekst"},{
+Key:1004158,Text:"Fot rektangel"},{
+Key:1004500,Text:"Kopiere kalenderen til utklippstavlen"},{
+Key:1004501,Text:"En beskrivelse av agendaen er plassert på utklippstavlen."},{
+Key:1004502,Text:"Ord (tittel og tekster) eller nei å søke"},{
+Key:1004503,Text:"Ord (tittel og tekster) eller nei å søke"},{
+Key:1004504,Text:"Ord (tittel) eller til å se uten."},{
+Key:1004505,Text:"Ord (forfatter og komponist) eller nei å søke"},{
+Key:1004506,Text:"Ord (temaer) eller for å søke"},{
+Key:1004507,Text:"Ord (referanser) eller for å søke"},{
+Key:1004508,Text:"CCLI å søke"},{
+Key:1004509,Text:"Ord (copyright) eller for å søke"},{
+Key:1004510,Text:"Ord (memo 1) eller nei å søke"},{
+Key:1004511,Text:"Ord (memo 2) eller nei å søke"},{
+Key:1004512,Text:"Ord (memo 3) eller nei å søke"},{
+Key:1004513,Text:"Sanger med akkorder"},{
+Key:1004514,Text:"Kopiere sammendraget av samling"},{
+Key:1004515,Text:"Sammendrag av samling ble plassert på utklippstavlen."},{
+Key:1005001,Text:"Slutten av lasting"},{
+Key:1005002,Text:"Sang av {0}."},{
+Key:1005003,Text:"Lasting videoer"},{
+Key:1005004,Text:"Kan ikke lese video {0}.
+{1}"},{
+Key:1005005,Text:"Laste inn bilder"},{
+Key:1005006,Text:"Kan ikke lese bildet {0}.
+{1}"},{
+Key:1005007,Text:"Lasting av stiler"},{
+Key:1005008,Text:"Fylling av listen over samlinger ({0} sanger i {1} samlinger)"},{
+Key:1005009,Text:"Slette de valgte sakslisten?"},{
+Key:1005010,Text:"Fjerne elementer"},{
+Key:1005011,Text:"Ny samling"},{
+Key:1005012,Text:"Ny sang"},{
+Key:1005013,Text:"Agendaen er tom.
+Åpne en eller dra her sanger og vers for å legge til dagsorden."},{
+Key:1005014,Text:"Det er ingen lysbildet til video - prosjektet.
+Velg en sang eller vers for video - prosjekt."},{
+Key:1005015,Text:"Vil du virkelig slette samlingen {0}?
+
+Filen som svarer til denne samlingen slettes ikke fra disken:
+dens utvidelse vil være gitt nytt navn \".ignore."},{
+Key:1005016,Text:"Slette en samling"},{
+Key:1005017,Text:"Vil du slette sangen {0}?
+
+Etter registrering av endringer på bøkene, vil fjerning av denne sangen være irreversible."},{
+Key:1005018,Text:"Slette en sang"},{
+Key:1005019,Text:"Fjerne alle elementer av agendaen?"},{
+Key:1005020,Text:"Slett alt"},{
+Key:1005021,Text:"Agendaen uten navn"},{
+Key:1005022,Text:"Tom kalender"},{
+Key:1005023,Text:"Den gjeldende sakslisten har ulagrede endringer.
+Vil du lagre disse endringene?"},{
+Key:1005024,Text:"Lagre kalenderen"},{
+Key:1005025,Text:"Én eller flere samlinger har ulagrede endringer.
+Vil du lagre disse endringene?"},{
+Key:1005026,Text:"Verdensrekord samlinger"},{
+Key:1005027,Text:"Én eller flere bibler har ulagrede endringer.
+Vil du lagre disse endringene?"},{
+Key:1005028,Text:"Lagre bibler"},{
+Key:1005029,Text:"Legge til dokumenter i sakslisten"},{
+Key:1005030,Text:"Dagbøker"},{
+Key:1005031,Text:"Bilder"},{
+Key:1005032,Text:"Videoer"},{
+Key:1005033,Text:"PowerPoints"},{
+Key:1005034,Text:"Lagre kalenderen under"},{
+Key:1005035,Text:"CCLI sanger"},{
+Key:1005036,Text:"Det er ingen samling.
+Klikk her for å starte importen rapporterer veiviseren."},{
+Key:1005037,Text:"Formatet {0}
+{1} × {2} piksler"},{
+Key:1005038,Text:"ms for {0}"},{
+Key:1005039,Text:"Vil du virkelig slette alle stiler under den {0}?"},{
+Key:1005040,Text:"Samlingen {0} er utelukket fra søk"},{
+Key:1005041,Text:"Vise eller flytter lysbildet"},{
+Key:1005042,Text:"Sesonger"},{
+Key:1005043,Text:"Våren"},{
+Key:1005044,Text:"Sommer"},{
+Key:1005045,Text:"Christmas"},{
+Key:1005046,Text:"Temaer"},{
+Key:1005047,Text:"Karamell"},{
+Key:1005048,Text:"Lilian"},{
+Key:1005049,Text:"Fantasi"},{
+Key:1005050,Text:"Mørkerom"},{
+Key:1005051,Text:"Tåke"},{
+Key:1005052,Text:"Blåkopi"},{
+Key:1005053,Text:"Whiteprint"},{
+Key:1005054,Text:"Fort kontrast"},{
+Key:1005055,Text:"Office"},{
+Key:1005056,Text:"Kontor 2010 blå"},{
+Key:1005057,Text:"Kontor 2010 sølv"},{
+Key:1005058,Text:"Office 2010-svart"},{
+Key:1005059,Text:"Office 2007-blå"},{
+Key:1005060,Text:"Office 2007-grønne"},{
+Key:1005061,Text:"Office 2007 Rose"},{
+Key:1005062,Text:"Office 2007 sølv"},{
+Key:1005063,Text:"Office 2007 svart"},{
+Key:1005064,Text:"Windows"},{
+Key:1005065,Text:"Storby"},{
+Key:1005066,Text:"Syv"},{
+Key:1005067,Text:"Syv Classic"},{
+Key:1005068,Text:"VS2010"},{
+Key:1005069,Text:"Røkelse"},{
+Key:1005070,Text:"Røyk"},{
+Key:1005071,Text:"Apple"},{
+Key:1005072,Text:"Farger"},{
+Key:1005073,Text:"Flytende himmelen"},{
+Key:1005074,Text:"London himmelen"},{
+Key:1005075,Text:"Blå"},{
+Key:1005076,Text:"Penger tvillinger"},{
+Key:1005077,Text:"Black gold"},{
+Key:1005078,Text:"Blackout"},{
+Key:1005079,Text:"Skarpe"},{
+Key:1005080,Text:"Skarpe mer"},{
+Key:1005081,Text:"Stjerner"},{
+Key:1005082,Text:"Hav av glass"},{
+Key:1005083,Text:"Asfalt verden"},{
+Key:1005084,Text:"Kaffe"},{
+Key:1005085,Text:"Støv av stjerner"},{
+Key:1005086,Text:"Slette alle maler som er nedenfor"},{
+Key:1005087,Text:"Opprettholde åpne galleriet"},{
+Key:1005100,Text:"Ingen animasjon"},{
+Key:1005102,Text:"Visne"},{
+Key:1005103,Text:"Lys blekner"},{
+Key:1005104,Text:"Se større bilde"},{
+Key:1005105,Text:"Ekspansjon i lys blekner"},{
+Key:1005106,Text:"Skanning"},{
+Key:1005107,Text:"Skanne til høyre"},{
+Key:1005109,Text:"Skjemaet"},{
+Key:1005110,Text:"Star"},{
+Key:1005118,Text:"Skann ned"},{
+Key:1005120,Text:"Skanne til venstre"},{
+Key:1005121,Text:"Skanning oppover"},{
+Key:1005122,Text:"Skanne fra toppen til høyre"},{
+Key:1005123,Text:"Skanne fra toppen til venstre"},{
+Key:1005124,Text:"Skann nederst til høyre"},{
+Key:1005125,Text:"Skann nederst til venstre"},{
+Key:1005126,Text:"Oppdag"},{
+Key:1005127,Text:"Oppdag ned"},{
+Key:1005128,Text:"Oppdag høyre"},{
+Key:1005129,Text:"Oppdag venstre"},{
+Key:1005130,Text:"Oppdag oppover"},{
+Key:1005131,Text:"Oppdag øverst til høyre"},{
+Key:1005132,Text:"Oppdag øverst til venstre"},{
+Key:1005133,Text:"Oppdag høyre ned"},{
+Key:1005134,Text:"Oppdag nederst til venstre"},{
+Key:1005200,Text:"Lysbilder"},{
+Key:1005201,Text:"Ingen lysbildet"},{
+Key:1005209,Text:"Søk etter ord i:"},{
+Key:1005210,Text:"&Tittel og tekst"},{
+Key:1005211,Text:"&Tittel og tekst"},{
+Key:1005212,Text:"&Tittel"},{
+Key:1005213,Text:"&Forfatter og komponist"},{
+Key:1005214,Text:"&Temaer"},{
+Key:1005215,Text:"&Referanser"},{
+Key:1005216,Text:"&CCLI"},{
+Key:1005217,Text:"&Copyright"},{
+Key:1005218,Text:"&Notat 1"},{
+Key:1005219,Text:"&Memo 2"},{
+Key:1005220,Text:"&Notat 3"},{
+Key:1005221,Text:"&Sanger med akkorder"},{
+Key:1005223,Text:"Alternativer"},{
+Key:1005224,Text:"Alternativer for VideoPsalm"},{
+Key:1005225,Text:"Viser alternativerdialogboksen for VideoPsalm."},{
+Key:1005226,Text:"Import"},{
+Key:1005228,Text:"Viser veiviseren for Import av bøker, bibler, bilder og videoer fra VideoPsalm elektronisk bibliotek og populære formater."},{
+Key:1005230,Text:"Slette"},{
+Key:1005232,Text:"Fjern sang, samling eller valgte Bibelen."},{
+Key:1005237,Text:"Endre skriften."},{
+Key:1005247,Text:"Bilder"},{
+Key:1005252,Text:"Redigere Varslingsinnstillinger."},{
+Key:1005253,Text:"Lukk dette vinduet og husk informasjonen neste gang."},{
+Key:1005254,Text:"Lukk dette vinduet og ikke lenger husker denne informasjonen."},{
+Key:1005255,Text:"Ord eller uttrykk søk, f.eks: brød vin"},{
+Key:1005256,Text:"Velg vers av referanse"},{
+Key:1005257,Text:"Søk etter vers som inneholder bestemte nøkkelord eller uttrykk"},{
+Key:1005258,Text:"Slette søkeordet eller setningen til søk (ESC)"},{
+Key:1005259,Text:"Søk vers som inneholder bestemte nøkkelord.
+
+For eksempel:
+
+-For å finne versene som inneholder uttrykket <b>\"Guds barn\"</b>, skriver du noen ord som <b>\"barn Gud\"</b>.
+
+-For å finne vers som inneholder setningen <b>\"tok han kalken\"</b>, skriver du inn disse multipler ord: <b>«ilpritlacoupe»</b>.
+
+Ikke bekymre deg aksenter eller tegnsetting, eller små/store bokstaver.
+
+Du trenger ikke skrive inn ordene som helhet eller i rekkefølge.
+
+Legge til andre ord av verset å redusere listen over funnet versene.
+
+Trykk <b>inn</b> til vers funnet og valgt i sakslisten."},{
+Key:1005260,Text:"Ingen funnet vers."},{
+Key:1005268,Text:"I denne modusen, legger VideoPsalm automatisk til parenteser [] rundt teksten du angir.
+For eksempel setter å legge til en c akkord, skriver du inn «Gjøre» og VideoPsalm inn \"[gjøre]."},{
+Key:1005269,Text:"Skriftstørrelse"},{
+Key:1005270,Text:"Endrer skriftstørrelsen som en prosentandel av høyden på skjermen."},{
+Key:1005271,Text:"&Lagre som..."},{
+Key:1005277,Text:"Lagre"},{
+Key:1005278,Text:"Lagrer endringene du har gjort i bøkene, bibler og deres stiler."},{
+Key:1005279,Text:"Lagrer endringene du har gjort i samlinger og stiler.
+
+<b>Oppmerksomhet:</b> Endringene du gjør i bibler lagres ikke (tekst og stiler). Hvis du vil lagre disse endringene, kan du aktivere alternativet tilsvarende i alternativene for VideoPsalm."},{
+Key:1005283,Text:"Lengde:"},{
+Key:1005284,Text:"I ms:"},{
+Key:1005285,Text:"Element"},{
+Key:1005286,Text:"Kroppen"},{
+Key:1005287,Text:"Kroppen stilen"},{
+Key:1005288,Text:"Tillater redigering av stilen av kroppen."},{
+Key:1005289,Text:"Topptekst"},{
+Key:1005290,Text:"Stil av topptekst"},{
+Key:1005291,Text:"Tillater redigering av stilen på overskriften."},{
+Key:1005292,Text:"Foten"},{
+Key:1005293,Text:"Stil på foten."},{
+Key:1005294,Text:"Tillater redigering av stilen på foten."},{
+Key:1005295,Text:"Avtaler"},{
+Key:1005296,Text:"Stil av avtalene"},{
+Key:1005297,Text:"Tillater redigering av stilen av avtalene."},{
+Key:1005308,Text:"Bok"},{
+Key:1005313,Text:"Nivå av stil"},{
+Key:1005314,Text:"Angi stilendringene gjelder.
+
+Verset har den høyeste stil, deretter bare sang, innsamling, samlinger og basen.
+
+På samme måte, verset har den høyeste stilen, så kommer kapittelet, boken, testamentet, Bibelen, bibler og basen igjen.
+
+Basen blir ved roten av hierarkiet, gjelder sin stil for alle lysbildene.
+
+Et høyere nivå kan overstyre en stil som er definert i et lavere nivå-attributt."},{
+Key:1005315,Text:"<b></b>Denne mekanismen kan du endre stilen på lysbildene måte samlede eller individuelle.
+
+<b>Eksempel</b>
+Hvis du tilordner en bakgrunn til en sang, vises alle versene av denne sangen med denne bakgrunn, bortsett fra alle versene som du har tilordnet en bestemt bakgrunn."},{
+Key:1005318,Text:"Skyv"},{
+Key:1005319,Text:"PowerPoint"},{
+Key:1005320,Text:"PowerPoints"},{
+Key:1005322,Text:"Videoer"},{
+Key:1005323,Text:"CCLI SongSelect"},{
+Key:1005326,Text:"Tekstfargene"},{
+Key:1005329,Text:"Tilbakestille"},{
+Key:1005330,Text:"Fjerner stil for det valgte nivået"},{
+Key:1005331,Text:"Du kan slette alle malattributtene det valgte nivået.
+Et lysbilde uten stil arver automatisk lavere nivå stil.
+
+For eksempel:
+-Et vers har en stil med en Candara skrift.
+-Synger, i mellomtiden, har en stil med en skrift Segoe UI.
+
+Når du sletter stilen av verset, vises den med stilen på lavere nivå. I vårt eksempel, vil det være Segoe UI Skrifttype.
+
+<b>Rullegardinmenyen «slette alle over stiler»</b>
+Du kan slette stilen til det valgte nivået og alle høyere stiler.
+
+Hvis nivået av stil \"Kode\" er valgt, vil for eksempel stil av samlingen slettes samt stiler av alle sanger på samlingen, og de av deres vers."},{
+Key:1005332,Text:"Denne knappen er nedtonet når nivået har ingen egen stil."},{
+Key:1005333,Text:"&Slette alle over stiler"},{
+Key:1005337,Text:"&Topp"},{
+Key:1005338,Text:"&Middels"},{
+Key:1005339,Text:"&Bunnen"},{
+Key:1005340,Text:"Bo på dette nivået av stil"},{
+Key:1005341,Text:"Bo på dagens nivå på stil"},{
+Key:1005342,Text:"Forblir på dagens nivå på stil når du endrer lysbildet.
+
+Dermed:
+<b>1.</b> Når du viser verset av en sang, VideoPsalm, plasserer nivået av stil på 'vers'.
+<b>2.</b> For å endre stilen sang av verset, Velg nivå av stil \"sang.\"
+<b>3.</b> For å bo på formateringen for av sangene, trykk stiften.
+<b>4.</b> Når du bytter fra et vers til neste, nivået av stil forblir på \"sang.\""},{
+Key:1005343,Text:"Fylling av teksten"},{
+Key:1005345,Text:"Fyll teksten med en heldekkende farge, en gradering, et bilde eller en tekstur."},{
+Key:1005346,Text:"Fargen på teksten"},{
+Key:1005347,Text:"Omrisset av teksten"},{
+Key:1005349,Text:"Angir fargen, bredden og linjen for omrisset av tekststilen."},{
+Key:1005350,Text:"Fargen på teksten"},{
+Key:1005352,Text:"Teksteffekten"},{
+Key:1005354,Text:"Bruk en visuell effekt på teksten, for eksempel en skygge, en lys, en refleksjon eller en 3-d-rotasjon."},{
+Key:1005356,Text:"Tekstskygge"},{
+Key:1005357,Text:"Bakgrunnsfargen"},{
+Key:1005359,Text:"&Ny sang"},{
+Key:1005360,Text:"&Ny samling"},{
+Key:1005361,Text:"&Slette alle"},{
+Key:1005362,Text:"
+
+<b>Delvis skjold</b>
+Ved åpningen av en agenda beholdes den <b>tekst</b> av bøker og bibler.
+Stiler av kalenderen brukes til bøker og bibler."},{
+Key:1005363,Text:"
+
+<b>Delvis skjold</b>
+Ved åpningen av en agenda beholdes <b>stiler</b> av dine bøker og bibler.
+Tekst av agendaen brukes til bøker og bibler."},{
+Key:1005364,Text:"
+
+<b>Full skjold</b>
+Ved åpningen av en agenda, vil <b>tekster</b> og <b>stiler</b> av bøker og bibler bli bevart.
+De av agendaen vil ikke bli brukt.
+
+<i>Dette er strategien for å vedta når dokumenter av denne PCen er referanse.</i>"},{
+Key:1005365,Text:"
+
+<b>Fravær av skjold</b>
+Ved åpningen av en agenda, <b>tekster</b> og <b>stiler</b> av kalenderen brukes til bøker og bibler og erstatte din egen tekster og stiler.
+
+<i>Dette er strategien for å vedta når dokumentene referanse er PC du opprettet dagsorden.</i>"},{
+Key:1005366,Text:"For å endre fra \"Seer\" til \"Edit\"-modus eller omvendt, klikker du knappen med blyant."},{
+Key:1005369,Text:"Sorter etter tittel"},{
+Key:1005370,Text:"Sortert etter nummer"},{
+Key:1005371,Text:"Om..."},{
+Key:1005377,Text:"4:3.2"},{
+Key:1005378,Text:"Simulerer videoprojeksjon
+på en skjerm på det 4:3.2 aspektet"},{
+Key:1005379,Text:"16:9"},{
+Key:1005380,Text:"Simulerer videoprojeksjon
+på et skjermbildet aspektet 16:9"},{
+Key:1005381,Text:"4:3"},{
+Key:1005382,Text:"Simulerer videoprojeksjon
+på en skjerm på 4:3-aspektet"},{
+Key:1005383,Text:"16:10"},{
+Key:1005384,Text:"Simulerer videoprojeksjon
+på et skjermbildet aspektet 1610:"},{
+Key:1005385,Text:"16:8"},{
+Key:1005386,Text:"Simulerer videoprojeksjon
+på et skjermbildet aspektet 16:8"},{
+Key:1005387,Text:"Gjeldende"},{
+Key:1005388,Text:"Bruker hele overflaten av skjermen"},{
+Key:1005389,Text:"Del 4:3"},{
+Key:1005390,Text:"Do Re Mi"},{
+Key:1005391,Text:"EN B-C"},{
+Key:1005396,Text:"Modus for innsetting av avtalene"},{
+Key:1005398,Text:"Vise avtaler over tekster"},{
+Key:1005400,Text:"Også justere utseendet på vinduet"},{
+Key:1005401,Text:"&Legge til i kalenderen"},{
+Key:1005402,Text:"&Del (Slett)"},{
+Key:1005403,Text:"&Ta med koden i søket"},{
+Key:1005404,Text:"&Ekskludere samlingen av forskning"},{
+Key:1005405,Text:"&Ta med alle samlinger i søket"},{
+Key:1005407,Text:"&Skjul ekskludert fra forskning samlinger"},{
+Key:1005408,Text:"&Vis ekskludert fra forskning samlinger"},{
+Key:1005409,Text:"&Vise resize-rektangel"},{
+Key:1005410,Text:"Viser resize-rektangel"},{
+Key:1005411,Text:"Lar deg endre størrelsen på rammen (tekst, topp- eller bunntekst) valgt.
+
+Rammen kan være bosatt med musen i forhåndsvisningsområdet.
+
+<b>Hvordan endre størrelsen på en ramme</b>
+
+1. Velg en ramme for å endre størrelse på:
+-kroppen
+-hodet,
+- eller foten.
+
+2. Velg ønsket stil-nivå, for eksempel \"bibler\".
+
+3. Trykk på feilen å tvinge VideoPsalm en skjerm lysbilder i stil \"Bibler\".
+Faktisk, hvis feilen ikke er trykket, VideoPsalm bytter automatisk til 'Vers' stil så snart du vise et vers.
+
+4 Vise et vers. Rammen ved hjelp av stil \"Bibler\" vises i forhåndsvisningsområdet.
+
+5 Endre størrelsen og plasseringen av rammen ved hjelp av musen.
+
+6. Fjerne feilen, for å tilbakestille VideoPsalm til 'Vers' stil når du igjen vil vise et lysbilde."},{
+Key:1005412,Text:"&Kopi av et sammendrag av koden til utklippstavlen"},{
+Key:1005417,Text:"Tekst"},{
+Key:1005418,Text:"Stilutforsker"},{
+Key:1005419,Text:"Viser eller skjuler stil Explorer.
+I dette vinduet kan du navigere mellom nivåer av hierarkiske stiler, til å tilbakestille egenskapene for individ og redigere dem."},{
+Key:1005420,Text:"Stiler"},{
+Key:1005421,Text:"Politiet"},{
+Key:1005424,Text:"Bakgrunn"},{
+Key:1005425,Text:"Stiler"},{
+Key:1005429,Text:"Aspektet"},{
+Key:1005430,Text:"Edition"},{
+Key:1005432,Text:"Utseende"},{
+Key:1005433,Text:"Verktøy"},{
+Key:1005442,Text:"Fortsett med neste element"},{
+Key:1005443,Text:"Slå av før du går"},{
+Key:1005444,Text:"Fjerne teksten, og følg deretter"},{
+Key:1005445,Text:"Fjerne teksten, og deretter slå av"},{
+Key:1005446,Text:"Vise sammen med det neste elementet (tospråklig)"},{
+Key:1005447,Text:"Legge til vokalen eller vers valgte agenda (Sett inn eller Alt + A)"},{
+Key:1005448,Text:"Klikk her for å legge til vokalen eller versene i sakslisten.
+
+Eventuelt kan du dra og slippe denne knappen i kalenderen til stedet som skal være."},{
+Key:1005449,Text:"&Legge til"},{
+Key:1005454,Text:"Velg alternativer for å søke etter sanger etter stikkord"},{
+Key:1005455,Text:"Slette ord eller nummer for å søke (ESC)"},{
+Key:1005457,Text:"Søk etter en sang (Ctrl + F)"},{
+Key:1005458,Text:"Søke sangene som inneholder bestemte ord eller har et tall.
+
+For eksempel:
+
+-For å finne sangen nr. 250, skriver du inn «250»
+
+-Å finne sangen som inneholder tekstene <b>' som et fyrtårn i natten \"</b>, skriver du noen ord som <b>\"lys natt\"</b>.
+
+Ikke bekymre deg om aksenter eller tegnsetting.
+
+Du trenger ikke å ta ordene som en helhet eller i rekkefølge.
+
+Legge til andre ordene i sangen å redusere listen med funnet sanger.
+
+Trykk <b>Sett inn</b> -knappen for å legge til den første sangen funnet på agendaen."},{
+Key:1005459,Text:"Det er ingen Bibelen.
+Klikk her for å starte veiviseren for Import
+Bibler og legge til bibler fra populær kilder."},{
+Key:1005463,Text:"Slette referanse hvis du vil vise (ESC)"},{
+Key:1005464,Text:"Referanse til å velge, f.eks: romerne 3:23-25, 30"},{
+Key:1005465,Text:"Velg vers (Ctrl + F)"},{
+Key:1005472,Text:"&Fil:"},{
+Key:1005475,Text:"&Inkluder denne samlingen i Søk etter-sanger"},{
+Key:1005479,Text:"&navn:"},{
+Key:1005481,Text:"&Forkortelse:"},{
+Key:1005483,Text:"&Forfatter:"},{
+Key:1005485,Text:"&Copyright:"},{
+Key:1005487,Text:"&Dokument:"},{
+Key:1005491,Text:"&Skrive ut capo"},{
+Key:1005497,Text:"&Tekster"},{
+Key:1005499,Text:"&Nummer:"},{
+Key:1005501,Text:"&Tittel:"},{
+Key:1005505,Text:"&Referanse:"},{
+Key:1005507,Text:"&Copyright:"},{
+Key:1005509,Text:"&Forfatter:"},{
+Key:1005511,Text:"&Komponist:"},{
+Key:1005513,Text:"&Ulike"},{
+Key:1005515,Text:"&Tone:"},{
+Key:1005517,Text:"&Format:"},{
+Key:1005519,Text:"&Tema:"},{
+Key:1005521,Text:"&Sekvensen:"},{
+Key:1005523,Text:"&CILC:"},{
+Key:1005525,Text:"&Nøkkel:"},{
+Key:1005527,Text:"&Alias:"},{
+Key:1005529,Text:"&Nøkkel-linje:"},{
+Key:1005531,Text:"&Memo 1:"},{
+Key:1005533,Text:"&Memo 2:"},{
+Key:1005535,Text:"&Memo 3:"},{
+Key:1005537,Text:"&Signatur:"},{
+Key:1005540,Text:"&Transponering:"},{
+Key:1005541,Text:"Skrive ut capo?"},{
+Key:1005542,Text:"&CAPO:"},{
+Key:1005543,Text:"&Tempoet:"},{
+Key:1005545,Text:"Implementere avtalene i sangen."},{
+Key:1005555,Text:"&Fil:"},{
+Key:1005560,Text:"&Copyright:"},{
+Key:1005562,Text:"&Forkortelse:"},{
+Key:1005564,Text:"&navn:"},{
+Key:1005566,Text:"&Beskrivelse:"},{
+Key:1005568,Text:"&Innledning:"},{
+Key:1005570,Text:"&Dokument:"},{
+Key:1005576,Text:"&navn:"},{
+Key:1005582,Text:"&navn:"},{
+Key:1005584,Text:"&Innledning:"},{
+Key:1005586,Text:"&Forkortelse:"},{
+Key:1005587,Text:"Kapittel i Bibelen"},{
+Key:1005590,Text:"Bibelvers"},{
+Key:1005595,Text:"&Vers:"},{
+Key:1005603,Text:"&Fil:"},{
+Key:1005606,Text:"Ingen valg"},{
+Key:1005608,Text:"Stil"},{
+Key:1005612,Text:"Fjerner verdien av egenskapen"},{
+Key:1005613,Text:"Når du sletter verdien av en eiendom, bruker VideoPsalm den første verdien som er funnet i de lavere nivåene.
+
+For eksempel, hvis du fjerner politiet på nivået av verset, VideoPsalm bruker, i orden, og hvis det er satt, skriften:
+-sang,
+-ellers samlingen,
+-Hvis en av samlinger,
+-ellers basen.
+
+VideoPsalm er likt med bibler, bilder, osv."},{
+Key:1005615,Text:"Ingen"},{
+Key:1005616,Text:"Base"},{
+Key:1005618,Text:"Samlinger"},{
+Key:1005619,Text:"Samling"},{
+Key:1005620,Text:"Vokal"},{
+Key:1005621,Text:"Vers"},{
+Key:1005622,Text:"Bibler"},{
+Key:1005623,Text:"Bibelen"},{
+Key:1005624,Text:"Testamente"},{
+Key:1005625,Text:"Boken i Bibelen"},{
+Key:1005626,Text:"Kapittel"},{
+Key:1005627,Text:"Vers"},{
+Key:1005628,Text:"Standardverdien"},{
+Key:1005629,Text:"Verdi fra kroppen av teksten"},{
+Key:1005630,Text:"Venstre"},{
+Key:1005631,Text:"Sentrert"},{
+Key:1005632,Text:"Høyre"},{
+Key:1005633,Text:"Begrunnet"},{
+Key:1005634,Text:"Topp"},{
+Key:1005635,Text:"Middels"},{
+Key:1005636,Text:"Bunnen"},{
+Key:1005650,Text:"&Åpne en kalender..."},{
+Key:1005651,Text:"&Legge til kalendere..."},{
+Key:1005652,Text:"&Legge til lysbildefremvisning bilder..."},{
+Key:1005653,Text:"&Legge til autonome videoer..."},{
+Key:1005654,Text:"&Legg til noen PowerPoints..."},{
+Key:1005655,Text:"Når jeg åpner en kalender:"},{
+Key:1005656,Text:"&Bevare tekst av mine bøker og bibler"},{
+Key:1005657,Text:"&Bevare stiler av mine bøker og bibler"},{
+Key:1005667,Text:"&Samlinger"},{
+Key:1005668,Text:"Viser samlinger (Alt + R)"},{
+Key:1005670,Text:"&Bibler"},{
+Key:1005671,Text:"Viser bibler (Alt + B)"},{
+Key:1005677,Text:"&Bredde:"},{
+Key:1005680,Text:"&Gjør uskarp:"},{
+Key:1005681,Text:"&Dybde:"},{
+Key:1005682,Text:"&Retning:"},{
+Key:1005686,Text:"Viser en tom skjerm, svart farge.
+Simulerer utryddelse av projektoren."},{
+Key:1005687,Text:"Neste"},{
+Key:1005688,Text:"Gå til neste lysbilde."},{
+Key:1005689,Text:"Slå av skjermen (Ctrl + W)"},{
+Key:1005690,Text:"Vise tekst (Ctrl + T)"},{
+Key:1005691,Text:"Viser eller skjuler teksten på et lysbilde."},{
+Key:1005692,Text:"Skjold (Ctrl + B)"},{
+Key:1005693,Text:"Bevarer vokal blir videoprojeksjon lysbilder.
+
+Til å arbeide på agendaen eller søk etter en sang eller et vers i løpet av video-projeksjon av sang.
+
+Hvis du vil overstyre skjoldet, kan du dobbeltklikke et element på agendaen."},{
+Key:1005694,Text:"Fryse"},{
+Key:1005695,Text:"Fryser videoprojeksjon skjermen uten å fryse forhåndsvisningsområdet.
+
+Forhåndsvise presentasjonen under video-projeksjon."},{
+Key:1005696,Text:"Prosjekt (Ctrl + P)"},{
+Key:1005697,Text:"Projiserte lysbildene på projektoren."},{
+Key:1005698,Text:"Modus 'Opplag' (Ctrl + E)"},{
+Key:1005699,Text:"Bytter oppringingstype fra \"Seer\" til \"Edit\"-modus eller omvendt."},{
+Key:1005702,Text:"Åpne en kalender eller et dokument"},{
+Key:1005703,Text:"Åpner en kalender, eller legge til en PowerPoint-presentasjon, bilder for en lysbildeserie, videoer, etc."},{
+Key:1005704,Text:"Lagre kalenderen"},{
+Key:1005705,Text:"Slette"},{
+Key:1005706,Text:"Fjerner de merkede elementene i agendaen (Slett)."},{
+Key:1005707,Text:"Mount (Ctrl + PgUp.)"},{
+Key:1005708,Text:"Monte elementet til begynnelsen av dagsorden."},{
+Key:1005709,Text:"Ned (Ctrl + PgDn)"},{
+Key:1005710,Text:"Ned elementet mot slutten av agendaen."},{
+Key:1005711,Text:"Lysstyrke"},{
+Key:1005712,Text:"Åpne en kalender"},{
+Key:1005713,Text:"Lagrer dagsorden på disken eller en USB-nøkkel."},{
+Key:1005721,Text:"Velger versene av deres referanse.
+<i>Eksempel: romerne 3:23-25, 30</i>
+
+Ikke angi aksenter i navnene på bøker.
+<i>Eksempel: 'N<b>e</b>h<b>e</b>mie \"heller enn\" N<b>é</b>h<b>é</b>mie \".</i>
+
+Angi enten en <b>': '</b>, en <b>\".\"</b> eller en <b>\"v\"</b> til å skille kapitlene av versene.
+
+Trykk på <b>'Legg til'</b> for å legge til vers valgt på agendaen."},{
+Key:1005722,Text:"Kommentarer (ikke oversette, for å forlate på engelsk)"},{
+Key:1005723,Text:"Kan ikke skrive filen
+{0} :
+{1}"},{
+Key:1005724,Text:"Feil"},{
+Key:1005725,Text:"Kan ikke lese filen
+{0} :
+{1}"},{
+Key:1005730,Text:"Er du sikker på at du vil fjerne stil slideshow bilder?
+Stil slideshow bilder vil ta en standardverdi."},{
+Key:1005731,Text:"Er du sikker på at du vil fjerne grunnstilen?
+Grunnstilen vil ta en standardverdi."},{
+Key:1005732,Text:"Er du sikker på at du vil fjerne stilen av samlinger?
+Stilen av samlingene vil ta en standardverdi."},{
+Key:1005733,Text:"Er du sikker på at du vil fjerne stilen bibler?
+Stilen av bibler vil ta en standardverdi."},{
+Key:1005734,Text:"Er du sikker på at du vil slette denne stilen?
+VideoPsalm gjelder malattributtene finnes lavere i hierarkiet."},{
+Key:1005735,Text:"Fjern mal"},{
+Key:1005736,Text:"Er du sikker på at du vil fjerne stilen av videoer?
+Stilen på videoene vil ta en standardverdi."},{
+Key:1005737,Text:"En samling"},{
+Key:1005738,Text:"Ingen samling"},{
+Key:1005739,Text:"En Bibelen"},{
+Key:1005740,Text:"Ingen Bibelen"},{
+Key:1005743,Text:"Øke skriftstørrelsen (Ctrl + Skift +.)"},{
+Key:1005744,Text:"Øker skriftstørrelsen."},{
+Key:1005745,Text:"Redusere skrift (Ctrl + Skift +,)"},{
+Key:1005746,Text:"Reduserer størrelsen på skriften."},{
+Key:1005747,Text:"Fet (Ctrl + B)"},{
+Key:1005748,Text:"Sette merket tekst fet."},{
+Key:1005749,Text:"Kursiv (Ctrl + I)"},{
+Key:1005750,Text:"Sette merket tekst til kursiv."},{
+Key:1005751,Text:"Pekte ut (Ctrl + U)"},{
+Key:1005752,Text:"Understrek den merkede teksten."},{
+Key:1005753,Text:"Bar"},{
+Key:1005754,Text:"Tegner en linje i den merkede teksten."},{
+Key:1005755,Text:"Vis / Skjul ¶ (Ctrl + Skift + 8)"},{
+Key:1005756,Text:"Viser avsnittsmerker og andre skjulte formateringssymboler."},{
+Key:1005757,Text:"Skriftfarge"},{
+Key:1005758,Text:"Endre fargen på teksten."},{
+Key:1005759,Text:"Fargen på teksten"},{
+Key:1005760,Text:"Gir en farge på teksten."},{
+Key:1005761,Text:"Fjern formatering (Ctrl + mellomrom)"},{
+Key:1005762,Text:"Fullstendig fjerner formateringen for det merkede området, og beholder bare ren tekst."},{
+Key:1005763,Text:"Angre (Ctrl + Z)"},{
+Key:1005764,Text:"Annullerer siste operasjon."},{
+Key:1005765,Text:"Gjør om (Ctrl + Y)"},{
+Key:1005766,Text:"Gjør om den siste operasjonen."},{
+Key:1005767,Text:"Klipp ut (Ctrl + X)"},{
+Key:1005768,Text:"Klipper ut merket område og sett den til utklippstavlen."},{
+Key:1005769,Text:"Kopier (Ctrl + C)"},{
+Key:1005770,Text:"Kopierer merket område og legger det på utklippstavlen."},{
+Key:1005771,Text:"Lim inn (Ctrl + V)"},{
+Key:1005772,Text:"Limer inn innholdet på utklippstavlen."},{
+Key:1005773,Text:"Søk (Ctrl + F)"},{
+Key:1005774,Text:"Søke etter teksten i dokumentet."},{
+Key:1005775,Text:"Erstatt (Ctrl + H)"},{
+Key:1005776,Text:"Erstatter teksten i dokumentet."},{
+Key:1005777,Text:"Forstørre"},{
+Key:1005778,Text:"Vis alle"},{
+Key:1005779,Text:"Hvis du vil redigere et bestemt tekst, klikker du på et lysbilde."},{
+Key:1005780,Text:"Utvalg av vers"},{
+Key:1005781,Text:"Sorterer samlingen valgt av tittelen sangene."},{
+Key:1005782,Text:"Lukker gjeldende agendaen (og ber om bekreftelse hvis det finnes ulagrede endringer)."},{
+Key:1005783,Text:"Justerer lysstyrken i bildet eller bakgrunnen video.
+
+Lar teksten uthevingen, selv over barriole bakgrunn."},{
+Key:1005784,Text:"&Kopiere en beskrivelse av dagsorden"},{
+Key:1005785,Text:"&Inkluder tekstene av sanger"},{
+Key:1005786,Text:"&Inkluder bibelske vers"},{
+Key:1005787,Text:"Facebook"},{
+Key:1005788,Text:"Twitter"},{
+Key:1005789,Text:"YouTube"},{
+Key:1005790,Text:"VideoPsalm facebook siden åpnes.
+
+La vite VideoPsalm rundt deg:
+-ved å klikke på knappen \"Jeg liker\"
+-ved å bli hans venn.
+
+<b>Merk:</b> For å eliminere annonsene i Facebook, kan du installere det gratis plugin <b>Adblock Plus</b>.
+
+Hvis du vil skjule VideoPsalm sosiale ikoner, kan du deaktivere dem i \"Alternativer\" → \"Général\"-kategorien."},{
+Key:1005791,Text:"Åpner siden VideoPsalm Twitter å være informert om nye artikler fra blogger.
+
+Hvis du vil skjule VideoPsalm sosiale ikoner, kan du deaktivere dem i \"Alternativer\" → \"Général\"-kategorien."},{
+Key:1005792,Text:"Åpner VideoPsalm YouTube siden, hvor du finner opplæringsvideoer på bruk av VideoPsalm.
+
+Hvis du vil skjule VideoPsalm sosiale ikoner, kan du deaktivere dem i \"Alternativer\" → \"Général\"-kategorien."},{
+Key:1005793,Text:"Legger til en ny tom sang (eller en annonse) merket samling."},{
+Key:1005794,Text:"Legger til en ny tom samling."},{
+Key:1005795,Text:"Sorterer sanger av samlingen valgt av deres antall."},{
+Key:1005800,Text:"Vers"},{
+Key:1005801,Text:"Refrenget"},{
+Key:1005802,Text:"Pre-Chorus"},{
+Key:1005803,Text:"Bro"},{
+Key:1005804,Text:"Etikett"},{
+Key:1005805,Text:"Intro"},{
+Key:1005806,Text:"Utgang"},{
+Key:1005807,Text:"Slip"},{
+Key:1005808,Text:"Instrumental"},{
+Key:1005809,Text:"Andre"},{
+Key:1005820,Text:"S"},{
+Key:1005821,Text:"R"},{
+Key:1005822,Text:"V"},{
+Key:1005823,Text:"P"},{
+Key:1005824,Text:"E"},{
+Key:1005825,Text:"JEG"},{
+Key:1005826,Text:"O"},{
+Key:1005827,Text:"G"},{
+Key:1005828,Text:"N"},{
+Key:1005829,Text:"A"},{
+Key:1005850,Text:"Lukk"},{
+Key:1005851,Text:"&Språk:"},{
+Key:1005852,Text:"&Utgiver:"},{
+Key:1005853,Text:"Alle"},{
+Key:1005859,Text:"Transponere sang avtaler avhengig av plasseringen av capodiastre."},{
+Key:1005860,Text:"Finn sanger inkludert tittel (eller alias) eller tekstene inneholder ordene du skriver inn.
+
+Alternativt, kan du søke etter en sang med nummer."},{
+Key:1005861,Text:"Utfører et søk i to stadier, at fordelen av raskt vise en kort liste over sanger:
+
+1 Finne i en første gang sanger inkludert tittel (eller alias) inneholder ordene du skriver inn.
+
+At du legger til ord, det kommer en tid hvor de fleste hvilken som helst sang kan bli enige.
+
+2. Fra dette punktet, vil VideoPsalm søke etter ord i tekstene til sangene.
+
+Alternativt, kan du søke etter en sang med nummer."},{
+Key:1005862,Text:"Finn sanger av låtskrivere du angir.
+
+Alternativt, kan du søke etter en sang med nummer."},{
+Key:1005863,Text:"Finn sanger som omhandler emner du angir.
+
+Alternativt, kan du søke etter en sang med nummer."},{
+Key:1005864,Text:"Finn sangene inspirert av bibelske referanser du angir.
+
+Alternativt, kan du søke etter en sang med nummer."},{
+Key:1005865,Text:"Er sangen som har CCLI du angir.
+
+Alternativt, kan du søke etter en sang med nummer."},{
+Key:1005866,Text:"Finn sanger som har copyright inneholder ordene du skriver inn.
+
+Alternativt, kan du søke etter en sang med nummer."},{
+Key:1005867,Text:"Finn sanger som notat 1 inneholder ordene du skriver inn.
+
+Alternativt, kan du søke etter en sang med nummer."},{
+Key:1005868,Text:"Finn sanger som memo 2 inneholder ordene du skriver inn.
+
+Alternativt, kan du søke etter en sang med nummer."},{
+Key:1005869,Text:"Finn sanger 3 notat som inneholder ordene du skriver inn.
+
+Alternativt, kan du søke etter en sang med nummer."},{
+Key:1005870,Text:"Finn sanger hvis tittel eller alias inneholder ordene du skriver inn.
+
+Alternativt, kan du søke etter en sang med nummer."},{
+Key:1005871,Text:"Finn sanger som har avtaler i tekstene.
+
+Alternativt, kan du søke etter en sang med nummer."},{
+Key:1005872,Text:"&Versjon av:"},{
+Key:1005873,Text:"&Versjon av:"},{
+Key:1005874,Text:"Datoen for din versjon av samling"},{
+Key:1005875,Text:"Angir datoen da denne samlingen ble oppdatert av VideoPsalm for siste gang.
+
+Via VideoPsalm online biblioteket importveiviseren, kan du sjekke om det er en nyere versjon av denne manualen.
+
+VideoPsalm online oppdaterer noen ganger noen samlinger, for å rette for eksempel noen skrivefeil."},{
+Key:1005876,Text:"Datoen for din versjon av Bibelen"},{
+Key:1005877,Text:"Angir datoen der dette Bibelen har blitt oppdatert av VideoPsalm for siste gang.
+
+Via VideoPsalm elektronisk bibliotek importveiviseren, kan du sjekke om det er en nyere versjon av denne oversettelsen.
+
+VideoPsalm online oppdaterer noen ganger noen bibler, for å rette for eksempel noen skrivefeil."},{
+Key:1005878,Text:"Komprimert"},{
+Key:1005879,Text:"Komprimert"},{
+Key:1005880,Text:"VideoPsalm kan komprimere samlingene og din bibler, så bevare noe diskett mellomrom.
+
+Bøker og bibler som du laster ned via importveiviseren er vanligvis komprimert, for å øke hastigheten på nedlastingen, og for å redusere Internett-trafikk på nettstedet VideoPsalm."},{
+Key:1005881,Text:"&Komprimert"},{
+Key:1005882,Text:"&Komprimert"},{
+Key:1005884,Text:"Vil du virkelig slette Bibelen {0}?
+
+Filen tilsvarer dette Bibelen vil ikke bli slettet fra disken:
+dens utvidelse vil være gitt nytt navn \".ignore."},{
+Key:1005885,Text:"Slette en Bibelen"},{
+Key:1005886,Text:"Vennligst vent behage"},{
+Key:1005887,Text:"Laster inn pågår..."},{
+Key:1005888,Text:"Gamle testamente"},{
+Key:1005889,Text:"Nye testamente"},{
+Key:1005890,Text:"Gjeldende post..."},{
+Key:1005891,Text:"&Importere bilder"},{
+Key:1005892,Text:"Velg bildene du vil importere, og klikk deretter på 'åpne'."},{
+Key:1005893,Text:"Du har importert {0} ramme (s)."},{
+Key:1005894,Text:"Ingen bilde er innlest.
+(Hun (s) er funnet (s) i galleriet)."},{
+Key:1005895,Text:"&Gjenskape miniatyrbilder"},{
+Key:1005896,Text:"Gjenskape miniatyrbilder"},{
+Key:1005897,Text:"Vil du gjenopprette miniatyrbildene?
+
+Det kan være nødvendig å gjenskape miniatyrer av bildene
+Når du har endret utenfor VideoPsalm."},{
+Key:1005898,Text:"&Slette bildet"},{
+Key:1005899,Text:"Fjerne et bilde"},{
+Key:1005900,Text:"Vil du virkelig slette bildet {0}?"},{
+Key:1005901,Text:"&Utforske bildemappen"},{
+Key:1005902,Text:"&Slette det valgte bildet"},{
+Key:1005903,Text:"&Importere video"},{
+Key:1005904,Text:"Velg videoene du vil importere, og klikk deretter på 'åpne'."},{
+Key:1005905,Text:"Du har importert {0} video (s)."},{
+Key:1005906,Text:"Ingen video er importert.
+(Hun (s) er funnet (s) i galleriet)."},{
+Key:1005907,Text:"&Gjenskape miniatyrbilder"},{
+Key:1005908,Text:"&Slette videoen"},{
+Key:1005909,Text:"Slette en video"},{
+Key:1005910,Text:"Vil du virkelig slette videoen {0}?"},{
+Key:1005911,Text:"&Utforske videoer-mappen"},{
+Key:1005912,Text:"&Slette den valgte videoen"},{
+Key:1005913,Text:"<Sans vidéo=\"\"></Sans>"},{
+Key:1005914,Text:"Import av bilder"},{
+Key:1005915,Text:"Importere video"},{
+Key:1005917,Text:"Kan ikke opprette mappen
+{0} :
+{1}"},{
+Key:1005918,Text:"Den angitte mappen har ingen støtte:
+{0}"},{
+Key:1005919,Text:"Mappen må fylles ut."},{
+Key:1005920,Text:"Et mappenavn kan ikke inneholde følgende tegn:
+{0}"},{
+Key:1005921,Text:"Gjenopprette bøker og bibler"},{
+Key:1005922,Text:"Hvis du vil gjenopprette samlinger, bibler, bilder eller videoer, for eksempel fra en sikkerhetskopi på en USB stick."},{
+Key:1005923,Text:"Lukk"},{
+Key:1005930,Text:"&Kopiere sangen til"},{
+Key:1005931,Text:"&Flytte sangen til"},{
+Key:1005932,Text:"Vil du kopiere sangen {0}.
+i samlingen {1}?"},{
+Key:1005933,Text:"Vil du flytte sangen {0}.
+i samlingen {1}?"},{
+Key:1005934,Text:"&Skriv inn referansen via forkortelsene"},{
+Key:1005935,Text:"&Vise navnet på bøker på fransk"},{
+Key:1005936,Text:"(Kopier)"},{
+Key:1005937,Text:"En ny bok er tilgjengelig:
+{0}"},{
+Key:1005938,Text:"Nye samlinger er tilgjengelige: {0}"},{
+Key:1005939,Text:"Korrigeringer er utført
+samlingen {0}."},{
+Key:1005940,Text:"Korrigeringer er utført
+koder etter: {0}"},{
+Key:1005941,Text:"Åpne importveiviseren samlinger"},{
+Key:1005942,Text:"En ny Bibelen er tilgjengelig:
+{0}"},{
+Key:1005943,Text:"Nye bibler er tilgjengelige: {0}"},{
+Key:1005944,Text:"Korrigeringer er utført
+Bibelen: {0}."},{
+Key:1005945,Text:"Korrigeringer er utført
+i bibler følgende: {0}"},{
+Key:1005946,Text:"Åpne veiviseren for import av bibler"},{
+Key:1005947,Text:"VideoPsalm er nylig tilgjengelig
+i {0}"},{
+Key:1005948,Text:"VideoPsalm er nylig tilgjengelig i: {0}"},{
+Key:1005949,Text:"Korrigeringer er utført
+etikettene i {0}"},{
+Key:1005950,Text:"Korrigeringer er utført
+etikettene til språk etter: {0}"},{
+Key:1005951,Text:"Åpne import av etikettveiviseren"},{
+Key:1005952,Text:"En nyere versjon
+VideoPsalm er tilgjengelig:"},{
+Key:1005953,Text:"Vise nyheter"},{
+Key:1005954,Text:"Automatisk"},{
+Key:1005955,Text:"Utforsk den valgte mappen"},{
+Key:1005956,Text:"Velg en mappe"},{
+Key:1005957,Text:"Vise siste filer"},{
+Key:1005958,Text:"Lagre"},{
+Key:1005959,Text:"Gjør det mulig å lagre samlinger, bibler, bilder eller videoer, eller lag en bærbar versjon av VideoPsalm, for eksempel på en USB-pinne."},{
+Key:1005960,Text:"&Gjenopprette..."},{
+Key:1005961,Text:"VideoPsalm er ikke vise PowerPoint-dokumenter.
+
+(Ingen PowerPoint type søknad ble oppdaget på PCen)."},{
+Key:1005962,Text:"Feil PowerPoint"},{
+Key:1005963,Text:"Gjøre {0} redigerbare i samlingen {1}."},{
+Key:1005964,Text:"Gjøre {0} redigerbar i samlingen..."},{
+Key:1005965,Text:"Gjøre {0} redigerbare i den nye samlingen {1}."},{
+Key:1005966,Text:"Bibelske passasjer"},{
+Key:1005967,Text:"&Egendefinerte Bibelen passasjer"},{
+Key:1005968,Text:"&Beskrivelse:"},{
+Key:1005969,Text:"&Språk:"},{
+Key:1005970,Text:"&Utgiver:"},{
+Key:1005971,Text:"&Administrator:"},{
+Key:1005973,Text:"&Administrator:"},{
+Key:1005974,Text:"Over tekst"},{
+Key:1005975,Text:"Avtaler over tekst"},{
+Key:1005976,Text:"Dette er den anbefalte modusen til å redigere teksten.
+Når du redigerer teksten, flytter hver avtale med bokstaven som den er forankret.
+
+Når du <b>avskrift tekst som inneholder avtaler</b>, avtaler, kopieres med tekst, ChordPro format.
+
+Når du limer inn tekst som inneholder avtaler i ChordPro format, viser VideoPsalm disse avtalene over teksten.
+
+<b>Legge til en avtale</b>, sett inn til venstre i brevet du vil forankre det ved rundt med braketter <b>[]</b>.
+
+<b>Slette en avtale</b>, sletter du bokstaven som den er forankret og deretter skrive inn bokstaven.
+
+<b>Endre en avtale</b>, slette og sette det riktig (eller bruk \" <b>Format ChordPro</b> \" modus)."},{
+Key:1005977,Text:"ChordPro-format"},{
+Key:1005978,Text:"Avtaler i ChordPro-format"},{
+Key:1005979,Text:"I denne modusen:
+
+-VideoPsalm viser tekstene og akkordene med <b>ChordPro format</b>.
+
+-Det er den ideelle modusen for redigering avtaler: VideoPsalm legger automatisk parenteser [] rundt teksten du angir.
+For eksempel setter legge til en c akkord, skriver du inn «Gjøre» og VideoPsalm inn \"[gjøre]\".
+
+OBS: denne modusen er ikke egnet for redigering tekstene, fordi avhengig av saken, VideoPsalm omgir bokstavene kroker.
+Bruk heller \"<b>over teksten</b>\" modus til å redigere teksten."},{
+Key:1005980,Text:"Avtaler"},{
+Key:1005981,Text:"Kopier"},{
+Key:1005982,Text:"Kopierer en beskrivelse av kalenderen og plassere den på utklippstavlen."},{
+Key:1005983,Text:"&Tillate PowerPoint å bruk \"presenter\"."},{
+Key:1005984,Text:"Når denne boksen er avmerket, vises VideoPsalm blader PowerPoint kommandoen grensesnittet for å fremme av presentasjonen."},{
+Key:1005985,Text:"Bla én gang"},{
+Key:1005986,Text:"Sløyfe"},{
+Key:1005987,Text:"Fremme manuelt"},{
+Key:1005988,Text:"&Web..."},{
+Key:1005989,Text:"&Automatisk forhånd..."},{
+Key:1005990,Text:"&Fremme manuelt"},{
+Key:1005991,Text:"&Sløyfe"},{
+Key:1005992,Text:"&Bla én gang"},{
+Key:1005993,Text:"&Intervall (sekunder):"},{
+Key:1005994,Text:"&Forsvinner teksten og deretter slå av"},{
+Key:1005995,Text:"&Følge opp med det neste elementet"},{
+Key:1005996,Text:"&Deaktivere før"},{
+Key:1005997,Text:"&Forsvunnet tekst og følg"},{
+Key:1005998,Text:"&Vise sammen med neste element (tospråklig)"},{
+Key:1005999,Text:"&Explorer"},{
+Key:1006000,Text:"Importveiviseren"},{
+Key:1006001,Text:"Velkommen til import av bøker, bibler, bilder og videoer veiviseren"},{
+Key:1006002,Text:"Denne veiviseren forenkler import av bøker, bibler, bilder og videoer fra biblioteket online VideoPsalm eller populære formater som veileder deg gjennom en rekke trinn."},{
+Key:1006003,Text:"Klikk Neste for å fortsette"},{
+Key:1006004,Text:"&Velg..."},{
+Key:1006005,Text:"&Neste &gt;"},{
+Key:1006006,Text:"&&lt; Forrige"},{
+Key:1006007,Text:"&hjelp"},{
+Key:1006008,Text:"&Fullfør"},{
+Key:1006009,Text:"&Oppgivelse"},{
+Key:1006010,Text:"Du kan importere bøker, bibler, bilder eller videoer"},{
+Key:1006011,Text:"Velg hva du vil importere"},{
+Key:1006012,Text:"Importere en samling"},{
+Key:1006013,Text:"Importere en Bibelen"},{
+Key:1006014,Text:"Importere bilder"},{
+Key:1006015,Text:"Importere video"},{
+Key:1006016,Text:"Importere et språk"},{
+Key:1006020,Text:"&Initialisere"},{
+Key:1006021,Text:"Initialiserer mappen til en standard verdi"},{
+Key:1006023,Text:"Sammendrag før import"},{
+Key:1006024,Text:"Klikk Neste for å starte importen"},{
+Key:1006025,Text:"Gjeldende import"},{
+Key:1006026,Text:"Importen er fullført"},{
+Key:1006027,Text:"Klikk Fullfør for å lukke veiviseren,
+
+Klikk tilbake for å importere en annen samling eller en en annen Bibelen"},{
+Key:1006029,Text:"Du har {0} er importert sanger i {1} samlinger."},{
+Key:1006030,Text:"Du har {0} er importert sanger i den nye samlingen {1}."},{
+Key:1006031,Text:"Du har importert den {0} Bibelen med suksess."},{
+Key:1006032,Text:"Du har importert {0} bibler med suksess."},{
+Key:1006033,Text:"Du har importert {0} språket med suksess."},{
+Key:1006034,Text:"Du har importert {0} språk."},{
+Key:1006035,Text:"Vil du stoppe importen?"},{
+Key:1006036,Text:"Import ble ikke fullført riktig."},{
+Key:1006037,Text:"Angi et navn for denne ny samling av VideoPsalm"},{
+Key:1006038,Text:"Den nye kolleksjonen vil bli lagret under dette navnet. Dette navnet kan endres senere"},{
+Key:1006039,Text:"&Navn for å gi til samlingen:"},{
+Key:1006040,Text:"Gi et navn til denne nye Bibelen VideoPsalm"},{
+Key:1006041,Text:"Den nye Bibelen vil bli lagret under dette navnet. Dette navnet kan endres senere"},{
+Key:1006042,Text:"&Navn for å gi til Bibelen:"},{
+Key:1006051,Text:"Velg samlinger"},{
+Key:1006052,Text:"Velg bibler"},{
+Key:1006053,Text:"Velg en fil"},{
+Key:1006054,Text:"Velg en mappe"},{
+Key:1006055,Text:"&Fil:"},{
+Key:1006056,Text:"&Fil:"},{
+Key:1006057,Text:"Velg språk"},{
+Key:1006058,Text:"Mappen {0} finnes ikke."},{
+Key:1006060,Text:"Får ikke tilgang til mappen {0}.
+
+{1}"},{
+Key:1006061,Text:"Filen {0} finnes ikke."},{
+Key:1006062,Text:"OBS: Lasting av mange samlinger kan fylle PC-minne og treg etter sanger.
+Laster virkelig du {0} samlinger?"},{
+Key:1006063,Text:"OBS: Lasting av mange bibler kan fylle PC-minne.
+Laster virkelig du {0} bibler?"},{
+Key:1006064,Text:"Det nye navnet kan ikke være tomt."},{
+Key:1006065,Text:"Det nye navnet kan ikke inneholde følgende tegn: {0}"},{
+Key:1006066,Text:"Det finnes allerede en samling med navnet {0}."},{
+Key:1006067,Text:"Det finnes allerede en Bibelen med navnet {0}."},{
+Key:1006068,Text:"Du stoppet importen."},{
+Key:1006069,Text:"Kontroller Internett-tilkoblingen."},{
+Key:1006070,Text:"Tilgjengelig fra {0}"},{
+Key:1006071,Text:"Nye versjonen tilgjengelig siden {0}"},{
+Key:1006072,Text:"Din versjonsdatoer fra {0}"},{
+Key:1006073,Text:"Din versjon av {0} er oppdatert."},{
+Key:1006074,Text:"Tittel"},{
+Key:1006075,Text:"Tilstand"},{
+Key:1006076,Text:"Ikke lastet ned"},{
+Key:1006077,Text:"Oppdatering"},{
+Key:1006078,Text:"Oppdatering er tilgjengelig"},{
+Key:1006079,Text:"Nye"},{
+Key:1006080,Text:"Ny oppdatering tilgjengelig"},{
+Key:1006081,Text:"Ingen samling er valgt.
+Du må velge minst én samling."},{
+Key:1006082,Text:"Ingen Bibelen er valgt.
+Du må velge minst en bibel."},{
+Key:1006083,Text:"Ingen språk merket.
+Du må velge minst ett språk."},{
+Key:1006084,Text:"Kode"},{
+Key:1006085,Text:"Kilde kodefil: <b>{0}</b>"},{
+Key:1006086,Text:"Kildemappen:
+<b>{0}</b>"},{
+Key:1006087,Text:"Dokument søker"},{
+Key:1006090,Text:"Navnet gitt til den nye Bibelen av VideoPsalm: <b>{0}</b>"},{
+Key:1006091,Text:"Til den nye samlingen av VideoPsalm medlemsnavn: <b>{0}</b>"},{
+Key:1006095,Text:"I biblioteket av VideoPsalm online, det skjer at noen dokumenter er lagt til eller oppdatert (f.eks å rette en skrivefeil).
+Avhengig av de ovenfor dokumentene tilstand, kan du bestemme om eller ikke å laste dem ned.
+
+<b>Her er hvordan å skille delstaten dokumenter:</b>
+-Dokumentene som du ikke har lastet ned, vises i normalvisning.
+-Dokumentene som du har lastet opp, og er oppdatert, vises i <i>kursiv</i>. De er merket med et <image=check_16>OK.
+Du trenger ikke å re - laste ned, bortsett fra i tilfellet der du vil avbryte eventuelle endringer du har gjort.
+-Dokumentene som du har lastet opp og som vi har i mellomtiden gjort korrigeringer i VideoPsalm online bibliotek, vises med <b>fet skrift</b>. De er merket med en blyant <image=pencil2_16>.
+
+Tekstboksen til høyre beskriver hva korrigeringer er utført i dokumentet: Dette kan hjelpe deg å avgjøre hvis du ønsker å re - laste ned.
+
+<b>Oppmerksomhet:</b> Hvis du oppdaterer dokumentet i re-opplasting, vil du miste eventuelle endringer du har gjort, så vel som sin stil attributter fordi VideoPsalm erstatter din som den laster ned.
+Din egen arkiv er ikke fjernet, men: det er igjen på disken, men blir usynlig i VideoPsalm fordi VideoPsalm gir nytt navn dens ekspansjon i .ignore.
+
+<b>Rådet</b> : bare laste ned dokumenter som vil være nyttig.
+I praksis, hvis du har for mange dokumenter, blir lasting av VideoPsalm kanskje langsommere, akkurat som søker etter nøkkelord.
+
+Merk at du kan når som helst fjerne en bok eller en bibel av din VideoPsalm. Du gjør dette, kan du bruke knappen ' <image=delete2_16>slette ' i 'Édition'-fanen.</image=delete2_16> </image=pencil2_16> </image=check_16>"},{
+Key:1006096,Text:"&Historien om endringer i {0}."},{
+Key:1006100,Text:"Samlinger av bibliotek av VideoPsalm online"},{
+Key:1006105,Text:"EasySlides sanger"},{
+Key:1006110,Text:"MediaShout sanger"},{
+Key:1006115,Text:"OpenLP sanger"},{
+Key:1006116,Text:"VerseView sanger"},{
+Key:1006120,Text:"Sangene i formatet 'OpenLyrics'."},{
+Key:1006125,Text:"OpenSong sanger"},{
+Key:1006130,Text:"En samling av Psalmo"},{
+Key:1006131,Text:"En samling i tekstformat"},{
+Key:1006132,Text:"Sanger av EasyWorship 2009"},{
+Key:1006133,Text:"Sangene i formatet \"ChordPro\"."},{
+Key:1006134,Text:"Sanger av WebAsaph"},{
+Key:1006135,Text:"Sangene i formatet «CCLI."},{
+Key:1006140,Text:"Bibler fra biblioteket av VideoPsalm online"},{
+Key:1006145,Text:"En Bibelen Bibelen Database"},{
+Key:1006150,Text:"En bibel av OpenLP"},{
+Key:1006155,Text:"En bibel av OpenSong"},{
+Key:1006160,Text:"En bibel av ubundet Bibelen"},{
+Key:1006165,Text:"En Zefania-Bibelen"},{
+Key:1006166,Text:"En bibel av EasySlides"},{
+Key:1006167,Text:"En bibel i formatet \"Osis\"."},{
+Key:1006168,Text:"En bibel i formatet «USFM» bøker (Wycliffe / SIL / Paratex)"},{
+Key:1006180,Text:"Velg samlinger av biblioteket av VideoPsalm online du vil importere til din VideoPsalm"},{
+Key:1006185,Text:"Velg en database med EasySlides som inneholder sangene du vil importere til din VideoPsalm (filtypen MDB)"},{
+Key:1006190,Text:"Velg en database med MediaShout som inneholder sangene du vil importere til din VideoPsalm (filtypen MDB)"},{
+Key:1006195,Text:"Velg en database med OpenLP som inneholder sangene du vil importere til din VideoPsalm (filtypen .sqlite-fil)"},{
+Key:1006196,Text:"Velg en database med VerseView som inneholder sangene du vil importere til din VideoPsalm (filtypen DBF-filen)"},{
+Key:1006200,Text:"Velg en mappe som inneholder sanger i 'OpenLyrics'-format som du vil importere til din VideoPsalm (filtypen XML-filer)"},{
+Key:1006205,Text:"Velg en mappe som inneholder OpenSong sanger du vil importere til din VideoPsalm (filer uten utvidelse)"},{
+Key:1006210,Text:"Velg en eksporterte Psalmo kompendium RTF-format du vil importere til din VideoPsalm (filtypen RTF-fil)"},{
+Key:1006211,Text:"Velg en samling i tekstformat du vil importere til din VideoPsalm (filtypen TXT-fil)"},{
+Key:1006212,Text:"Velg en database med EasyWorship 2009 som inneholder sangene du vil importere til din VideoPsalm (filtypen DBF-filen)"},{
+Key:1006213,Text:"Velg en mappe som inneholder sanger i ChordPro-format som du vil importere til din VideoPsalm (.chordpro, .chopro, *.CRD eller .cho forlengelsen fil-størrelse)"},{
+Key:1006214,Text:"Velg en database med WebAsaph som inneholder sangene du vil importere til din VideoPsalm (filen filtypen .ltc)"},{
+Key:1006215,Text:"Velg en mappe som inneholder sanger i CCLI-format for å importere til din VideoPsalm (filtypen usr-filer)"},{
+Key:1006220,Text:"Velg bibler av VideoPsalm online biblioteket du vil importere til din VideoPsalm"},{
+Key:1006225,Text:"Velg en Bibelen av Bibelen databasen du vil importere til din VideoPsalm (filtypen TXT-fil)"},{
+Key:1006230,Text:"Velg en Bibelen OpenLP, du vil importere til din VideoPsalm (filtypen .sqlite-fil)"},{
+Key:1006235,Text:"Velg en Bibelen av OpenSong du vil importere til din VideoPsalm (fil uten filtype)"},{
+Key:1006240,Text:"Velg en Bibelen ubundet Bibelen, du vil importere til din VideoPsalm (filtypen TXT-fil)"},{
+Key:1006245,Text:"Velg en Zefania Bibelen du vil importere til din VideoPsalm (filtypen XML-fil)"},{
+Key:1006247,Text:"Velg en Bibelen av EasySlides du vil importere til din VideoPsalm (filtypen MDB)"},{
+Key:1006248,Text:"Velg en bibel i \"Osis\"-format for å importere til din VideoPsalm (filtypen XML, .osi eller .osis fil)"},{
+Key:1006249,Text:"Velg bøkene i Bibelen \"USFM\" format for å importere til din VideoPsalm (filtypen .sfm eller .usfm filer)"},{
+Key:1006252,Text:"Velg språk av VideoPsalm online biblioteket du vil importere til din VideoPsalm"},{
+Key:1006255,Text:"Importere <b>{0} samling (s) av biblioteket av VideoPsalm online</b> :
+{1}"},{
+Key:1006260,Text:"Importere <b>EasySlides sanger</b>"},{
+Key:1006265,Text:"Importere <b>sanger av MediaShout</b>"},{
+Key:1006270,Text:"Importere <b>OpenLP sanger</b>"},{
+Key:1006271,Text:"Importere <b>VerseView sanger</b>"},{
+Key:1006275,Text:"Importere <b>sangene i formatet «OpenLyrics»</b>"},{
+Key:1006280,Text:"Import <b>av OpenSong sang</b>"},{
+Key:1006285,Text:"Importere <b>en samling av Psalmo</b>"},{
+Key:1006286,Text:"Importere <b>en tekst-samling</b>"},{
+Key:1006287,Text:"<b>Importere sanger av EasyWorship 2009</b>"},{
+Key:1006288,Text:"Import <b>av sanger i ChordPro-format</b>"},{
+Key:1006289,Text:"Importere <b>sanger av WebAsaph</b>"},{
+Key:1006290,Text:"Importere <b>format CCLI sanger</b>"},{
+Key:1006295,Text:"Importere: <b>{0} Bibelen (s) fra biblioteket av VideoPsalm online</b>
+{1}"},{
+Key:1006300,Text:"Importere <b>en Bibelen Bibelen database</b>"},{
+Key:1006305,Text:"Importere <b>en bibel av OpenLP</b>"},{
+Key:1006310,Text:"Importere <b>en bibel av OpenSong</b>"},{
+Key:1006315,Text:"Importere <b>en bibel av ubundet Bibelen</b>"},{
+Key:1006320,Text:"Importere <b>En Zefania Bibelen</b>"},{
+Key:1006321,Text:"Importere <b>En EasySlides Bibelen</b>"},{
+Key:1006322,Text:"Importere <b>en bibel i formatet \"Osis\"</b>"},{
+Key:1006323,Text:"Importere <b>en bibel i formatet «USFM»</b>"},{
+Key:1006325,Text:"Importere <b>{0} language (s) av biblioteket av VideoPsalm online</b> :
+{1}"},{
+Key:1006340,Text:"Velg en database med EasySlide"},{
+Key:1006345,Text:"Velg en MediaShout database"},{
+Key:1006350,Text:"Velg en database med OpenLP"},{
+Key:1006351,Text:"Velg en database med VerseView"},{
+Key:1006355,Text:"Velg en mappe som inneholder sangene i formatet 'OpenLyrics'."},{
+Key:1006360,Text:"Velg en mappe som inneholder sanger av OpenSong"},{
+Key:1006365,Text:"Velg en RTF-fil som inneholder eksporterte Psalmo sanger"},{
+Key:1006366,Text:"Velg en fil som inneholder sanger i tekstformat"},{
+Key:1006367,Text:"Velg en database av EasyWorship 2009"},{
+Key:1006368,Text:"Velg en mappe som inneholder sangene i formatet \"ChordPro\"."},{
+Key:1006369,Text:"Velg en WebAsaph database"},{
+Key:1006370,Text:"Velg en mappe som inneholder sanger i formatet «CCLI."},{
+Key:1006375,Text:"Velg en bibel av BibleDatabase"},{
+Key:1006380,Text:"Velg en bibel av OpenLP"},{
+Key:1006385,Text:"Velg en bibel av OpenSong"},{
+Key:1006390,Text:"Velg en bibel av ubundet Bibelen"},{
+Key:1006395,Text:"Velg en Zefania Bibelen"},{
+Key:1006397,Text:"Velg en bibel av EasySlides"},{
+Key:1006398,Text:"Velg en bibel i formatet \"Osis\"."},{
+Key:1006399,Text:"Velg bøkene i Bibelen i formatet \"USFM."},{
+Key:1006405,Text:"EasySlide-databasen"},{
+Key:1006410,Text:"MediaShout 4-databasen"},{
+Key:1006411,Text:"MediaShout 3-databasen"},{
+Key:1006415,Text:"OpenLP-databasen"},{
+Key:1006416,Text:"Databasen av EasyWorship 2009"},{
+Key:1006417,Text:"VerseView database"},{
+Key:1006420,Text:"Mappen {0}.
+inneholder ikke synge på 'OpenLyrics' (filtypen xml)-format."},{
+Key:1006425,Text:"Mappen {0}.
+inneholder ingen OpenSong sang (sanger av OpenSong er filer uten utvidelse)."},{
+Key:1006430,Text:"Sanger som er eksportert fra Psalmo"},{
+Key:1006431,Text:"Sanger i tekstformat"},{
+Key:1006432,Text:"Mappen {0}.
+inneholder ikke synge på \"ChordPro\" (filtypen chopro/chordpro, crd og cho)-format."},{
+Key:1006433,Text:"WebAsaph-databasen"},{
+Key:1006434,Text:"Mappen {0}.
+inneholder ingen sang i formatet «CCLI» (usr forlengelse)."},{
+Key:1006440,Text:"BibleDatabase bibler"},{
+Key:1006445,Text:"OpenLP bibler"},{
+Key:1006450,Text:"OpenSong bibler"},{
+Key:1006455,Text:"Bibler ubundet Bibelen"},{
+Key:1006460,Text:"Zefania bibler"},{
+Key:1006462,Text:"EasySlides bibler"},{
+Key:1006463,Text:"Bibler i formatet \"Osis\"."},{
+Key:1006464,Text:"Bøker i Bibelen i formatet \"USFM."},{
+Key:1006500,Text:"KJV.txt"},{
+Key:1006501,Text:"KJV.sqlite"},{
+Key:1006502,Text:"SEM"},{
+Key:1006503,Text:"KJV.txt"},{
+Key:1006504,Text:"KJV.xml"},{
+Key:1006505,Text:"Jeg elsker Herren 1"},{
+Key:1006506,Text:"JEM 1. rtf"},{
+Key:1006507,Text:"Min chants.txt"},{
+Key:1006508,Text:"french_lsg.mdb"},{
+Key:1006509,Text:"Jeg elsker Herren"},{
+Key:1006510,Text:"MSAccess databaser"},{
+Key:1006511,Text:"KJV.xml"},{
+Key:1006512,Text:"Tribal.SFM"},{
+Key:1006515,Text:"Alle filer"},{
+Key:1006520,Text:"SQLite databaser"},{
+Key:1006525,Text:"Paradox-databasen"},{
+Key:1006526,Text:"Databasen WebAsaph"},{
+Key:1006600,Text:"Velg VideoPsalm online biblioteket eller en annen kilde"},{
+Key:1006601,Text:"VideoPsalm elektronisk bibliotek inneholder mange samlinger på flere språk"},{
+Key:1006602,Text:"VideoPsalm online (internettforbindelse kreves under import) bibliotek"},{
+Key:1006603,Text:"Sanger i et populært, importere på din harddisk format"},{
+Key:1006604,Text:"Velg VideoPsalm online biblioteket eller en annen kilde"},{
+Key:1006605,Text:"VideoPsalm elektronisk bibliotek inneholder mange oversettelser av Bibelen i forskjellige språk"},{
+Key:1006606,Text:"VideoPsalm online (internettforbindelse kreves under import) bibliotek"},{
+Key:1006607,Text:"Bibelen i et populært, importere på din harddisk format"},{
+Key:1006608,Text:"Hva er kilden til din sanger-format?"},{
+Key:1006609,Text:"Hva er Bibelen kilde-format?"},{
+Key:1006610,Text:"Du kan importere til din VideoPsalm en bibel i et populært format lagret på PCen"},{
+Key:1006611,Text:"Du kan importere til din VideoPsalm i et populært format-sanger som er lagret på din PC"},{
+Key:1007000,Text:"Sikkerhetskopiering"},{
+Key:1007001,Text:"Vil du starte sikkerhetskopieringen av VideoPsalm i mappen
+« {0} » ?"},{
+Key:1007004,Text:"Kan ikke utføre sikkerhetskopieringen i den valgte mappen
+fordi det ligger i gjeldende mappe i VideoPsalm dokumenter
+({0})."},{
+Key:1007005,Text:"Det er ikke nok plass på stasjon {0}.
+Skal {1: #, # #} MB, og det er bare {2: #, # #} MB tilgjengelig."},{
+Key:1007006,Text:"Kan ikke fullføre sikkerhetskopien:
+
+{0}"},{
+Key:1007007,Text:"Kan ikke laste ned Microsoft .NET Framework 4.0:
+
+{0}
+
+Dette kan skyldes fravær av Internett-tilkobling.
+Sikkerhetskopieringen kan fortsette normalt,
+men du vil ikke kunne installere Microsoft .NET Framework 4.0 fra sikkerhetskopien."},{
+Key:1007008,Text:"utilgjengelig {0}"},{
+Key:1007009,Text:"Påminnelse: Sikkerhetskopiering kan ikke kopiere
+Oppsett av Microsoft .NET Framework 4.0."},{
+Key:1007010,Text:"Sikkerhetskopien er riktig fullført."},{
+Key:1007011,Text:"Vil du forlate sikkerhetskopien?"},{
+Key:1007030,Text:"Velg en mappe eller Opprett alt-i-ett for å plassere en sikkerhetskopi av VideoPsalm"},{
+Key:1007031,Text:"Sikkerhetskopien kopiere dokumenter (bøker, bibler, bilder, videoer, stiler) til plasseringen du angir, for eksempel:
+-en USB
+-en ekstern harddisk,
+-en nettverksmappe,
+-etc.
+
+<b>Sikkerhetskopiering kan du blant annet:</b>
+-du sikrer dokumentene ved å duplisere dem på et annet medium,
+-å bygge en bærbar versjon av VideoPsalm, for eksempel på en USB-pinne
+-lett overføre dokumenter på en annen datamaskin ved hjelp av gjenopprettingsfunksjonen
+-å reprodusere dokumentene for flere konfigurasjoner av samlinger med deres stiler på samme datamaskin.
+
+<b>Merk:</b> Hvis du vil synkronisere poster av VideoPsalm mellom flere datamaskiner, kan du velge mer direkte for en synkronisering som SkyDrive eller DropBox tjenesten."},{
+Key:1007032,Text:"Velg hvilke dokumenter du vil lagre:"},{
+Key:1007033,Text:"&Samlinger"},{
+Key:1007034,Text:"&Bibler"},{
+Key:1007035,Text:"&Bilder"},{
+Key:1007036,Text:"&Videoer"},{
+Key:1007037,Text:"&Lagre dokumenter på:"},{
+Key:1007038,Text:"Angi mappen der du lagrer dokumenter av VideoPsalm her.
+
+For eksempel: «E:\\Ma backup VideoPsalm.
+
+Hvis mappen ikke finnes, det er opprettet automatisk når sikkerhetskopieringen."},{
+Key:1007039,Text:"&Opprette en bærbar VideoPsalm søknad"},{
+Key:1007040,Text:"Legger til alle kjørbare filer som er nødvendige for driften av VideoPsalm til sikkerhetskopimappen.
+
+Generelt, er det på en USB-nøkkel som du vil opprette en bærbar VideoPsalm søknad.
+
+En portabel backup å kjøre VideoPsalm på en annen datamaskin, direkte fra det USB nøkkelen, uten behovet å installere VideoPsalm.
+
+Starter VideoPsalm fra USB-nøkkelen, vil du ha tilgang til alle funksjonene til VideoPsalm, inkludert sikkerhetskopien. Dette gjør det mulig for å lagre VideoPsalm på harddisken på den andre datamaskinen, så senere kjøres det uten det USB nøkkelen.
+
+<b>Viktig</b>
+Alternativer for VideoPsalm blir ikke lagt til backup.
+På de første resultatene for VideoPsalm på en gitt datamaskin må du kanskje justere VideoPsalm alternativer, for eksempel lisensen for kirken."},{
+Key:1007041,Text:"&Legge til installasjonsprogrammet for Microsoft .NET Framework 4.0"},{
+Key:1007042,Text:"For å betjene, må VideoPsalm .NET Framework 4.0 fra Microsoft. Nyere datamaskiner har ofte .NET Framework 4.0 eller forhåndsinstallert høyere. Hvis du ikke er sikker på at .NET Framework 4.0 er installert på den andre maskinen, sjekk boksen \"Legg til oppsett av .NET Framework 4.0. VideoPsalm vil da plassere på USB-pinne en kopi av oppsettet for .NET Framework 4.0 (en Internett-tilkobling kan være nødvendig å dette).
+
+Fra det USB nøkkelen, kan du enkelt installere .NET Framework 4.0 på den andre datamaskinen, før du starter VideoPsalm. Installasjonen av .NET Framework 4.0 er veldig rask og starte ikke Windows normalt.
+
+Installasjonen av .NET Framework 4.0-filen finner du i mappen for sikkerhetskopier. Denne filen heter \"dotNetFx40_Full_x86_x64.exe. For å starte installasjonen av .NET Framework 4.0 på en annen datamaskin, dobbeltklikk på denne filen."},{
+Key:1007043,Text:"&Start backup"},{
+Key:1007044,Text:"Microsoft .NET Framework 4.0-nedlasting"},{
+Key:1007045,Text:"&Mappen (mappen som lagres) VideoPsalm dokumenter:"},{
+Key:1007046,Text:"La samlinger av den angitte mappen før lagre mine"},{
+Key:1007047,Text:"Fjerne samlinger av den angitte mappen før lagre mine"},{
+Key:1007048,Text:"La bibler av den angitte mappen før der lagre mine"},{
+Key:1007049,Text:"Fjern bibler i mappen som er angitt foran er lagre mine"},{
+Key:1007050,Text:"La bildene i mappen som er angitt foran er lagre mine"},{
+Key:1007051,Text:"Slett bilder fra mappen angitt foran er lagre mine"},{
+Key:1007052,Text:"La videoer i mappen som er angitt foran er lagre mine"},{
+Key:1007053,Text:"Slette videoer fra den angitte mappen før lagre mine"},{
+Key:1007054,Text:"Velg en mappe eller opprette en for å plassere en sikkerhetskopi av VideoPsalm"},{
+Key:1007055,Text:"Tillate lyd fra mappen før er lagre mine"},{
+Key:1007056,Text:"Fjerne lyd fra mappen før lagres mine"},{
+Key:1007057,Text:"&Hørlig"},{
+Key:1008000,Text:"Gjenopprette en sikkerhetskopi"},{
+Key:1008001,Text:"Vil du gjenopprette en reservekopi av VideoPsalm fra mappen
+« {0} » ?
+
+OBS: Avhengig av hvilke alternativer du har valgt, gjeldende dokumentene blir erstattet eller slettet."},{
+Key:1008002,Text:"Skriv inn mappen fra sikkerhetskopien til å gjenopprette."},{
+Key:1008004,Text:"Kan ikke gjenopprette en sikkerhetskopi fra mappen du har valgt,
+fordi det ligger i gjeldende mappe i VideoPsalm dokumenter."},{
+Key:1008006,Text:"Kan ikke fullføre gjenopprettingen:
+
+{0}"},{
+Key:1008010,Text:"Restaureringen ble avsluttet."},{
+Key:1008011,Text:"Vil du forlate restaureringen?"},{
+Key:1008012,Text:"Gjenopprette en sikkerhetskopi"},{
+Key:1008032,Text:"Velg hvilke dokumenter du vil gjenopprette:"},{
+Key:1008033,Text:"&Samlinger"},{
+Key:1008034,Text:"&Bibler"},{
+Key:1008035,Text:"&Bilder"},{
+Key:1008036,Text:"&Videoer"},{
+Key:1008043,Text:"&Gjenopprette"},{
+Key:1008044,Text:"La mine samlinger før gjenoppretting fra sikkerhetskopi"},{
+Key:1008045,Text:"Slette mine samlinger før gjenoppretting fra sikkerhetskopi"},{
+Key:1008046,Text:"La mine bibler før gjenoppretting fra sikkerhetskopi"},{
+Key:1008047,Text:"Slette mine bibler før gjenoppretting fra sikkerhetskopi"},{
+Key:1008048,Text:"La mine bilder før gjenoppretting fra sikkerhetskopi"},{
+Key:1008049,Text:"Slette mine bilder før gjenoppretting fra sikkerhetskopi"},{
+Key:1008050,Text:"La mine videoer før gjenoppretting fra sikkerhetskopi"},{
+Key:1008051,Text:"Slette mine videoer før gjenoppretting fra sikkerhetskopi"},{
+Key:1008052,Text:"&Gjenopprette en sikkerhetskopi fra:"},{
+Key:1008053,Text:"Her angir du mappen der postene i VideoPsalm vil bli gjenopprettet.
+
+Eksempel: 'E:\\VideoPsalm'."},{
+Key:1008054,Text:"&(Mappen der sikkerhetskopien vil bli gjenopprettet) VideoPsalm dokumenter:"},{
+Key:1008055,Text:"Oppdater"},{
+Key:1008056,Text:"Velg en mappe som inneholder en sikkerhetskopi av VideoPsalm"},{
+Key:1008057,Text:"&Hørlig"},{
+Key:1008058,Text:"La meg hørlig før gjenoppretting fra sikkerhetskopi"},{
+Key:1008059,Text:"Slett min lyd før gjenoppretting fra sikkerhetskopi"},{
+Key:1008999,Text:"Videoprojektor"},{
+Key:1009000,Text:"en sang"},{
+Key:1009001,Text:"{0} sanger"},{
+Key:1009002,Text:"en liste over vers"},{
+Key:1009003,Text:"{0} lister over vers"},{
+Key:1009004,Text:"et bilde"},{
+Key:1009005,Text:"bilder av {0}"},{
+Key:1009006,Text:"Bibelen: {0}."},{
+Key:1009007,Text:"Kapittel {0}"},{
+Key:1009009,Text:"Bibler {0}"},{
+Key:1009010,Text:"Bilde: {0}."},{
+Key:1009011,Text:"{0} ({1} bilder)"},{
+Key:1009012,Text:"bilder av {0}"},{
+Key:1009013,Text:"{0} ({1} lysbilder)"},{
+Key:1009014,Text:"{0} PowerPoints"},{
+Key:1009015,Text:"Lasting standardstilen"},{
+Key:1009016,Text:"Lasting av stilen av samlingene"},{
+Key:1009017,Text:"Lasting av samlingen {0}."},{
+Key:1009018,Text:"Lasting av stilen av bibler"},{
+Key:1009019,Text:"Lasting av Bibelen {0}."},{
+Key:1009020,Text:"Fil: {0}"},{
+Key:1009100,Text:"{0} ({1} sanger)"},{
+Key:1009101,Text:"{0} (en enkelt sang)"},{
+Key:1009102,Text:"{0} (ingen vokal)"},{
+Key:1009103,Text:"Det finnes allerede en fil {0}.
+der VideoPsalm vil lagre den nye samlingen {1}.
+
+Det er umulig å lagre denne nye kolleksjonen.
+Gi en forkortelse eller et unikt navn for denne nye kolleksjonen og prøve å lagre på nytt."},{
+Key:1009104,Text:"Registrering mislyktes"},{
+Key:1009105,Text:"Kunne ikke flytte filen
+{0}
+ormer
+{1}.
+
+{2}"},{
+Key:1009107,Text:"{0} Samlinger"},{
+Key:1009110,Text:"{0} {1}: {2} ({3} vers)"},{
+Key:1009111,Text:"Video: {0}."},{
+Key:1009112,Text:"{0} ({1} videoer)"},{
+Key:1009113,Text:"videoer {0}"},{
+Key:1009114,Text:"Kan ikke lagre samlingen.
+Navnet samlingen skal kunne lagre den."},{
+Key:1010000,Text:"Se flere farger"},{
+Key:1010001,Text:">>"},{
+Key:1010002,Text:"&Lukk"},{
+Key:1010003,Text:"&Gjennomsiktig"},{
+Key:1010004,Text:"Avbryt"},{
+Key:1010005,Text:"ok"},{
+Key:1010006,Text:"Vise færre farger"},{
+Key:1010007,Text:"<<"},{
+Key:1010008,Text:"R"},{
+Key:1010009,Text:"V"},{
+Key:1010010,Text:"(B)"},{
+Key:1010011,Text:"T"},{
+Key:1011000,Text:"1. Lukk uten å sette inn felt"},{
+Key:1011001,Text:"Forkortelse for samlingen"},{
+Key:1011002,Text:"Alias"},{
+Key:1011003,Text:"Forfatter av sangen"},{
+Key:1011004,Text:"Forfatter av samlingen"},{
+Key:1011005,Text:"CAPO"},{
+Key:1011006,Text:"Nøkkel"},{
+Key:1011007,Text:"Komponist"},{
+Key:1011008,Text:"Copyright av sangen"},{
+Key:1011009,Text:"Opphavsretten til boken"},{
+Key:1011010,Text:"Etiketten for verset"},{
+Key:1011011,Text:"Etikett og vers nummer"},{
+Key:1011012,Text:"Format"},{
+Key:1011013,Text:"Licence av kirken"},{
+Key:1011014,Text:"Nøkkel rad"},{
+Key:1011015,Text:"Notat 1"},{
+Key:1011016,Text:"Memo 2"},{
+Key:1011017,Text:"Notat 3"},{
+Key:1011018,Text:"CCLI"},{
+Key:1011019,Text:"Plasseringen av verset"},{
+Key:1011020,Text:"Verset nr."},{
+Key:1011021,Text:"Chant nr."},{
+Key:1011022,Text:"Merk av verset"},{
+Key:1011023,Text:"Antall sanger fra samlingen"},{
+Key:1011024,Text:"Antall vers"},{
+Key:1011025,Text:"Referanse"},{
+Key:1011026,Text:"Sekvensen på vers"},{
+Key:1011027,Text:"Signatur"},{
+Key:1011028,Text:"Tempo"},{
+Key:1011029,Text:"Tema"},{
+Key:1011030,Text:"Tittelen på sangen"},{
+Key:1011031,Text:"Tittelen på boken"},{
+Key:1011032,Text:"Tone"},{
+Key:1011033,Text:"3. Fjerne alle felt"},{
+Key:1011034,Text:"2. Bruk standardfelt"},{
+Key:1011035,Text:"Administrator"},{
+Key:1011036,Text:"Språk"},{
+Key:1011037,Text:"Redaktør"},{
+Key:1011038,Text:"Transponering"},{
+Key:1011101,Text:"Forkortelse av Bibelen"},{
+Key:1011102,Text:"Forkortelse av boken"},{
+Key:1011103,Text:"Kapittel"},{
+Key:1011104,Text:"Copyright av Bibelen"},{
+Key:1011105,Text:"Beskrivelse av Bibelen"},{
+Key:1011107,Text:"Redaktør"},{
+Key:1011108,Text:"Språk"},{
+Key:1011109,Text:"Navnet på Bibelen"},{
+Key:1011110,Text:"Navnet på boken"},{
+Key:1011111,Text:"Antall kapitlene i en bok"},{
+Key:1011112,Text:"Antall vers av kapittel"},{
+Key:1011113,Text:"Testamente"},{
+Key:1011114,Text:"Vers"},{
+Key:1011115,Text:"Administratoren av Bibelen"},{
+Key:1011200,Text:"&Sette inn et felt:"},{
+Key:1011201,Text:"Formatere teksten som vises i toppteksten eller bunnteksten strofen eller vers"},{
+Key:1011202,Text:"Angi teksten som skal vises.
+Denne teksten er gratis, og generelt består av en rekke forhåndsdefinerte felt.
+
+Eksempler på forhåndsdefinerte felt for en sang:
+-tittelen på sangen: <b>[sangtittel]</b>
+-antall sangen: <b>[sangen nr.]</b>
+-tittelen på boken: <b>[tittel av samlingen]</b>
+-forkortelsen for samlingen: <b>[forkortelse av samlingen]</b>
+-etc.
+
+For et vers:
+-navnet på boken: <b>[bok navn]</b>
+-Kapittel: <b>[kapittel]</b>
+-verset: <b>[vers]</b>
+full-referanse:
+  <b>[Bok navn] [kapittel]: [vers]</b>
+-navnet på Bibelen: <b>[navn på Bibelen]</b>
+-etc.
+
+På tidspunktet for video-projeksjon erstatter VideoPsalm feltene forutbestemt av deres verdi. 
+
+De forhåndsdefinerte feltene skal være omgitt av klammeparenteser <b>[]</b>. De må skrives inn uten å mislykkes, og observere de store og små.
+
+<b>For å enkelt sette inn et forhåndsdefinerte felt, kan du bruke rullegardinlisten nedenfor rett inn et felt.</b>
+
+Formatet kan bestå av flere linjer.
+
+Hvis du vil gjenopprette verdien originalformatet, fjerne det helt (Ctrl + A, slette)."},{
+Key:1011203,Text:"En liste med forhåndsdefinerte felt"},{
+Key:1011204,Text:"Hvis du vil sette inn et forhåndsdefinerte felt, velger du den i listen.
+
+Feltet settes automatisk i teksten ovenfor, boksen ved innsettingspunktet."},{
+Key:1012000,Text:"Filen {0} finnes allerede.
+
+Vil du erstatte den?"},{
+Key:1012001,Text:"Eksisterende fil"},{
+Key:1013000,Text:"Skjul forhåndsvisning"},{
+Key:1013001,Text:"Vise forhåndsvisning"},{
+Key:1013002,Text:"Forstørre proporsjonalt fyller hele skjermen"},{
+Key:1013003,Text:"Redusere til skjermen hele"},{
+Key:1013004,Text:"Deaktivere gjentakelsen"},{
+Key:1013005,Text:"Aktivere gjenta"},{
+Key:1013006,Text:"Starte fra begynnelsen"},{
+Key:1013007,Text:"Suspendere"},{
+Key:1013008,Text:"Les"},{
+Key:1013009,Text:"Gå til slutten"},{
+Key:1013010,Text:"Lyd"},{
+Key:1013011,Text:"Dempet"},{
+Key:1013012,Text:"Volum"},{
+Key:1013013,Text:"Forskning"},{
+Key:1013014,Text:"Globalt angi grensene for videoen"},{
+Key:1013015,Text:"Angi grenser videoen for hvert vers"},{
+Key:1013016,Text:"Forløpt tid"},{
+Key:1013017,Text:"Total tid"},{
+Key:1013018,Text:"Gjenstående tid"},{
+Key:1013019,Text:"Klikk for å flytte til den neste verdien"},{
+Key:1018000,Text:"MN"},{
+Key:1018001,Text:"min"},{
+Key:1018002,Text:"minutt"},{
+Key:1018003,Text:"minutter"},{
+Key:1018004,Text:"h"},{
+Key:1018005,Text:"tid"},{
+Key:1018006,Text:"timer"},{
+Key:1018007,Text:"j"},{
+Key:1018008,Text:"dag"},{
+Key:1018009,Text:"dager"},{
+Key:1018010,Text:"SEM"},{
+Key:1018011,Text:"uke"},{
+Key:1018012,Text:"uker"},{
+Key:1018013,Text:"måned"},{
+Key:1018014,Text:"måned"},{
+Key:1018015,Text:"år"},{
+Key:1018016,Text:"år"},{
+Key:1019000,Text:"Lukk"},{
+Key:1019001,Text:"Redusere"},{
+Key:1019002,Text:"Forstørre"},{
+Key:1019003,Text:"Lavere nivå"},{
+Key:1019004,Text:"hjelp"},{
+Key:1019100,Text:"&Søk"},{
+Key:1019101,Text:"&Slette"},{
+Key:1019301,Text:"&ok"},{
+Key:1019302,Text:"&Avbryt"},{
+Key:1019303,Text:"&ja"},{
+Key:1019304,Text:"&Ikke"},{
+Key:1019305,Text:"&Forlate"},{
+Key:1019306,Text:"&Prøv på nytt"},{
+Key:1019307,Text:"&Ignorere"},{
+Key:1019308,Text:"&Avbryt"},{
+Key:1019309,Text:"&Kutt"},{
+Key:1019310,Text:"&Kopi"},{
+Key:1019311,Text:"&Lim inn"},{
+Key:1019312,Text:"&Slette"},{
+Key:1019313,Text:"&Velg alle"},{
+Key:1020000,Text:"Genesis"},{
+Key:1020001,Text:"Andre Mosebok"},{
+Key:1020002,Text:"Tredje Mosebok"},{
+Key:1020003,Text:"Tall"},{
+Key:1020004,Text:"Femte Mosebok"},{
+Key:1020005,Text:"Josva"},{
+Key:1020006,Text:"Dommere"},{
+Key:1020007,Text:"Ruth"},{
+Key:1020008,Text:"1 Samuel"},{
+Key:1020009,Text:"2 Samuel"},{
+Key:1020010,Text:"1 Kongebok"},{
+Key:1020011,Text:"2 Konger"},{
+Key:1020012,Text:"1 Krønikebok"},{
+Key:1020013,Text:"2 Krønikebok"},{
+Key:1020014,Text:"Ezra"},{
+Key:1020015,Text:"Nehemja"},{
+Key:1020016,Text:"Esther"},{
+Key:1020017,Text:"Jobb"},{
+Key:1020018,Text:"Salmer"},{
+Key:1020019,Text:"Ordspråkene"},{
+Key:1020020,Text:"Forkynneren"},{
+Key:1020021,Text:"Høysangen"},{
+Key:1020022,Text:"Jesaja"},{
+Key:1020023,Text:"Jeremia"},{
+Key:1020024,Text:"Klagesangene Jeremias"},{
+Key:1020025,Text:"Esekiel"},{
+Key:1020026,Text:"Daniel"},{
+Key:1020027,Text:"Hosea"},{
+Key:1020028,Text:"Joel"},{
+Key:1020029,Text:"Amos"},{
+Key:1020030,Text:"Obadja"},{
+Key:1020031,Text:"Jonas"},{
+Key:1020032,Text:"MIKA"},{
+Key:1020033,Text:"Nahum"},{
+Key:1020034,Text:"Habakkuk"},{
+Key:1020035,Text:"Sefanja"},{
+Key:1020036,Text:"Haggai"},{
+Key:1020037,Text:"Sakarja"},{
+Key:1020038,Text:"Malaki"},{
+Key:1020039,Text:"Matthew"},{
+Key:1020040,Text:"Marc"},{
+Key:1020041,Text:"Luc"},{
+Key:1020042,Text:"Jean"},{
+Key:1020043,Text:"Apostlenes gjerninger"},{
+Key:1020044,Text:"Romerne"},{
+Key:1020045,Text:"1 Kor"},{
+Key:1020046,Text:"2 Kor"},{
+Key:1020047,Text:"Galaterbrevet"},{
+Key:1020048,Text:"Efeserne"},{
+Key:1020049,Text:"Filipperne"},{
+Key:1020050,Text:"Kolosserne"},{
+Key:1020051,Text:"1 Tessaloniker"},{
+Key:1020052,Text:"2 Tess"},{
+Key:1020053,Text:"1 Timoteus"},{
+Key:1020054,Text:"2 Timoteus"},{
+Key:1020055,Text:"Tite"},{
+Key:1020056,Text:"Filemon"},{
+Key:1020057,Text:"Hebreerne"},{
+Key:1020058,Text:"Jacques"},{
+Key:1020059,Text:"1 Peter"},{
+Key:1020060,Text:"2 Peter"},{
+Key:1020061,Text:"1 Joh"},{
+Key:1020062,Text:"2 John"},{
+Key:1020063,Text:"3 Jean"},{
+Key:1020064,Text:"Jude"},{
+Key:1020065,Text:"Apocalypse"},{
+Key:1020100,Text:"GN"},{
+Key:1020101,Text:"Ex"},{
+Key:1020102,Text:"LV"},{
+Key:1020103,Text:"NB"},{
+Key:1020104,Text:"DT"},{
+Key:1020105,Text:"Jos"},{
+Key:1020106,Text:"JG"},{
+Key:1020107,Text:"RT @"},{
+Key:1020108,Text:"1 S"},{
+Key:1020109,Text:"2 S"},{
+Key:1020110,Text:"1R"},{
+Key:1020111,Text:"2R"},{
+Key:1020112,Text:"1Ch"},{
+Key:1020113,Text:"2 Kanalar"},{
+Key:1020114,Text:"ESD"},{
+Key:1020115,Text:"Gjør"},{
+Key:1020116,Text:"Er"},{
+Key:1020117,Text:"JB"},{
+Key:1020118,Text:"PS"},{
+Key:1020119,Text:"PR"},{
+Key:1020120,Text:"EC"},{
+Key:1020121,Text:"CT"},{
+Key:1020122,Text:"ES"},{
+Key:1020123,Text:"Jr"},{
+Key:1020124,Text:"LM"},{
+Key:1020125,Text:"EZ"},{
+Key:1020126,Text:"DN"},{
+Key:1020127,Text:"OS"},{
+Key:1020128,Text:"JL"},{
+Key:1020129,Text:"Am"},{
+Key:1020130,Text:"AB"},{
+Key:1020131,Text:"Jon"},{
+Key:1020132,Text:"MI"},{
+Key:1020133,Text:"NA"},{
+Key:1020134,Text:"HA"},{
+Key:1020135,Text:"Så"},{
+Key:1020136,Text:"AG"},{
+Key:1020137,Text:"Za"},{
+Key:1020138,Text:"Ml"},{
+Key:1020139,Text:"MT"},{
+Key:1020140,Text:"MC"},{
+Key:1020141,Text:"LC"},{
+Key:1020142,Text:"JN"},{
+Key:1020143,Text:"AC"},{
+Key:1020144,Text:"RM"},{
+Key:1020145,Text:"1Co"},{
+Key:1020146,Text:"2Co"},{
+Key:1020147,Text:"GA"},{
+Key:1020148,Text:"EP"},{
+Key:1020149,Text:"PH"},{
+Key:1020150,Text:"Col"},{
+Key:1020151,Text:"1Th"},{
+Key:1020152,Text:"2Th"},{
+Key:1020153,Text:"Rase"},{
+Key:1020154,Text:"2Tm"},{
+Key:1020155,Text:"TT"},{
+Key:1020156,Text:"PHM"},{
+Key:1020157,Text:"Han"},{
+Key:1020158,Text:"JC"},{
+Key:1020159,Text:"1 P"},{
+Key:1020160,Text:"2 P"},{
+Key:1020161,Text:"1 Joh"},{
+Key:1020162,Text:"2Jn"},{
+Key:1020163,Text:"3Jn"},{
+Key:1020164,Text:"JD"},{
+Key:1020165,Text:"AP"}]}
