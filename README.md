@@ -7,5 +7,7 @@ git clone https://github.com/BenjaminRA/acordes_json_VideoPsalm.git
 3) Copiar el contenido de este repositorio en la capeta ubicada en 
 ```
 C:\Users\Public\Documents\VideoPsalm
+o
+C:\Usuarios\Acceso Público\Documentos Públicos\VideoPsalm
 ```
 reemplazar cualquier cosa que esté en sa carpeta con lo que se ha descargado.
